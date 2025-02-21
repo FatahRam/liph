@@ -1,0 +1,1122 @@
+[
+{
+  "model": "orders.order",
+  "pk": 45,
+  "fields": {
+    "added": "2022-09-14T12:54:10.869Z",
+    "client": 5302,
+    "destination": null,
+    "user": [
+      "aminadz"
+    ],
+    "observation": "En urgence",
+    "status": "initial",
+    "validation_date": null,
+    "done_date": null
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 46,
+  "fields": {
+    "added": "2022-09-28T22:11:09.653Z",
+    "client": 1894,
+    "destination": null,
+    "user": [
+      "aminadz"
+    ],
+    "observation": "",
+    "status": "initial",
+    "validation_date": null,
+    "done_date": null
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 47,
+  "fields": {
+    "added": "2022-09-28T22:11:39.965Z",
+    "client": 5303,
+    "destination": null,
+    "user": [
+      "aminadz"
+    ],
+    "observation": "",
+    "status": "initial",
+    "validation_date": null,
+    "done_date": null
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 48,
+  "fields": {
+    "added": "2022-09-28T22:12:50.234Z",
+    "client": 3456,
+    "destination": null,
+    "user": [
+      "aminadz"
+    ],
+    "observation": "",
+    "status": "initial",
+    "validation_date": null,
+    "done_date": null
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 49,
+  "fields": {
+    "added": "2022-09-28T23:17:16.244Z",
+    "client": 744,
+    "destination": null,
+    "user": [
+      "nadadz"
+    ],
+    "observation": "Hdvd d",
+    "status": "traite",
+    "validation_date": null,
+    "done_date": null
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 50,
+  "fields": {
+    "added": "2022-09-28T23:32:56.371Z",
+    "client": 744,
+    "destination": null,
+    "user": [
+      "nadadz"
+    ],
+    "observation": "Obs",
+    "status": "initial",
+    "validation_date": null,
+    "done_date": null
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 51,
+  "fields": {
+    "added": "2022-10-01T18:37:15.547Z",
+    "client": 5864,
+    "destination": null,
+    "user": [
+      "aimen"
+    ],
+    "observation": "sfsdfsdf",
+    "status": "traite",
+    "validation_date": "2022-10-03",
+    "done_date": "2022-10-03"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 52,
+  "fields": {
+    "added": "2022-10-01T18:39:39.608Z",
+    "client": 4258,
+    "destination": null,
+    "user": [
+      "aimen"
+    ],
+    "observation": "dsfsdfsfdsf",
+    "status": "traite",
+    "validation_date": "2022-10-03",
+    "done_date": "2022-10-03"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 53,
+  "fields": {
+    "added": "2022-10-01T18:45:06.413Z",
+    "client": 15237,
+    "destination": null,
+    "user": [
+      "aimen"
+    ],
+    "observation": "observation",
+    "status": "traite",
+    "validation_date": "2022-10-01",
+    "done_date": "2022-10-01"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 54,
+  "fields": {
+    "added": "2022-10-01T18:49:49.233Z",
+    "client": 1342,
+    "destination": 6,
+    "user": [
+      "aimen"
+    ],
+    "observation": "observation",
+    "status": "traite",
+    "validation_date": "2022-10-01",
+    "done_date": "2022-10-01"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 55,
+  "fields": {
+    "added": "2022-10-11T12:49:17.515Z",
+    "client": 5302,
+    "destination": null,
+    "user": [
+      "aminadz"
+    ],
+    "observation": "",
+    "status": "initial",
+    "validation_date": null,
+    "done_date": null
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 56,
+  "fields": {
+    "added": "2022-10-11T17:01:25.406Z",
+    "client": 5302,
+    "destination": null,
+    "user": [
+      "aminadz"
+    ],
+    "observation": "",
+    "status": "initial",
+    "validation_date": null,
+    "done_date": null
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 57,
+  "fields": {
+    "added": "2022-10-20T15:04:57.049Z",
+    "client": 1894,
+    "destination": null,
+    "user": [
+      "aminadz"
+    ],
+    "observation": "",
+    "status": "initial",
+    "validation_date": null,
+    "done_date": null
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 86,
+  "fields": {
+    "order": 45,
+    "produit": 2,
+    "qtt": 150
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 87,
+  "fields": {
+    "order": 46,
+    "produit": 1,
+    "qtt": 100
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 88,
+  "fields": {
+    "order": 46,
+    "produit": 2,
+    "qtt": 150
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 89,
+  "fields": {
+    "order": 46,
+    "produit": 5,
+    "qtt": 20
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 90,
+  "fields": {
+    "order": 46,
+    "produit": 18,
+    "qtt": 150
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 91,
+  "fields": {
+    "order": 47,
+    "produit": 1,
+    "qtt": 100
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 92,
+  "fields": {
+    "order": 48,
+    "produit": 1,
+    "qtt": 100
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 93,
+  "fields": {
+    "order": 48,
+    "produit": 18,
+    "qtt": 100
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 94,
+  "fields": {
+    "order": 48,
+    "produit": 20,
+    "qtt": 100
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 95,
+  "fields": {
+    "order": 48,
+    "produit": 5,
+    "qtt": 25
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 96,
+  "fields": {
+    "order": 48,
+    "produit": 4,
+    "qtt": 100
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 97,
+  "fields": {
+    "order": 49,
+    "produit": 1,
+    "qtt": 10
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 98,
+  "fields": {
+    "order": 50,
+    "produit": 1,
+    "qtt": 10
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 99,
+  "fields": {
+    "order": 51,
+    "produit": 1,
+    "qtt": 10
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 100,
+  "fields": {
+    "order": 52,
+    "produit": 1,
+    "qtt": 10
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 101,
+  "fields": {
+    "order": 53,
+    "produit": 1,
+    "qtt": 20
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 102,
+  "fields": {
+    "order": 54,
+    "produit": 1,
+    "qtt": 10
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 103,
+  "fields": {
+    "order": 55,
+    "produit": 2,
+    "qtt": 150
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 104,
+  "fields": {
+    "order": 56,
+    "produit": 19,
+    "qtt": 30
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 105,
+  "fields": {
+    "order": 57,
+    "produit": 2,
+    "qtt": 15
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 106,
+  "fields": {
+    "order": 57,
+    "produit": 4,
+    "qtt": 100
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 107,
+  "fields": {
+    "order": 57,
+    "produit": 5,
+    "qtt": 100
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 108,
+  "fields": {
+    "order": 57,
+    "produit": 20,
+    "qtt": 100
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 1,
+  "fields": {
+    "added": "2022-01-08T00:00:00Z",
+    "user": [
+      "aimen"
+    ],
+    "observation": "observation de aimen",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 2,
+  "fields": {
+    "added": "2022-01-08T00:00:00Z",
+    "user": [
+      "aimen"
+    ],
+    "observation": "Observ",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 3,
+  "fields": {
+    "added": "2022-01-08T00:00:00Z",
+    "user": [
+      "aimen"
+    ],
+    "observation": "Aimen bon de sortie",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 4,
+  "fields": {
+    "added": "2022-01-16T00:00:00Z",
+    "user": [
+      "tawfikdz"
+    ],
+    "observation": "",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 5,
+  "fields": {
+    "added": "2022-02-01T00:00:00Z",
+    "user": [
+      "aimen"
+    ],
+    "observation": "Vdjdj",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 6,
+  "fields": {
+    "added": "2022-02-01T00:00:00Z",
+    "user": [
+      "aimen"
+    ],
+    "observation": "Hdkbf",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 7,
+  "fields": {
+    "added": "2022-02-06T00:00:00Z",
+    "user": [
+      "fayzadz"
+    ],
+    "observation": "Je demande �chantillons  pour c'est medecin",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 8,
+  "fields": {
+    "added": "2022-03-12T00:00:00Z",
+    "user": [
+      "nadadz"
+    ],
+    "observation": "pppppp",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 9,
+  "fields": {
+    "added": "2022-03-18T00:00:00Z",
+    "user": [
+      "aimen"
+    ],
+    "observation": "Fsbgsbs",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 10,
+  "fields": {
+    "added": "2022-03-31T01:00:42.565Z",
+    "user": [
+      "aimen"
+    ],
+    "observation": "Observ",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 11,
+  "fields": {
+    "added": "2022-06-22T11:11:15.664Z",
+    "user": [
+      "mohammed"
+    ],
+    "observation": "200 fiches posologiques sub12\n200 fiches posologiques advagen \n200 fiches posologiques yes CAL+ \n\nOrdonnanciers si disponibles",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 12,
+  "fields": {
+    "added": "2022-06-25T15:20:01.196Z",
+    "user": [
+      "aminadz"
+    ],
+    "observation": "",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 13,
+  "fields": {
+    "added": "2022-06-25T15:20:20.696Z",
+    "user": [
+      "aminadz"
+    ],
+    "observation": "Dr. Beressa dermatologue amie",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 14,
+  "fields": {
+    "added": "2022-06-25T15:22:09.517Z",
+    "user": [
+      "aminadz"
+    ],
+    "observation": "Dr. Beressa dermatologue amie",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 15,
+  "fields": {
+    "added": "2022-06-27T21:11:10.273Z",
+    "user": [
+      "aminadz"
+    ],
+    "observation": "Dr. Derbal",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 16,
+  "fields": {
+    "added": "2022-06-27T21:11:26.446Z",
+    "user": [
+      "aminadz"
+    ],
+    "observation": "Dr. Derbal",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 17,
+  "fields": {
+    "added": "2022-07-26T14:31:42.382Z",
+    "user": [
+      "HANIADZ"
+    ],
+    "observation": "�chantillons pour hania pour les m�decins afin de tester son efficacit�",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 18,
+  "fields": {
+    "added": "2022-10-01T18:14:13.591Z",
+    "user": [
+      "aimen"
+    ],
+    "observation": "observation",
+    "status": "traite"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 19,
+  "fields": {
+    "added": "2022-10-03T19:52:42.137Z",
+    "user": [
+      "fayzadz"
+    ],
+    "observation": "Je demande des échantillons  pour les médecins de ces  wilaya :   tiziouzou boumerdes et bejaia et ghardaia",
+    "status": "traite"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 20,
+  "fields": {
+    "added": "2022-10-23T11:47:13.520Z",
+    "user": [
+      "aminadz"
+    ],
+    "observation": "Elle a prescrit déjà le produit dr. mesli",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 21,
+  "fields": {
+    "added": "2022-10-26T10:18:02.571Z",
+    "user": [
+      "aminadz"
+    ],
+    "observation": "Dr. labed",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 22,
+  "fields": {
+    "added": "2022-10-26T10:19:00.766Z",
+    "user": [
+      "aminadz"
+    ],
+    "observation": "Dr. Chaabani",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 23,
+  "fields": {
+    "added": "2022-10-30T09:46:28.649Z",
+    "user": [
+      "tawfikdz"
+    ],
+    "observation": "طلب الموافقة للحصول على :\n3علب yes cal plus للدكتور حدانة طه ياسين \n1 علبة dhea plus للدكتورة مروى عيشوش",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 24,
+  "fields": {
+    "added": "2022-10-31T08:38:23.921Z",
+    "user": [
+      "FOUADDZ"
+    ],
+    "observation": "Échantillons pour Dr aissaoui",
+    "status": "initial"
+  }
+},
+{
+  "model": "orders.exitorder",
+  "pk": 25,
+  "fields": {
+    "added": "2022-11-06T13:20:56.500Z",
+    "user": [
+      "fayzadz"
+    ],
+    "observation": "Demande 5 échantillon  de fertifite femme pour mes médecin",
+    "status": "traite"
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 1,
+  "fields": {
+    "order": 1,
+    "produit": 1,
+    "qtt": 20
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 2,
+  "fields": {
+    "order": 1,
+    "produit": 4,
+    "qtt": 5
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 5,
+  "fields": {
+    "order": 3,
+    "produit": 3,
+    "qtt": 20
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 7,
+  "fields": {
+    "order": 2,
+    "produit": 1,
+    "qtt": 20
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 8,
+  "fields": {
+    "order": 2,
+    "produit": 2,
+    "qtt": 10
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 9,
+  "fields": {
+    "order": 4,
+    "produit": 18,
+    "qtt": 1
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 10,
+  "fields": {
+    "order": 4,
+    "produit": 5,
+    "qtt": 5
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 11,
+  "fields": {
+    "order": 4,
+    "produit": 4,
+    "qtt": 5
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 12,
+  "fields": {
+    "order": 4,
+    "produit": 3,
+    "qtt": 5
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 13,
+  "fields": {
+    "order": 4,
+    "produit": 2,
+    "qtt": 5
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 14,
+  "fields": {
+    "order": 4,
+    "produit": 1,
+    "qtt": 5
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 15,
+  "fields": {
+    "order": 5,
+    "produit": 1,
+    "qtt": 0
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 16,
+  "fields": {
+    "order": 6,
+    "produit": 1,
+    "qtt": 407
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 22,
+  "fields": {
+    "order": 8,
+    "produit": 1,
+    "qtt": 9
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 23,
+  "fields": {
+    "order": 9,
+    "produit": 1,
+    "qtt": 0
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 24,
+  "fields": {
+    "order": 10,
+    "produit": 1,
+    "qtt": 10
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 25,
+  "fields": {
+    "order": 11,
+    "produit": 20,
+    "qtt": 15
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 26,
+  "fields": {
+    "order": 11,
+    "produit": 4,
+    "qtt": 15
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 27,
+  "fields": {
+    "order": 11,
+    "produit": 12,
+    "qtt": 15
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 28,
+  "fields": {
+    "order": 12,
+    "produit": 12,
+    "qtt": 0
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 29,
+  "fields": {
+    "order": 12,
+    "produit": 19,
+    "qtt": 0
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 30,
+  "fields": {
+    "order": 13,
+    "produit": 12,
+    "qtt": 0
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 31,
+  "fields": {
+    "order": 13,
+    "produit": 19,
+    "qtt": 0
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 32,
+  "fields": {
+    "order": 14,
+    "produit": 12,
+    "qtt": 0
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 33,
+  "fields": {
+    "order": 14,
+    "produit": 19,
+    "qtt": 0
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 34,
+  "fields": {
+    "order": 15,
+    "produit": 12,
+    "qtt": 0
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 35,
+  "fields": {
+    "order": 15,
+    "produit": 19,
+    "qtt": 0
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 36,
+  "fields": {
+    "order": 16,
+    "produit": 12,
+    "qtt": 0
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 37,
+  "fields": {
+    "order": 16,
+    "produit": 19,
+    "qtt": 0
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 38,
+  "fields": {
+    "order": 17,
+    "produit": 20,
+    "qtt": 3
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 39,
+  "fields": {
+    "order": 17,
+    "produit": 12,
+    "qtt": 2
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 40,
+  "fields": {
+    "order": 18,
+    "produit": 1,
+    "qtt": 10
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 41,
+  "fields": {
+    "order": 7,
+    "produit": 2,
+    "qtt": 5
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 42,
+  "fields": {
+    "order": 7,
+    "produit": 1,
+    "qtt": 5
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 43,
+  "fields": {
+    "order": 7,
+    "produit": 3,
+    "qtt": 5
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 44,
+  "fields": {
+    "order": 7,
+    "produit": 5,
+    "qtt": 5
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 45,
+  "fields": {
+    "order": 7,
+    "produit": 18,
+    "qtt": 5
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 46,
+  "fields": {
+    "order": 20,
+    "produit": 19,
+    "qtt": 1
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 47,
+  "fields": {
+    "order": 21,
+    "produit": 19,
+    "qtt": 0
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 48,
+  "fields": {
+    "order": 22,
+    "produit": 19,
+    "qtt": 1
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 49,
+  "fields": {
+    "order": 22,
+    "produit": 20,
+    "qtt": 1
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 52,
+  "fields": {
+    "order": 23,
+    "produit": 4,
+    "qtt": 3
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 53,
+  "fields": {
+    "order": 23,
+    "produit": 18,
+    "qtt": 1
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 54,
+  "fields": {
+    "order": 24,
+    "produit": 12,
+    "qtt": 1
+  }
+},
+{
+  "model": "orders.exitorderitem",
+  "pk": 55,
+  "fields": {
+    "order": 24,
+    "produit": 19,
+    "qtt": 1
+  }
+}
+]

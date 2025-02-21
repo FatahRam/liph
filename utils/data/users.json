@@ -1,0 +1,8588 @@
+calleeddd
+heree serializer called 
+[
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "!  ALL PERMISSIONS  !",
+    "permissions": [
+      [
+        "add_userfile",
+        "accounts",
+        "userfile"
+      ],
+      [
+        "change_userfile",
+        "accounts",
+        "userfile"
+      ],
+      [
+        "delete_userfile",
+        "accounts",
+        "userfile"
+      ],
+      [
+        "view_userfile",
+        "accounts",
+        "userfile"
+      ],
+      [
+        "add_userproduct",
+        "accounts",
+        "userproduct"
+      ],
+      [
+        "change_userproduct",
+        "accounts",
+        "userproduct"
+      ],
+      [
+        "delete_userproduct",
+        "accounts",
+        "userproduct"
+      ],
+      [
+        "view_userproduct",
+        "accounts",
+        "userproduct"
+      ],
+      [
+        "add_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "change_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "delete_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "view_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "add_userproxy",
+        "accounts",
+        "userproxy"
+      ],
+      [
+        "change_userproxy",
+        "accounts",
+        "userproxy"
+      ],
+      [
+        "delete_userproxy",
+        "accounts",
+        "userproxy"
+      ],
+      [
+        "view_userproxy",
+        "accounts",
+        "userproxy"
+      ],
+      [
+        "add_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "change_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "delete_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "view_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "add_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "change_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "delete_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "view_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "add_logentry",
+        "admin",
+        "logentry"
+      ],
+      [
+        "change_logentry",
+        "admin",
+        "logentry"
+      ],
+      [
+        "delete_logentry",
+        "admin",
+        "logentry"
+      ],
+      [
+        "view_logentry",
+        "admin",
+        "logentry"
+      ],
+      [
+        "add_group",
+        "auth",
+        "group"
+      ],
+      [
+        "change_group",
+        "auth",
+        "group"
+      ],
+      [
+        "delete_group",
+        "auth",
+        "group"
+      ],
+      [
+        "view_group",
+        "auth",
+        "group"
+      ],
+      [
+        "add_permission",
+        "auth",
+        "permission"
+      ],
+      [
+        "change_permission",
+        "auth",
+        "permission"
+      ],
+      [
+        "delete_permission",
+        "auth",
+        "permission"
+      ],
+      [
+        "view_permission",
+        "auth",
+        "permission"
+      ],
+      [
+        "add_user",
+        "auth",
+        "user"
+      ],
+      [
+        "change_user",
+        "auth",
+        "user"
+      ],
+      [
+        "delete_user",
+        "auth",
+        "user"
+      ],
+      [
+        "view_user",
+        "auth",
+        "user"
+      ],
+      [
+        "add_client",
+        "clients",
+        "client"
+      ],
+      [
+        "change_client",
+        "clients",
+        "client"
+      ],
+      [
+        "delete_client",
+        "clients",
+        "client"
+      ],
+      [
+        "view_client",
+        "clients",
+        "client"
+      ],
+      [
+        "add_monthcomment",
+        "clients",
+        "monthcomment"
+      ],
+      [
+        "change_monthcomment",
+        "clients",
+        "monthcomment"
+      ],
+      [
+        "delete_monthcomment",
+        "clients",
+        "monthcomment"
+      ],
+      [
+        "view_monthcomment",
+        "clients",
+        "monthcomment"
+      ],
+      [
+        "add_order",
+        "clients",
+        "order"
+      ],
+      [
+        "change_order",
+        "clients",
+        "order"
+      ],
+      [
+        "delete_order",
+        "clients",
+        "order"
+      ],
+      [
+        "view_order",
+        "clients",
+        "order"
+      ],
+      [
+        "add_orderproduct",
+        "clients",
+        "orderproduct"
+      ],
+      [
+        "change_orderproduct",
+        "clients",
+        "orderproduct"
+      ],
+      [
+        "delete_orderproduct",
+        "clients",
+        "orderproduct"
+      ],
+      [
+        "view_orderproduct",
+        "clients",
+        "orderproduct"
+      ],
+      [
+        "add_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "change_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "delete_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "view_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "add_ordersourceproduct",
+        "clients",
+        "ordersourceproduct"
+      ],
+      [
+        "change_ordersourceproduct",
+        "clients",
+        "ordersourceproduct"
+      ],
+      [
+        "delete_ordersourceproduct",
+        "clients",
+        "ordersourceproduct"
+      ],
+      [
+        "view_ordersourceproduct",
+        "clients",
+        "ordersourceproduct"
+      ],
+      [
+        "add_source",
+        "clients",
+        "source"
+      ],
+      [
+        "change_source",
+        "clients",
+        "source"
+      ],
+      [
+        "delete_source",
+        "clients",
+        "source"
+      ],
+      [
+        "view_source",
+        "clients",
+        "source"
+      ],
+      [
+        "add_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "change_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "delete_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "view_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "add_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "change_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "delete_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "view_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "add_company",
+        "company",
+        "company"
+      ],
+      [
+        "change_company",
+        "company",
+        "company"
+      ],
+      [
+        "delete_company",
+        "company",
+        "company"
+      ],
+      [
+        "view_company",
+        "company",
+        "company"
+      ],
+      [
+        "add_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "change_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "delete_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "view_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "add_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "change_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "delete_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "view_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "add_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "change_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "delete_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "view_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "add_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "change_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "delete_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "view_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "add_shape",
+        "concurents",
+        "shape"
+      ],
+      [
+        "change_shape",
+        "concurents",
+        "shape"
+      ],
+      [
+        "delete_shape",
+        "concurents",
+        "shape"
+      ],
+      [
+        "view_shape",
+        "concurents",
+        "shape"
+      ],
+      [
+        "add_contenttype",
+        "contenttypes",
+        "contenttype"
+      ],
+      [
+        "change_contenttype",
+        "contenttypes",
+        "contenttype"
+      ],
+      [
+        "delete_contenttype",
+        "contenttypes",
+        "contenttype"
+      ],
+      [
+        "view_contenttype",
+        "contenttypes",
+        "contenttype"
+      ],
+      [
+        "add_deal",
+        "deals",
+        "deal"
+      ],
+      [
+        "change_deal",
+        "deals",
+        "deal"
+      ],
+      [
+        "delete_deal",
+        "deals",
+        "deal"
+      ],
+      [
+        "view_deal",
+        "deals",
+        "deal"
+      ],
+      [
+        "add_dealcomment",
+        "deals",
+        "dealcomment"
+      ],
+      [
+        "change_dealcomment",
+        "deals",
+        "dealcomment"
+      ],
+      [
+        "delete_dealcomment",
+        "deals",
+        "dealcomment"
+      ],
+      [
+        "view_dealcomment",
+        "deals",
+        "dealcomment"
+      ],
+      [
+        "add_dealproduct",
+        "deals",
+        "dealproduct"
+      ],
+      [
+        "change_dealproduct",
+        "deals",
+        "dealproduct"
+      ],
+      [
+        "delete_dealproduct",
+        "deals",
+        "dealproduct"
+      ],
+      [
+        "view_dealproduct",
+        "deals",
+        "dealproduct"
+      ],
+      [
+        "add_dealstatus",
+        "deals",
+        "dealstatus"
+      ],
+      [
+        "change_dealstatus",
+        "deals",
+        "dealstatus"
+      ],
+      [
+        "delete_dealstatus",
+        "deals",
+        "dealstatus"
+      ],
+      [
+        "view_dealstatus",
+        "deals",
+        "dealstatus"
+      ],
+      [
+        "add_dealtype",
+        "deals",
+        "dealtype"
+      ],
+      [
+        "change_dealtype",
+        "deals",
+        "dealtype"
+      ],
+      [
+        "delete_dealtype",
+        "deals",
+        "dealtype"
+      ],
+      [
+        "view_dealtype",
+        "deals",
+        "dealtype"
+      ],
+      [
+        "add_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "change_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "delete_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "view_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "add_spendcomment",
+        "depenses",
+        "spendcomment"
+      ],
+      [
+        "change_spendcomment",
+        "depenses",
+        "spendcomment"
+      ],
+      [
+        "delete_spendcomment",
+        "depenses",
+        "spendcomment"
+      ],
+      [
+        "view_spendcomment",
+        "depenses",
+        "spendcomment"
+      ],
+      [
+        "add_spend_types",
+        "depenses",
+        "spend_types"
+      ],
+      [
+        "change_spend_types",
+        "depenses",
+        "spend_types"
+      ],
+      [
+        "delete_spend_types",
+        "depenses",
+        "spend_types"
+      ],
+      [
+        "view_spend_types",
+        "depenses",
+        "spend_types"
+      ],
+      [
+        "add_status_types",
+        "depenses",
+        "status_types"
+      ],
+      [
+        "change_status_types",
+        "depenses",
+        "status_types"
+      ],
+      [
+        "delete_status_types",
+        "depenses",
+        "status_types"
+      ],
+      [
+        "view_status_types",
+        "depenses",
+        "status_types"
+      ],
+      [
+        "add_way_of_payment",
+        "depenses",
+        "way_of_payment"
+      ],
+      [
+        "change_way_of_payment",
+        "depenses",
+        "way_of_payment"
+      ],
+      [
+        "delete_way_of_payment",
+        "depenses",
+        "way_of_payment"
+      ],
+      [
+        "view_way_of_payment",
+        "depenses",
+        "way_of_payment"
+      ],
+      [
+        "add_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "change_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "delete_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "view_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "add_fournisseur",
+        "fournisseurs",
+        "fournisseur"
+      ],
+      [
+        "change_fournisseur",
+        "fournisseurs",
+        "fournisseur"
+      ],
+      [
+        "delete_fournisseur",
+        "fournisseurs",
+        "fournisseur"
+      ],
+      [
+        "view_fournisseur",
+        "fournisseurs",
+        "fournisseur"
+      ],
+      [
+        "add_information",
+        "fournisseurs",
+        "information"
+      ],
+      [
+        "add_informations",
+        "fournisseurs",
+        "information"
+      ],
+      [
+        "change_information",
+        "fournisseurs",
+        "information"
+      ],
+      [
+        "change_informations",
+        "fournisseurs",
+        "information"
+      ],
+      [
+        "delete_information",
+        "fournisseurs",
+        "information"
+      ],
+      [
+        "delete_informations",
+        "fournisseurs",
+        "information"
+      ],
+      [
+        "view_information",
+        "fournisseurs",
+        "information"
+      ],
+      [
+        "view_informations",
+        "fournisseurs",
+        "information"
+      ],
+      [
+        "add_holiday",
+        "holidays",
+        "holiday"
+      ],
+      [
+        "change_holiday",
+        "holidays",
+        "holiday"
+      ],
+      [
+        "delete_holiday",
+        "holidays",
+        "holiday"
+      ],
+      [
+        "view_holiday",
+        "holidays",
+        "holiday"
+      ],
+      [
+        "add_leaveabsence",
+        "holidays",
+        "leaveabsence"
+      ],
+      [
+        "change_leaveabsence",
+        "holidays",
+        "leaveabsence"
+      ],
+      [
+        "delete_leaveabsence",
+        "holidays",
+        "leaveabsence"
+      ],
+      [
+        "view_leaveabsence",
+        "holidays",
+        "leaveabsence"
+      ],
+      [
+        "add_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "approve_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "change_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "delete_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "view_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "add_absencetype",
+        "leaves",
+        "absencetype"
+      ],
+      [
+        "change_absencetype",
+        "leaves",
+        "absencetype"
+      ],
+      [
+        "delete_absencetype",
+        "leaves",
+        "absencetype"
+      ],
+      [
+        "view_absencetype",
+        "leaves",
+        "absencetype"
+      ],
+      [
+        "add_leave",
+        "leaves",
+        "leave"
+      ],
+      [
+        "change_leave",
+        "leaves",
+        "leave"
+      ],
+      [
+        "delete_leave",
+        "leaves",
+        "leave"
+      ],
+      [
+        "view_leave",
+        "leaves",
+        "leave"
+      ],
+      [
+        "add_leavetype",
+        "leaves",
+        "leavetype"
+      ],
+      [
+        "change_leavetype",
+        "leaves",
+        "leavetype"
+      ],
+      [
+        "delete_leavetype",
+        "leaves",
+        "leavetype"
+      ],
+      [
+        "view_leavetype",
+        "leaves",
+        "leavetype"
+      ],
+      [
+        "add_monthly_evaluation",
+        "monthly_evaluations",
+        "monthly_evaluation"
+      ],
+      [
+        "change_monthly_evaluation",
+        "monthly_evaluations",
+        "monthly_evaluation"
+      ],
+      [
+        "delete_monthly_evaluation",
+        "monthly_evaluations",
+        "monthly_evaluation"
+      ],
+      [
+        "view_monthly_evaluation",
+        "monthly_evaluations",
+        "monthly_evaluation"
+      ],
+      [
+        "add_notification",
+        "notifications",
+        "notification"
+      ],
+      [
+        "change_notification",
+        "notifications",
+        "notification"
+      ],
+      [
+        "delete_notification",
+        "notifications",
+        "notification"
+      ],
+      [
+        "view_notification",
+        "notifications",
+        "notification"
+      ],
+      [
+        "add_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "change_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "delete_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "view_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "add_exitorderitem",
+        "orders",
+        "exitorderitem"
+      ],
+      [
+        "change_exitorderitem",
+        "orders",
+        "exitorderitem"
+      ],
+      [
+        "delete_exitorderitem",
+        "orders",
+        "exitorderitem"
+      ],
+      [
+        "view_exitorderitem",
+        "orders",
+        "exitorderitem"
+      ],
+      [
+        "add_order",
+        "orders",
+        "order"
+      ],
+      [
+        "change_order",
+        "orders",
+        "order"
+      ],
+      [
+        "delete_order",
+        "orders",
+        "order"
+      ],
+      [
+        "view_order",
+        "orders",
+        "order"
+      ],
+      [
+        "add_orderitem",
+        "orders",
+        "orderitem"
+      ],
+      [
+        "change_orderitem",
+        "orders",
+        "orderitem"
+      ],
+      [
+        "delete_orderitem",
+        "orders",
+        "orderitem"
+      ],
+      [
+        "view_orderitem",
+        "orders",
+        "orderitem"
+      ],
+      [
+        "add_plan",
+        "plans",
+        "plan"
+      ],
+      [
+        "change_plan",
+        "plans",
+        "plan"
+      ],
+      [
+        "delete_plan",
+        "plans",
+        "plan"
+      ],
+      [
+        "view_plan",
+        "plans",
+        "plan"
+      ],
+      [
+        "add_plancomment",
+        "plans",
+        "plancomment"
+      ],
+      [
+        "change_plancomment",
+        "plans",
+        "plancomment"
+      ],
+      [
+        "delete_plancomment",
+        "plans",
+        "plancomment"
+      ],
+      [
+        "view_plancomment",
+        "plans",
+        "plancomment"
+      ],
+      [
+        "add_plantask",
+        "plans",
+        "plantask"
+      ],
+      [
+        "change_plantask",
+        "plans",
+        "plantask"
+      ],
+      [
+        "delete_plantask",
+        "plans",
+        "plantask"
+      ],
+      [
+        "view_plantask",
+        "plans",
+        "plantask"
+      ],
+      [
+        "add_productactiveingerients",
+        "produits",
+        "productactiveingerients"
+      ],
+      [
+        "change_productactiveingerients",
+        "produits",
+        "productactiveingerients"
+      ],
+      [
+        "delete_productactiveingerients",
+        "produits",
+        "productactiveingerients"
+      ],
+      [
+        "view_productactiveingerients",
+        "produits",
+        "productactiveingerients"
+      ],
+      [
+        "add_productcompany",
+        "produits",
+        "productcompany"
+      ],
+      [
+        "change_productcompany",
+        "produits",
+        "productcompany"
+      ],
+      [
+        "delete_productcompany",
+        "produits",
+        "productcompany"
+      ],
+      [
+        "view_productcompany",
+        "produits",
+        "productcompany"
+      ],
+      [
+        "add_productfile",
+        "produits",
+        "productfile"
+      ],
+      [
+        "change_productfile",
+        "produits",
+        "productfile"
+      ],
+      [
+        "delete_productfile",
+        "produits",
+        "productfile"
+      ],
+      [
+        "view_productfile",
+        "produits",
+        "productfile"
+      ],
+      [
+        "add_productinactiveingredients",
+        "produits",
+        "productinactiveingredients"
+      ],
+      [
+        "change_productinactiveingredients",
+        "produits",
+        "productinactiveingredients"
+      ],
+      [
+        "delete_productinactiveingredients",
+        "produits",
+        "productinactiveingredients"
+      ],
+      [
+        "view_productinactiveingredients",
+        "produits",
+        "productinactiveingredients"
+      ],
+      [
+        "add_productinformations",
+        "produits",
+        "productinformations"
+      ],
+      [
+        "change_productinformations",
+        "produits",
+        "productinformations"
+      ],
+      [
+        "delete_productinformations",
+        "produits",
+        "productinformations"
+      ],
+      [
+        "view_productinformations",
+        "produits",
+        "productinformations"
+      ],
+      [
+        "add_productnote",
+        "produits",
+        "productnote"
+      ],
+      [
+        "change_productnote",
+        "produits",
+        "productnote"
+      ],
+      [
+        "delete_productnote",
+        "produits",
+        "productnote"
+      ],
+      [
+        "view_productnote",
+        "produits",
+        "productnote"
+      ],
+      [
+        "add_produit",
+        "produits",
+        "produit"
+      ],
+      [
+        "change_produit",
+        "produits",
+        "produit"
+      ],
+      [
+        "delete_produit",
+        "produits",
+        "produit"
+      ],
+      [
+        "view_produit",
+        "produits",
+        "produit"
+      ],
+      [
+        "add_produitvisite",
+        "produits",
+        "produitvisite"
+      ],
+      [
+        "change_produitvisite",
+        "produits",
+        "produitvisite"
+      ],
+      [
+        "delete_produitvisite",
+        "produits",
+        "produitvisite"
+      ],
+      [
+        "view_produitvisite",
+        "produits",
+        "produitvisite"
+      ],
+      [
+        "add_comment",
+        "rapports",
+        "comment"
+      ],
+      [
+        "change_comment",
+        "rapports",
+        "comment"
+      ],
+      [
+        "delete_comment",
+        "rapports",
+        "comment"
+      ],
+      [
+        "view_comment",
+        "rapports",
+        "comment"
+      ],
+      [
+        "add_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "change_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "delete_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "view_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "add_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "change_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "delete_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "view_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "add_commune",
+        "regions",
+        "commune"
+      ],
+      [
+        "change_commune",
+        "regions",
+        "commune"
+      ],
+      [
+        "delete_commune",
+        "regions",
+        "commune"
+      ],
+      [
+        "view_commune",
+        "regions",
+        "commune"
+      ],
+      [
+        "add_pays",
+        "regions",
+        "pays"
+      ],
+      [
+        "change_pays",
+        "regions",
+        "pays"
+      ],
+      [
+        "delete_pays",
+        "regions",
+        "pays"
+      ],
+      [
+        "view_pays",
+        "regions",
+        "pays"
+      ],
+      [
+        "add_wilaya",
+        "regions",
+        "wilaya"
+      ],
+      [
+        "change_wilaya",
+        "regions",
+        "wilaya"
+      ],
+      [
+        "delete_wilaya",
+        "regions",
+        "wilaya"
+      ],
+      [
+        "view_wilaya",
+        "regions",
+        "wilaya"
+      ],
+      [
+        "add_session",
+        "sessions",
+        "session"
+      ],
+      [
+        "change_session",
+        "sessions",
+        "session"
+      ],
+      [
+        "delete_session",
+        "sessions",
+        "session"
+      ],
+      [
+        "view_session",
+        "sessions",
+        "session"
+      ],
+      [
+        "add_spend",
+        "spends",
+        "spend"
+      ],
+      [
+        "change_spend",
+        "spends",
+        "spend"
+      ],
+      [
+        "delete_spend",
+        "spends",
+        "spend"
+      ],
+      [
+        "view_spend",
+        "spends",
+        "spend"
+      ],
+      [
+        "add_spends",
+        "spends",
+        "spends"
+      ],
+      [
+        "change_spends",
+        "spends",
+        "spends"
+      ],
+      [
+        "delete_spends",
+        "spends",
+        "spends"
+      ],
+      [
+        "view_spends",
+        "spends",
+        "spends"
+      ],
+      [
+        "add_spend_types",
+        "spends",
+        "spend_types"
+      ],
+      [
+        "change_spend_types",
+        "spends",
+        "spend_types"
+      ],
+      [
+        "delete_spend_types",
+        "spends",
+        "spend_types"
+      ],
+      [
+        "view_spend_types",
+        "spends",
+        "spend_types"
+      ],
+      [
+        "add_status_types",
+        "spends",
+        "status_types"
+      ],
+      [
+        "change_status_types",
+        "spends",
+        "status_types"
+      ],
+      [
+        "delete_status_types",
+        "spends",
+        "status_types"
+      ],
+      [
+        "view_status_types",
+        "spends",
+        "status_types"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "Supervisor",
+    "permissions": [
+      [
+        "view_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "view_logentry",
+        "admin",
+        "logentry"
+      ],
+      [
+        "view_client",
+        "clients",
+        "client"
+      ],
+      [
+        "view_order",
+        "clients",
+        "order"
+      ],
+      [
+        "view_orderproduct",
+        "clients",
+        "orderproduct"
+      ],
+      [
+        "view_company",
+        "company",
+        "company"
+      ],
+      [
+        "add_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "view_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "view_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "add_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "change_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "view_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "add_exitorderitem",
+        "orders",
+        "exitorderitem"
+      ],
+      [
+        "change_exitorderitem",
+        "orders",
+        "exitorderitem"
+      ],
+      [
+        "view_exitorderitem",
+        "orders",
+        "exitorderitem"
+      ],
+      [
+        "add_order",
+        "orders",
+        "order"
+      ],
+      [
+        "change_order",
+        "orders",
+        "order"
+      ],
+      [
+        "delete_order",
+        "orders",
+        "order"
+      ],
+      [
+        "view_order",
+        "orders",
+        "order"
+      ],
+      [
+        "view_produit",
+        "produits",
+        "produit"
+      ],
+      [
+        "add_comment",
+        "rapports",
+        "comment"
+      ],
+      [
+        "view_comment",
+        "rapports",
+        "comment"
+      ],
+      [
+        "view_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "view_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "view_commune",
+        "regions",
+        "commune"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "TARGET 2024",
+    "permissions": [
+      [
+        "view_userproduct",
+        "accounts",
+        "userproduct"
+      ],
+      [
+        "view_orderproduct",
+        "clients",
+        "orderproduct"
+      ],
+      [
+        "view_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "view_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "Country manager",
+    "permissions": [
+      [
+        "view_userfile",
+        "accounts",
+        "userfile"
+      ],
+      [
+        "view_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "add_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "view_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "add_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "view_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "add_client",
+        "clients",
+        "client"
+      ],
+      [
+        "view_client",
+        "clients",
+        "client"
+      ],
+      [
+        "add_order",
+        "clients",
+        "order"
+      ],
+      [
+        "view_order",
+        "clients",
+        "order"
+      ],
+      [
+        "add_orderproduct",
+        "clients",
+        "orderproduct"
+      ],
+      [
+        "view_orderproduct",
+        "clients",
+        "orderproduct"
+      ],
+      [
+        "add_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "view_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "add_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "view_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "add_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "view_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "view_company",
+        "company",
+        "company"
+      ],
+      [
+        "add_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "view_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "add_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "view_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "add_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "view_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "add_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "view_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "add_deal",
+        "deals",
+        "deal"
+      ],
+      [
+        "view_deal",
+        "deals",
+        "deal"
+      ],
+      [
+        "add_dealproduct",
+        "deals",
+        "dealproduct"
+      ],
+      [
+        "view_dealproduct",
+        "deals",
+        "dealproduct"
+      ],
+      [
+        "add_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "add_holiday",
+        "holidays",
+        "holiday"
+      ],
+      [
+        "change_holiday",
+        "holidays",
+        "holiday"
+      ],
+      [
+        "view_holiday",
+        "holidays",
+        "holiday"
+      ],
+      [
+        "add_leaveabsence",
+        "holidays",
+        "leaveabsence"
+      ],
+      [
+        "change_leaveabsence",
+        "holidays",
+        "leaveabsence"
+      ],
+      [
+        "view_leaveabsence",
+        "holidays",
+        "leaveabsence"
+      ],
+      [
+        "add_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "approve_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "change_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "view_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "add_leave",
+        "leaves",
+        "leave"
+      ],
+      [
+        "change_leave",
+        "leaves",
+        "leave"
+      ],
+      [
+        "view_leave",
+        "leaves",
+        "leave"
+      ],
+      [
+        "view_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "view_monthly_evaluation",
+        "monthly_evaluations",
+        "monthly_evaluation"
+      ],
+      [
+        "add_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "view_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "add_order",
+        "orders",
+        "order"
+      ],
+      [
+        "view_order",
+        "orders",
+        "order"
+      ],
+      [
+        "add_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "view_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "add_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "change_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "view_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "view_commune",
+        "regions",
+        "commune"
+      ],
+      [
+        "view_wilaya",
+        "regions",
+        "wilaya"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "Commerciale",
+    "permissions": [
+      [
+        "add_order",
+        "clients",
+        "order"
+      ],
+      [
+        "view_company",
+        "company",
+        "company"
+      ],
+      [
+        "add_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "view_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "add_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "view_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "add_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "change_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "view_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "add_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "change_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "view_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "add_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "change_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "delete_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "view_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "view_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "add_spends",
+        "spends",
+        "spends"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "Superviseur National",
+    "permissions": [
+      [
+        "view_userfile",
+        "accounts",
+        "userfile"
+      ],
+      [
+        "view_userproduct",
+        "accounts",
+        "userproduct"
+      ],
+      [
+        "view_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "view_userproxy",
+        "accounts",
+        "userproxy"
+      ],
+      [
+        "view_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "view_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "view_client",
+        "clients",
+        "client"
+      ],
+      [
+        "view_monthcomment",
+        "clients",
+        "monthcomment"
+      ],
+      [
+        "view_order",
+        "clients",
+        "order"
+      ],
+      [
+        "view_orderproduct",
+        "clients",
+        "orderproduct"
+      ],
+      [
+        "view_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "view_ordersourceproduct",
+        "clients",
+        "ordersourceproduct"
+      ],
+      [
+        "view_source",
+        "clients",
+        "source"
+      ],
+      [
+        "view_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "view_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "view_company",
+        "company",
+        "company"
+      ],
+      [
+        "add_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "change_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "view_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "add_deal",
+        "deals",
+        "deal"
+      ],
+      [
+        "change_deal",
+        "deals",
+        "deal"
+      ],
+      [
+        "view_deal",
+        "deals",
+        "deal"
+      ],
+      [
+        "add_dealcomment",
+        "deals",
+        "dealcomment"
+      ],
+      [
+        "view_dealcomment",
+        "deals",
+        "dealcomment"
+      ],
+      [
+        "add_dealproduct",
+        "deals",
+        "dealproduct"
+      ],
+      [
+        "view_dealproduct",
+        "deals",
+        "dealproduct"
+      ],
+      [
+        "add_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "view_holiday",
+        "holidays",
+        "holiday"
+      ],
+      [
+        "approve_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "view_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "view_monthly_evaluation",
+        "monthly_evaluations",
+        "monthly_evaluation"
+      ],
+      [
+        "view_supevaluation",
+        "monthly_evaluations",
+        "supevaluation"
+      ],
+      [
+        "add_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "view_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "view_exitorderitem",
+        "orders",
+        "exitorderitem"
+      ],
+      [
+        "view_order",
+        "orders",
+        "order"
+      ],
+      [
+        "view_orderitem",
+        "orders",
+        "orderitem"
+      ],
+      [
+        "view_plan",
+        "plans",
+        "plan"
+      ],
+      [
+        "change_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "view_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "add_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "view_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "view_commune",
+        "regions",
+        "commune"
+      ],
+      [
+        "view_wilaya",
+        "regions",
+        "wilaya"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "Superviseur Régional",
+    "permissions": [
+      [
+        "view_client",
+        "clients",
+        "client"
+      ],
+      [
+        "add_order",
+        "clients",
+        "order"
+      ],
+      [
+        "view_company",
+        "company",
+        "company"
+      ],
+      [
+        "add_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "delete_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "view_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "add_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "change_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "view_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "add_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "change_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "view_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "add_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "change_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "view_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "add_deal",
+        "deals",
+        "deal"
+      ],
+      [
+        "add_dealproduct",
+        "deals",
+        "dealproduct"
+      ],
+      [
+        "add_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "change_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "view_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "view_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "view_medecinspecialite",
+        "medecins",
+        "medecinspecialite"
+      ],
+      [
+        "add_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "add_order",
+        "orders",
+        "order"
+      ],
+      [
+        "add_orderitem",
+        "orders",
+        "orderitem"
+      ],
+      [
+        "add_plan",
+        "plans",
+        "plan"
+      ],
+      [
+        "add_plantask",
+        "plans",
+        "plantask"
+      ],
+      [
+        "view_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "view_commune",
+        "regions",
+        "commune"
+      ],
+      [
+        "view_wilaya",
+        "regions",
+        "wilaya"
+      ],
+      [
+        "add_spend",
+        "spends",
+        "spend"
+      ],
+      [
+        "change_spend",
+        "spends",
+        "spend"
+      ],
+      [
+        "view_spend",
+        "spends",
+        "spend"
+      ],
+      [
+        "add_spends",
+        "spends",
+        "spends"
+      ],
+      [
+        "change_spends",
+        "spends",
+        "spends"
+      ],
+      [
+        "view_spends",
+        "spends",
+        "spends"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "Service Technique",
+    "permissions": [
+      [
+        "change_company",
+        "company",
+        "company"
+      ],
+      [
+        "view_company",
+        "company",
+        "company"
+      ],
+      [
+        "add_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "view_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "add_order",
+        "orders",
+        "order"
+      ],
+      [
+        "view_order",
+        "orders",
+        "order"
+      ],
+      [
+        "add_plan",
+        "plans",
+        "plan"
+      ],
+      [
+        "change_plan",
+        "plans",
+        "plan"
+      ],
+      [
+        "view_plan",
+        "plans",
+        "plan"
+      ],
+      [
+        "add_plantask",
+        "plans",
+        "plantask"
+      ],
+      [
+        "change_plantask",
+        "plans",
+        "plantask"
+      ],
+      [
+        "delete_plantask",
+        "plans",
+        "plantask"
+      ],
+      [
+        "view_plantask",
+        "plans",
+        "plantask"
+      ],
+      [
+        "add_productactiveingerients",
+        "produits",
+        "productactiveingerients"
+      ],
+      [
+        "change_productactiveingerients",
+        "produits",
+        "productactiveingerients"
+      ],
+      [
+        "delete_productactiveingerients",
+        "produits",
+        "productactiveingerients"
+      ],
+      [
+        "view_productactiveingerients",
+        "produits",
+        "productactiveingerients"
+      ],
+      [
+        "add_productcompany",
+        "produits",
+        "productcompany"
+      ],
+      [
+        "change_productcompany",
+        "produits",
+        "productcompany"
+      ],
+      [
+        "delete_productcompany",
+        "produits",
+        "productcompany"
+      ],
+      [
+        "view_productcompany",
+        "produits",
+        "productcompany"
+      ],
+      [
+        "add_productfile",
+        "produits",
+        "productfile"
+      ],
+      [
+        "change_productfile",
+        "produits",
+        "productfile"
+      ],
+      [
+        "delete_productfile",
+        "produits",
+        "productfile"
+      ],
+      [
+        "view_productfile",
+        "produits",
+        "productfile"
+      ],
+      [
+        "add_productinactiveingredients",
+        "produits",
+        "productinactiveingredients"
+      ],
+      [
+        "change_productinactiveingredients",
+        "produits",
+        "productinactiveingredients"
+      ],
+      [
+        "delete_productinactiveingredients",
+        "produits",
+        "productinactiveingredients"
+      ],
+      [
+        "view_productinactiveingredients",
+        "produits",
+        "productinactiveingredients"
+      ],
+      [
+        "add_productinformations",
+        "produits",
+        "productinformations"
+      ],
+      [
+        "change_productinformations",
+        "produits",
+        "productinformations"
+      ],
+      [
+        "delete_productinformations",
+        "produits",
+        "productinformations"
+      ],
+      [
+        "view_productinformations",
+        "produits",
+        "productinformations"
+      ],
+      [
+        "add_productnote",
+        "produits",
+        "productnote"
+      ],
+      [
+        "change_productnote",
+        "produits",
+        "productnote"
+      ],
+      [
+        "delete_productnote",
+        "produits",
+        "productnote"
+      ],
+      [
+        "view_productnote",
+        "produits",
+        "productnote"
+      ],
+      [
+        "change_produit",
+        "produits",
+        "produit"
+      ],
+      [
+        "delete_produit",
+        "produits",
+        "produit"
+      ],
+      [
+        "view_produit",
+        "produits",
+        "produit"
+      ],
+      [
+        "add_produitvisite",
+        "produits",
+        "produitvisite"
+      ],
+      [
+        "change_produitvisite",
+        "produits",
+        "produitvisite"
+      ],
+      [
+        "delete_produitvisite",
+        "produits",
+        "produitvisite"
+      ],
+      [
+        "view_produitvisite",
+        "produits",
+        "produitvisite"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "Stagiaire",
+    "permissions": [
+      [
+        "change_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "view_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "change_source",
+        "clients",
+        "source"
+      ],
+      [
+        "view_source",
+        "clients",
+        "source"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "BON DE COMMANDE traite",
+    "permissions": []
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "BON DE COMMANDE confirme",
+    "permissions": []
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "BON DE COMMANDE en cours",
+    "permissions": []
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "Finance & Comptabilité",
+    "permissions": [
+      [
+        "add_userfile",
+        "accounts",
+        "userfile"
+      ],
+      [
+        "change_userfile",
+        "accounts",
+        "userfile"
+      ],
+      [
+        "view_userfile",
+        "accounts",
+        "userfile"
+      ],
+      [
+        "change_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "view_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "change_userproxy",
+        "accounts",
+        "userproxy"
+      ],
+      [
+        "view_userproxy",
+        "accounts",
+        "userproxy"
+      ],
+      [
+        "add_ordersourceproduct",
+        "clients",
+        "ordersourceproduct"
+      ],
+      [
+        "change_ordersourceproduct",
+        "clients",
+        "ordersourceproduct"
+      ],
+      [
+        "delete_ordersourceproduct",
+        "clients",
+        "ordersourceproduct"
+      ],
+      [
+        "view_ordersourceproduct",
+        "clients",
+        "ordersourceproduct"
+      ],
+      [
+        "add_source",
+        "clients",
+        "source"
+      ],
+      [
+        "change_source",
+        "clients",
+        "source"
+      ],
+      [
+        "view_source",
+        "clients",
+        "source"
+      ],
+      [
+        "change_company",
+        "company",
+        "company"
+      ],
+      [
+        "view_company",
+        "company",
+        "company"
+      ],
+      [
+        "add_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "change_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "delete_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "view_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "add_spendcomment",
+        "depenses",
+        "spendcomment"
+      ],
+      [
+        "change_spendcomment",
+        "depenses",
+        "spendcomment"
+      ],
+      [
+        "delete_spendcomment",
+        "depenses",
+        "spendcomment"
+      ],
+      [
+        "view_spendcomment",
+        "depenses",
+        "spendcomment"
+      ],
+      [
+        "add_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "change_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "view_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "add_order",
+        "orders",
+        "order"
+      ],
+      [
+        "change_order",
+        "orders",
+        "order"
+      ],
+      [
+        "view_order",
+        "orders",
+        "order"
+      ],
+      [
+        "add_spend",
+        "spends",
+        "spend"
+      ],
+      [
+        "change_spend",
+        "spends",
+        "spend"
+      ],
+      [
+        "delete_spend",
+        "spends",
+        "spend"
+      ],
+      [
+        "view_spend",
+        "spends",
+        "spend"
+      ],
+      [
+        "add_spends",
+        "spends",
+        "spends"
+      ],
+      [
+        "change_spends",
+        "spends",
+        "spends"
+      ],
+      [
+        "delete_spends",
+        "spends",
+        "spends"
+      ],
+      [
+        "view_spends",
+        "spends",
+        "spends"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "country manager",
+    "permissions": []
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "Medico Commercial",
+    "permissions": [
+      [
+        "view_ordersource",
+        "clients",
+        "ordersource"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "BON DE SORTIE confirme",
+    "permissions": []
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "BON DE SORTIE traite",
+    "permissions": []
+  }
+},
+{
+  "model": "auth.group",
+  "fields": {
+    "name": "Ressource Humaine",
+    "permissions": [
+      [
+        "add_personalinfo",
+        "accounts",
+        "personalinfo"
+      ],
+      [
+        "change_personalinfo",
+        "accounts",
+        "personalinfo"
+      ],
+      [
+        "view_personalinfo",
+        "accounts",
+        "personalinfo"
+      ],
+      [
+        "add_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "change_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "view_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "view_userproxy",
+        "accounts",
+        "userproxy"
+      ],
+      [
+        "add_user",
+        "auth",
+        "user"
+      ],
+      [
+        "change_user",
+        "auth",
+        "user"
+      ],
+      [
+        "view_user",
+        "auth",
+        "user"
+      ],
+      [
+        "add_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "change_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "delete_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "view_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "view_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "add_absencetype",
+        "leaves",
+        "absencetype"
+      ],
+      [
+        "change_absencetype",
+        "leaves",
+        "absencetype"
+      ],
+      [
+        "view_absencetype",
+        "leaves",
+        "absencetype"
+      ],
+      [
+        "view_leave",
+        "leaves",
+        "leave"
+      ],
+      [
+        "add_leavetype",
+        "leaves",
+        "leavetype"
+      ],
+      [
+        "change_leavetype",
+        "leaves",
+        "leavetype"
+      ],
+      [
+        "view_leavetype",
+        "leaves",
+        "leavetype"
+      ],
+      [
+        "view_commercial_monthly_evaluation",
+        "monthly_evaluations",
+        "commercial_monthly_evaluation"
+      ],
+      [
+        "view_directionevaluationtosup",
+        "monthly_evaluations",
+        "directionevaluationtosup"
+      ],
+      [
+        "view_directiontodelegateevaluation",
+        "monthly_evaluations",
+        "directiontodelegateevaluation"
+      ],
+      [
+        "change_plan",
+        "plans",
+        "plan"
+      ],
+      [
+        "view_plan",
+        "plans",
+        "plan"
+      ],
+      [
+        "view_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "view_visite",
+        "rapports",
+        "visite"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$6NtMoIhnRElnxJsacd8tr2$9lvezsltP2RdD/R2iaXyEUtoGNxYX5pfhUtUIKC/SQM=",
+    "last_login": "2024-05-26T23:05:44Z",
+    "is_superuser": false,
+    "username": "aimen",
+    "first_name": "aimen",
+    "last_name": "aimen",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2020-05-29T15:35:15Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ],
+      [
+        "Supervisor"
+      ],
+      [
+        "Commerciale"
+      ],
+      [
+        "!  ALL PERMISSIONS  !"
+      ],
+      [
+        "Service Technique"
+      ],
+      [
+        "Finance & Comptabilité"
+      ],
+      [
+        "Stagiaire"
+      ],
+      [
+        "BON DE COMMANDE traite"
+      ],
+      [
+        "BON DE COMMANDE confirme"
+      ],
+      [
+        "BON DE COMMANDE en cours"
+      ],
+      [
+        "Superviseur Régional"
+      ],
+      [
+        "country manager"
+      ],
+      [
+        "Superviseur National"
+      ],
+      [
+        "Country manager"
+      ]
+    ],
+    "user_permissions": [
+      [
+        "approve_absence",
+        "leaves",
+        "absence"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$0AG4Uz9iJ06l7dCY8VDSrc$bQBvQHzfQfgTWJzjhP3PeUmDgvLAj6iqOahW2y2jcM0=",
+    "last_login": "2024-12-23T14:04:35Z",
+    "is_superuser": false,
+    "username": "yasmindz",
+    "first_name": "CHERFAOUI",
+    "last_name": "Yasmine",
+    "email": "y.cherfaoui@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2020-05-30T11:10:19Z",
+    "groups": [],
+    "user_permissions": [
+      [
+        "approve_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "change_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "add_plan",
+        "plans",
+        "plan"
+      ],
+      [
+        "change_plan",
+        "plans",
+        "plan"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$vcqT9CB7T0xPxAh0I6x3EI$vX9dshCg04toCodIuXKMemPdTzTZEGANMvtncO901FA=",
+    "last_login": "2025-01-22T21:44:18Z",
+    "is_superuser": false,
+    "username": "KHALEDDZ",
+    "first_name": "CHEMMAME",
+    "last_name": "Khaled",
+    "email": "k.chemmam@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2020-01-15T11:12:14Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Country manager"
+      ]
+    ],
+    "user_permissions": [
+      [
+        "add_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "change_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "delete_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "view_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "add_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "change_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "delete_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "view_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "add_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "change_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "delete_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "view_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "add_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "change_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "delete_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "view_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "add_plancomment",
+        "plans",
+        "plancomment"
+      ],
+      [
+        "change_plancomment",
+        "plans",
+        "plancomment"
+      ],
+      [
+        "delete_plancomment",
+        "plans",
+        "plancomment"
+      ],
+      [
+        "view_plancomment",
+        "plans",
+        "plancomment"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$rB7T9j9RoIqwVOY2csU5qj$auyZRwcIGDRxWops5HCP8NmEwOhdKVDWsRH4aOyMQ+w=",
+    "last_login": "2025-01-09T17:06:30Z",
+    "is_superuser": false,
+    "username": "aminadz",
+    "first_name": "LESSEL",
+    "last_name": "Amina",
+    "email": "a.lessel@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2019-09-25T11:12:55Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Superviseur Régional"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$4mGBYWj79tQy1DG5vSdHOH$IPjYfwCEt8J8Xz85XbpNi5jNwn2AvpB7iyCCJYz1IMM=",
+    "last_login": "2025-02-01T16:21:24Z",
+    "is_superuser": false,
+    "username": "ahmedDZ",
+    "first_name": "KHEDDAR",
+    "last_name": "Ahmed",
+    "email": "a.kheddar@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2020-05-30T11:13:55Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$juyxF9lODwQtOH8pfh5nbn$X0I+htAla9t/3ALpot1FkJruzUaylkMYXUVO9AhH7qI=",
+    "last_login": "2025-02-15T21:21:53Z",
+    "is_superuser": false,
+    "username": "tawfikdz",
+    "first_name": "GADI",
+    "last_name": "Taoufik",
+    "email": "t.gadi@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2020-05-30T11:14:38Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$xk6lsnjP5fELTQ1SztryS2$TWDql5N/ZNjVDbe6DAVFqSVt0oDxxjrEHotgLRmdMZs=",
+    "last_login": "2025-02-02T18:34:24Z",
+    "is_superuser": false,
+    "username": "fayzadz",
+    "first_name": "SILI",
+    "last_name": "Faiza",
+    "email": "faiza181987@gmail.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2019-09-19T11:15:17Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Superviseur Régional"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$wpBB5LSJxnQWpMaFbFwbNb$4MsChe+pazJkJ3O/OZ23p8eULYMeub/OU3knxKfZFN4=",
+    "last_login": "2025-01-21T18:11:46Z",
+    "is_superuser": false,
+    "username": "bouchachiadz",
+    "first_name": "BOUCHACHIA",
+    "last_name": "Meriem",
+    "email": "m.bouchachia@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2020-05-30T11:15:43Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$180000$IWsZcxmgQ4Zl$Le5sIawzWPiw0PUqJsWb4xrjK7ObrT+pLQuxysaJC7w=",
+    "last_login": "2021-02-05T11:51:05Z",
+    "is_superuser": false,
+    "username": "asmatn",
+    "first_name": "asma",
+    "last_name": "khayati",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2020-05-30T11:18:35Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ]
+    ],
+    "user_permissions": [
+      [
+        "add_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "change_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "delete_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "view_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "add_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "change_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "delete_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "view_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "add_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "change_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "delete_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "view_visite",
+        "rapports",
+        "visite"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$KArKLXBvvBATGoFp8SDvPm$Uz05j5G9c6yIaAOiI+rPyV5QSk3VDLwmnQkInjHlCSY=",
+    "last_login": "2021-09-13T22:11:28Z",
+    "is_superuser": false,
+    "username": "mohamedtn",
+    "first_name": "mohamed",
+    "last_name": "ali jaziri",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2020-05-30T11:19:35Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "!  ALL PERMISSIONS  !"
+      ]
+    ],
+    "user_permissions": [
+      [
+        "change_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "add_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "change_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "delete_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "view_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "view_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "view_visite",
+        "rapports",
+        "visite"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$Hb2IXl23xkTiWuJkGJHZji$wZ25muAKSoZfoGZ7rfKYEM3CMhGEfLmnjDuMoVwjDyc=",
+    "last_login": "2022-03-31T11:41:26Z",
+    "is_superuser": false,
+    "username": "TUNIS",
+    "first_name": "naycen",
+    "last_name": "zayeni",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2020-05-30T11:20:15Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ]
+    ],
+    "user_permissions": [
+      [
+        "add_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "change_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "delete_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "view_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "add_logentry",
+        "admin",
+        "logentry"
+      ],
+      [
+        "change_logentry",
+        "admin",
+        "logentry"
+      ],
+      [
+        "delete_logentry",
+        "admin",
+        "logentry"
+      ],
+      [
+        "view_logentry",
+        "admin",
+        "logentry"
+      ],
+      [
+        "add_group",
+        "auth",
+        "group"
+      ],
+      [
+        "change_group",
+        "auth",
+        "group"
+      ],
+      [
+        "delete_group",
+        "auth",
+        "group"
+      ],
+      [
+        "view_group",
+        "auth",
+        "group"
+      ],
+      [
+        "add_permission",
+        "auth",
+        "permission"
+      ],
+      [
+        "change_permission",
+        "auth",
+        "permission"
+      ],
+      [
+        "delete_permission",
+        "auth",
+        "permission"
+      ],
+      [
+        "view_permission",
+        "auth",
+        "permission"
+      ],
+      [
+        "add_user",
+        "auth",
+        "user"
+      ],
+      [
+        "change_user",
+        "auth",
+        "user"
+      ],
+      [
+        "delete_user",
+        "auth",
+        "user"
+      ],
+      [
+        "view_user",
+        "auth",
+        "user"
+      ],
+      [
+        "add_contenttype",
+        "contenttypes",
+        "contenttype"
+      ],
+      [
+        "change_contenttype",
+        "contenttypes",
+        "contenttype"
+      ],
+      [
+        "delete_contenttype",
+        "contenttypes",
+        "contenttype"
+      ],
+      [
+        "view_contenttype",
+        "contenttypes",
+        "contenttype"
+      ],
+      [
+        "add_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "change_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "delete_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "view_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "add_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "change_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "delete_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "view_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "add_produit",
+        "produits",
+        "produit"
+      ],
+      [
+        "change_produit",
+        "produits",
+        "produit"
+      ],
+      [
+        "delete_produit",
+        "produits",
+        "produit"
+      ],
+      [
+        "view_produit",
+        "produits",
+        "produit"
+      ],
+      [
+        "add_produitvisite",
+        "produits",
+        "produitvisite"
+      ],
+      [
+        "change_produitvisite",
+        "produits",
+        "produitvisite"
+      ],
+      [
+        "delete_produitvisite",
+        "produits",
+        "produitvisite"
+      ],
+      [
+        "view_produitvisite",
+        "produits",
+        "produitvisite"
+      ],
+      [
+        "add_comment",
+        "rapports",
+        "comment"
+      ],
+      [
+        "change_comment",
+        "rapports",
+        "comment"
+      ],
+      [
+        "delete_comment",
+        "rapports",
+        "comment"
+      ],
+      [
+        "view_comment",
+        "rapports",
+        "comment"
+      ],
+      [
+        "add_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "change_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "delete_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "view_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "add_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "change_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "delete_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "view_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "add_commune",
+        "regions",
+        "commune"
+      ],
+      [
+        "change_commune",
+        "regions",
+        "commune"
+      ],
+      [
+        "delete_commune",
+        "regions",
+        "commune"
+      ],
+      [
+        "view_commune",
+        "regions",
+        "commune"
+      ],
+      [
+        "add_pays",
+        "regions",
+        "pays"
+      ],
+      [
+        "change_pays",
+        "regions",
+        "pays"
+      ],
+      [
+        "delete_pays",
+        "regions",
+        "pays"
+      ],
+      [
+        "view_pays",
+        "regions",
+        "pays"
+      ],
+      [
+        "add_wilaya",
+        "regions",
+        "wilaya"
+      ],
+      [
+        "change_wilaya",
+        "regions",
+        "wilaya"
+      ],
+      [
+        "delete_wilaya",
+        "regions",
+        "wilaya"
+      ],
+      [
+        "view_wilaya",
+        "regions",
+        "wilaya"
+      ],
+      [
+        "add_session",
+        "sessions",
+        "session"
+      ],
+      [
+        "change_session",
+        "sessions",
+        "session"
+      ],
+      [
+        "delete_session",
+        "sessions",
+        "session"
+      ],
+      [
+        "view_session",
+        "sessions",
+        "session"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$180000$R9LJ0vDpU9Uh$z/enzmERpMRMl5bJsFzwUTahxFo2ifQIP8YmgXS/RJg=",
+    "last_login": "2021-07-08T22:56:47Z",
+    "is_superuser": false,
+    "username": "fatmatn",
+    "first_name": "fatma",
+    "last_name": "derbal",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2020-05-30T11:20:57Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Supervisor"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$94jPfvnQQgXFthwQVFcy08$nSUkeh4Ym5cSKfgXOLku7njs7sg/y9lkNv/CmsPtfSA=",
+    "last_login": "2025-02-19T21:10:06.297Z",
+    "is_superuser": true,
+    "username": "mohammed",
+    "first_name": "NAWAFLEH",
+    "last_name": "Mohammed",
+    "email": "contact.liliumpharma@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2020-05-31T19:27:09Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ],
+      [
+        "Supervisor"
+      ],
+      [
+        "Commerciale"
+      ],
+      [
+        "!  ALL PERMISSIONS  !"
+      ],
+      [
+        "Service Technique"
+      ],
+      [
+        "Finance & Comptabilité"
+      ],
+      [
+        "Stagiaire"
+      ],
+      [
+        "BON DE SORTIE confirme"
+      ],
+      [
+        "BON DE SORTIE traite"
+      ],
+      [
+        "BON DE COMMANDE traite"
+      ],
+      [
+        "BON DE COMMANDE confirme"
+      ],
+      [
+        "BON DE COMMANDE en cours"
+      ],
+      [
+        "Superviseur Régional"
+      ],
+      [
+        "country manager"
+      ],
+      [
+        "Superviseur National"
+      ],
+      [
+        "Country manager"
+      ],
+      [
+        "Ressource Humaine"
+      ]
+    ],
+    "user_permissions": [
+      [
+        "add_personalinfo",
+        "accounts",
+        "personalinfo"
+      ],
+      [
+        "change_personalinfo",
+        "accounts",
+        "personalinfo"
+      ],
+      [
+        "delete_personalinfo",
+        "accounts",
+        "personalinfo"
+      ],
+      [
+        "view_personalinfo",
+        "accounts",
+        "personalinfo"
+      ],
+      [
+        "add_userfile",
+        "accounts",
+        "userfile"
+      ],
+      [
+        "change_userfile",
+        "accounts",
+        "userfile"
+      ],
+      [
+        "delete_userfile",
+        "accounts",
+        "userfile"
+      ],
+      [
+        "view_userfile",
+        "accounts",
+        "userfile"
+      ],
+      [
+        "add_usernotificationpermissions",
+        "accounts",
+        "usernotificationpermissions"
+      ],
+      [
+        "change_usernotificationpermissions",
+        "accounts",
+        "usernotificationpermissions"
+      ],
+      [
+        "delete_usernotificationpermissions",
+        "accounts",
+        "usernotificationpermissions"
+      ],
+      [
+        "view_usernotificationpermissions",
+        "accounts",
+        "usernotificationpermissions"
+      ],
+      [
+        "add_userproduct",
+        "accounts",
+        "userproduct"
+      ],
+      [
+        "change_userproduct",
+        "accounts",
+        "userproduct"
+      ],
+      [
+        "delete_userproduct",
+        "accounts",
+        "userproduct"
+      ],
+      [
+        "view_userproduct",
+        "accounts",
+        "userproduct"
+      ],
+      [
+        "add_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "change_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "delete_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "view_userprofile",
+        "accounts",
+        "userprofile"
+      ],
+      [
+        "add_userproxy",
+        "accounts",
+        "userproxy"
+      ],
+      [
+        "change_userproxy",
+        "accounts",
+        "userproxy"
+      ],
+      [
+        "delete_userproxy",
+        "accounts",
+        "userproxy"
+      ],
+      [
+        "view_userproxy",
+        "accounts",
+        "userproxy"
+      ],
+      [
+        "add_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "change_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "delete_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "view_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "add_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "change_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "delete_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "view_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "add_logentry",
+        "admin",
+        "logentry"
+      ],
+      [
+        "change_logentry",
+        "admin",
+        "logentry"
+      ],
+      [
+        "delete_logentry",
+        "admin",
+        "logentry"
+      ],
+      [
+        "view_logentry",
+        "admin",
+        "logentry"
+      ],
+      [
+        "add_group",
+        "auth",
+        "group"
+      ],
+      [
+        "change_group",
+        "auth",
+        "group"
+      ],
+      [
+        "delete_group",
+        "auth",
+        "group"
+      ],
+      [
+        "view_group",
+        "auth",
+        "group"
+      ],
+      [
+        "add_permission",
+        "auth",
+        "permission"
+      ],
+      [
+        "change_permission",
+        "auth",
+        "permission"
+      ],
+      [
+        "delete_permission",
+        "auth",
+        "permission"
+      ],
+      [
+        "view_permission",
+        "auth",
+        "permission"
+      ],
+      [
+        "add_user",
+        "auth",
+        "user"
+      ],
+      [
+        "change_user",
+        "auth",
+        "user"
+      ],
+      [
+        "delete_user",
+        "auth",
+        "user"
+      ],
+      [
+        "view_user",
+        "auth",
+        "user"
+      ],
+      [
+        "add_token",
+        "authtoken",
+        "token"
+      ],
+      [
+        "change_token",
+        "authtoken",
+        "token"
+      ],
+      [
+        "delete_token",
+        "authtoken",
+        "token"
+      ],
+      [
+        "view_token",
+        "authtoken",
+        "token"
+      ],
+      [
+        "add_tokenproxy",
+        "authtoken",
+        "tokenproxy"
+      ],
+      [
+        "change_tokenproxy",
+        "authtoken",
+        "tokenproxy"
+      ],
+      [
+        "delete_tokenproxy",
+        "authtoken",
+        "tokenproxy"
+      ],
+      [
+        "view_tokenproxy",
+        "authtoken",
+        "tokenproxy"
+      ],
+      [
+        "add_client",
+        "clients",
+        "client"
+      ],
+      [
+        "change_client",
+        "clients",
+        "client"
+      ],
+      [
+        "delete_client",
+        "clients",
+        "client"
+      ],
+      [
+        "view_client",
+        "clients",
+        "client"
+      ],
+      [
+        "add_monthcomment",
+        "clients",
+        "monthcomment"
+      ],
+      [
+        "change_monthcomment",
+        "clients",
+        "monthcomment"
+      ],
+      [
+        "delete_monthcomment",
+        "clients",
+        "monthcomment"
+      ],
+      [
+        "view_monthcomment",
+        "clients",
+        "monthcomment"
+      ],
+      [
+        "add_order",
+        "clients",
+        "order"
+      ],
+      [
+        "change_order",
+        "clients",
+        "order"
+      ],
+      [
+        "delete_order",
+        "clients",
+        "order"
+      ],
+      [
+        "view_order",
+        "clients",
+        "order"
+      ],
+      [
+        "add_orderproduct",
+        "clients",
+        "orderproduct"
+      ],
+      [
+        "change_orderproduct",
+        "clients",
+        "orderproduct"
+      ],
+      [
+        "delete_orderproduct",
+        "clients",
+        "orderproduct"
+      ],
+      [
+        "view_orderproduct",
+        "clients",
+        "orderproduct"
+      ],
+      [
+        "add_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "change_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "delete_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "view_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "add_ordersourceproduct",
+        "clients",
+        "ordersourceproduct"
+      ],
+      [
+        "change_ordersourceproduct",
+        "clients",
+        "ordersourceproduct"
+      ],
+      [
+        "delete_ordersourceproduct",
+        "clients",
+        "ordersourceproduct"
+      ],
+      [
+        "view_ordersourceproduct",
+        "clients",
+        "ordersourceproduct"
+      ],
+      [
+        "add_source",
+        "clients",
+        "source"
+      ],
+      [
+        "change_source",
+        "clients",
+        "source"
+      ],
+      [
+        "delete_source",
+        "clients",
+        "source"
+      ],
+      [
+        "view_source",
+        "clients",
+        "source"
+      ],
+      [
+        "add_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "change_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "delete_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "view_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "add_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "change_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "delete_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "view_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "add_company",
+        "company",
+        "company"
+      ],
+      [
+        "change_company",
+        "company",
+        "company"
+      ],
+      [
+        "delete_company",
+        "company",
+        "company"
+      ],
+      [
+        "view_company",
+        "company",
+        "company"
+      ],
+      [
+        "add_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "change_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "delete_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "view_composant",
+        "concurents",
+        "composant"
+      ],
+      [
+        "add_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "change_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "delete_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "view_composantdose",
+        "concurents",
+        "composantdose"
+      ],
+      [
+        "add_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "change_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "delete_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "view_composition",
+        "concurents",
+        "composition"
+      ],
+      [
+        "add_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "change_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "delete_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "view_cproduct",
+        "concurents",
+        "cproduct"
+      ],
+      [
+        "add_shape",
+        "concurents",
+        "shape"
+      ],
+      [
+        "change_shape",
+        "concurents",
+        "shape"
+      ],
+      [
+        "delete_shape",
+        "concurents",
+        "shape"
+      ],
+      [
+        "view_shape",
+        "concurents",
+        "shape"
+      ],
+      [
+        "add_contenttype",
+        "contenttypes",
+        "contenttype"
+      ],
+      [
+        "change_contenttype",
+        "contenttypes",
+        "contenttype"
+      ],
+      [
+        "delete_contenttype",
+        "contenttypes",
+        "contenttype"
+      ],
+      [
+        "view_contenttype",
+        "contenttypes",
+        "contenttype"
+      ],
+      [
+        "add_deal",
+        "deals",
+        "deal"
+      ],
+      [
+        "change_deal",
+        "deals",
+        "deal"
+      ],
+      [
+        "delete_deal",
+        "deals",
+        "deal"
+      ],
+      [
+        "view_deal",
+        "deals",
+        "deal"
+      ],
+      [
+        "add_dealcomment",
+        "deals",
+        "dealcomment"
+      ],
+      [
+        "change_dealcomment",
+        "deals",
+        "dealcomment"
+      ],
+      [
+        "delete_dealcomment",
+        "deals",
+        "dealcomment"
+      ],
+      [
+        "view_dealcomment",
+        "deals",
+        "dealcomment"
+      ],
+      [
+        "add_dealproduct",
+        "deals",
+        "dealproduct"
+      ],
+      [
+        "change_dealproduct",
+        "deals",
+        "dealproduct"
+      ],
+      [
+        "delete_dealproduct",
+        "deals",
+        "dealproduct"
+      ],
+      [
+        "view_dealproduct",
+        "deals",
+        "dealproduct"
+      ],
+      [
+        "add_dealstatus",
+        "deals",
+        "dealstatus"
+      ],
+      [
+        "change_dealstatus",
+        "deals",
+        "dealstatus"
+      ],
+      [
+        "delete_dealstatus",
+        "deals",
+        "dealstatus"
+      ],
+      [
+        "view_dealstatus",
+        "deals",
+        "dealstatus"
+      ],
+      [
+        "add_dealtype",
+        "deals",
+        "dealtype"
+      ],
+      [
+        "change_dealtype",
+        "deals",
+        "dealtype"
+      ],
+      [
+        "delete_dealtype",
+        "deals",
+        "dealtype"
+      ],
+      [
+        "view_dealtype",
+        "deals",
+        "dealtype"
+      ],
+      [
+        "add_delegue_representant",
+        "deals",
+        "delegue_representant"
+      ],
+      [
+        "add_délégue_representant",
+        "deals",
+        "delegue_representant"
+      ],
+      [
+        "add_rh",
+        "deals",
+        "delegue_representant"
+      ],
+      [
+        "change_delegue_representant",
+        "deals",
+        "delegue_representant"
+      ],
+      [
+        "change_délégue_representant",
+        "deals",
+        "delegue_representant"
+      ],
+      [
+        "change_rh",
+        "deals",
+        "delegue_representant"
+      ],
+      [
+        "delete_delegue_representant",
+        "deals",
+        "delegue_representant"
+      ],
+      [
+        "delete_délégue_representant",
+        "deals",
+        "delegue_representant"
+      ],
+      [
+        "delete_rh",
+        "deals",
+        "delegue_representant"
+      ],
+      [
+        "view_delegue_representant",
+        "deals",
+        "delegue_representant"
+      ],
+      [
+        "view_délégue_representant",
+        "deals",
+        "delegue_representant"
+      ],
+      [
+        "view_rh",
+        "deals",
+        "delegue_representant"
+      ],
+      [
+        "add_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "change_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "delete_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "view_spend",
+        "depenses",
+        "spend"
+      ],
+      [
+        "add_spendcomment",
+        "depenses",
+        "spendcomment"
+      ],
+      [
+        "change_spendcomment",
+        "depenses",
+        "spendcomment"
+      ],
+      [
+        "delete_spendcomment",
+        "depenses",
+        "spendcomment"
+      ],
+      [
+        "view_spendcomment",
+        "depenses",
+        "spendcomment"
+      ],
+      [
+        "add_spend_types",
+        "depenses",
+        "spend_types"
+      ],
+      [
+        "change_spend_types",
+        "depenses",
+        "spend_types"
+      ],
+      [
+        "delete_spend_types",
+        "depenses",
+        "spend_types"
+      ],
+      [
+        "view_spend_types",
+        "depenses",
+        "spend_types"
+      ],
+      [
+        "add_status_types",
+        "depenses",
+        "status_types"
+      ],
+      [
+        "change_status_types",
+        "depenses",
+        "status_types"
+      ],
+      [
+        "delete_status_types",
+        "depenses",
+        "status_types"
+      ],
+      [
+        "view_status_types",
+        "depenses",
+        "status_types"
+      ],
+      [
+        "add_way_of_payment",
+        "depenses",
+        "way_of_payment"
+      ],
+      [
+        "change_way_of_payment",
+        "depenses",
+        "way_of_payment"
+      ],
+      [
+        "delete_way_of_payment",
+        "depenses",
+        "way_of_payment"
+      ],
+      [
+        "view_way_of_payment",
+        "depenses",
+        "way_of_payment"
+      ],
+      [
+        "add_deplacement",
+        "deplacement",
+        "deplacement"
+      ],
+      [
+        "change_deplacement",
+        "deplacement",
+        "deplacement"
+      ],
+      [
+        "delete_deplacement",
+        "deplacement",
+        "deplacement"
+      ],
+      [
+        "view_deplacement",
+        "deplacement",
+        "deplacement"
+      ],
+      [
+        "add_nuitdetail",
+        "deplacement",
+        "nuitdetail"
+      ],
+      [
+        "change_nuitdetail",
+        "deplacement",
+        "nuitdetail"
+      ],
+      [
+        "delete_nuitdetail",
+        "deplacement",
+        "nuitdetail"
+      ],
+      [
+        "view_nuitdetail",
+        "deplacement",
+        "nuitdetail"
+      ],
+      [
+        "add_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "change_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "delete_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "view_downloadable",
+        "downloads",
+        "downloadable"
+      ],
+      [
+        "add_achat",
+        "fournisseurs",
+        "achat"
+      ],
+      [
+        "change_achat",
+        "fournisseurs",
+        "achat"
+      ],
+      [
+        "delete_achat",
+        "fournisseurs",
+        "achat"
+      ],
+      [
+        "view_achat",
+        "fournisseurs",
+        "achat"
+      ],
+      [
+        "add_fournisseur",
+        "fournisseurs",
+        "fournisseur"
+      ],
+      [
+        "change_fournisseur",
+        "fournisseurs",
+        "fournisseur"
+      ],
+      [
+        "delete_fournisseur",
+        "fournisseurs",
+        "fournisseur"
+      ],
+      [
+        "view_fournisseur",
+        "fournisseurs",
+        "fournisseur"
+      ],
+      [
+        "add_information",
+        "fournisseurs",
+        "information"
+      ],
+      [
+        "add_informations",
+        "fournisseurs",
+        "information"
+      ],
+      [
+        "change_information",
+        "fournisseurs",
+        "information"
+      ],
+      [
+        "change_informations",
+        "fournisseurs",
+        "information"
+      ],
+      [
+        "delete_information",
+        "fournisseurs",
+        "information"
+      ],
+      [
+        "delete_informations",
+        "fournisseurs",
+        "information"
+      ],
+      [
+        "view_information",
+        "fournisseurs",
+        "information"
+      ],
+      [
+        "view_informations",
+        "fournisseurs",
+        "information"
+      ],
+      [
+        "add_item",
+        "fournisseurs",
+        "item"
+      ],
+      [
+        "change_item",
+        "fournisseurs",
+        "item"
+      ],
+      [
+        "delete_item",
+        "fournisseurs",
+        "item"
+      ],
+      [
+        "view_item",
+        "fournisseurs",
+        "item"
+      ],
+      [
+        "add_sortie",
+        "fournisseurs",
+        "sortie"
+      ],
+      [
+        "change_sortie",
+        "fournisseurs",
+        "sortie"
+      ],
+      [
+        "delete_sortie",
+        "fournisseurs",
+        "sortie"
+      ],
+      [
+        "view_sortie",
+        "fournisseurs",
+        "sortie"
+      ],
+      [
+        "add_holiday",
+        "holidays",
+        "holiday"
+      ],
+      [
+        "change_holiday",
+        "holidays",
+        "holiday"
+      ],
+      [
+        "delete_holiday",
+        "holidays",
+        "holiday"
+      ],
+      [
+        "view_holiday",
+        "holidays",
+        "holiday"
+      ],
+      [
+        "add_leaveabsence",
+        "holidays",
+        "leaveabsence"
+      ],
+      [
+        "change_leaveabsence",
+        "holidays",
+        "leaveabsence"
+      ],
+      [
+        "delete_leaveabsence",
+        "holidays",
+        "leaveabsence"
+      ],
+      [
+        "view_leaveabsence",
+        "holidays",
+        "leaveabsence"
+      ],
+      [
+        "add_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "approve_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "change_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "delete_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "view_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "add_absencetype",
+        "leaves",
+        "absencetype"
+      ],
+      [
+        "change_absencetype",
+        "leaves",
+        "absencetype"
+      ],
+      [
+        "delete_absencetype",
+        "leaves",
+        "absencetype"
+      ],
+      [
+        "view_absencetype",
+        "leaves",
+        "absencetype"
+      ],
+      [
+        "add_leave",
+        "leaves",
+        "leave"
+      ],
+      [
+        "change_leave",
+        "leaves",
+        "leave"
+      ],
+      [
+        "delete_leave",
+        "leaves",
+        "leave"
+      ],
+      [
+        "view_leave",
+        "leaves",
+        "leave"
+      ],
+      [
+        "add_leavetype",
+        "leaves",
+        "leavetype"
+      ],
+      [
+        "change_leavetype",
+        "leaves",
+        "leavetype"
+      ],
+      [
+        "delete_leavetype",
+        "leaves",
+        "leavetype"
+      ],
+      [
+        "view_leavetype",
+        "leaves",
+        "leavetype"
+      ],
+      [
+        "add_occasion",
+        "leaves",
+        "occasion"
+      ],
+      [
+        "change_occasion",
+        "leaves",
+        "occasion"
+      ],
+      [
+        "delete_occasion",
+        "leaves",
+        "occasion"
+      ],
+      [
+        "view_occasion",
+        "leaves",
+        "occasion"
+      ],
+      [
+        "add_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "change_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "delete_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "view_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "add_medecinmodificationhistory",
+        "medecins",
+        "medecinmodificationhistory"
+      ],
+      [
+        "change_medecinmodificationhistory",
+        "medecins",
+        "medecinmodificationhistory"
+      ],
+      [
+        "delete_medecinmodificationhistory",
+        "medecins",
+        "medecinmodificationhistory"
+      ],
+      [
+        "view_medecinmodificationhistory",
+        "medecins",
+        "medecinmodificationhistory"
+      ],
+      [
+        "add_medecinspecialite",
+        "medecins",
+        "medecinspecialite"
+      ],
+      [
+        "change_medecinspecialite",
+        "medecins",
+        "medecinspecialite"
+      ],
+      [
+        "delete_medecinspecialite",
+        "medecins",
+        "medecinspecialite"
+      ],
+      [
+        "view_medecinspecialite",
+        "medecins",
+        "medecinspecialite"
+      ],
+      [
+        "add_meet",
+        "meet",
+        "meet"
+      ],
+      [
+        "change_meet",
+        "meet",
+        "meet"
+      ],
+      [
+        "delete_meet",
+        "meet",
+        "meet"
+      ],
+      [
+        "view_meet",
+        "meet",
+        "meet"
+      ],
+      [
+        "add_commercial_monthly_evaluation",
+        "monthly_evaluations",
+        "commercial_monthly_evaluation"
+      ],
+      [
+        "change_commercial_monthly_evaluation",
+        "monthly_evaluations",
+        "commercial_monthly_evaluation"
+      ],
+      [
+        "delete_commercial_monthly_evaluation",
+        "monthly_evaluations",
+        "commercial_monthly_evaluation"
+      ],
+      [
+        "view_commercial_monthly_evaluation",
+        "monthly_evaluations",
+        "commercial_monthly_evaluation"
+      ],
+      [
+        "add_directionevaluationtosup",
+        "monthly_evaluations",
+        "directionevaluationtosup"
+      ],
+      [
+        "change_directionevaluationtosup",
+        "monthly_evaluations",
+        "directionevaluationtosup"
+      ],
+      [
+        "delete_directionevaluationtosup",
+        "monthly_evaluations",
+        "directionevaluationtosup"
+      ],
+      [
+        "view_directionevaluationtosup",
+        "monthly_evaluations",
+        "directionevaluationtosup"
+      ],
+      [
+        "add_directiontodelegateevaluation",
+        "monthly_evaluations",
+        "directiontodelegateevaluation"
+      ],
+      [
+        "change_directiontodelegateevaluation",
+        "monthly_evaluations",
+        "directiontodelegateevaluation"
+      ],
+      [
+        "delete_directiontodelegateevaluation",
+        "monthly_evaluations",
+        "directiontodelegateevaluation"
+      ],
+      [
+        "view_directiontodelegateevaluation",
+        "monthly_evaluations",
+        "directiontodelegateevaluation"
+      ],
+      [
+        "add_monthly_evaluation",
+        "monthly_evaluations",
+        "monthly_evaluation"
+      ],
+      [
+        "change_monthly_evaluation",
+        "monthly_evaluations",
+        "monthly_evaluation"
+      ],
+      [
+        "delete_monthly_evaluation",
+        "monthly_evaluations",
+        "monthly_evaluation"
+      ],
+      [
+        "view_monthly_evaluation",
+        "monthly_evaluations",
+        "monthly_evaluation"
+      ],
+      [
+        "add_supevaluation",
+        "monthly_evaluations",
+        "supevaluation"
+      ],
+      [
+        "change_supevaluation",
+        "monthly_evaluations",
+        "supevaluation"
+      ],
+      [
+        "delete_supevaluation",
+        "monthly_evaluations",
+        "supevaluation"
+      ],
+      [
+        "view_supevaluation",
+        "monthly_evaluations",
+        "supevaluation"
+      ],
+      [
+        "add_supevaluationtodirection",
+        "monthly_evaluations",
+        "supevaluationtodirection"
+      ],
+      [
+        "change_supevaluationtodirection",
+        "monthly_evaluations",
+        "supevaluationtodirection"
+      ],
+      [
+        "delete_supevaluationtodirection",
+        "monthly_evaluations",
+        "supevaluationtodirection"
+      ],
+      [
+        "view_supevaluationtodirection",
+        "monthly_evaluations",
+        "supevaluationtodirection"
+      ],
+      [
+        "add_notification",
+        "notifications",
+        "notification"
+      ],
+      [
+        "change_notification",
+        "notifications",
+        "notification"
+      ],
+      [
+        "delete_notification",
+        "notifications",
+        "notification"
+      ],
+      [
+        "view_notification",
+        "notifications",
+        "notification"
+      ],
+      [
+        "add_usernotification",
+        "notifications",
+        "usernotification"
+      ],
+      [
+        "change_usernotification",
+        "notifications",
+        "usernotification"
+      ],
+      [
+        "delete_usernotification",
+        "notifications",
+        "usernotification"
+      ],
+      [
+        "view_usernotification",
+        "notifications",
+        "usernotification"
+      ],
+      [
+        "add_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "change_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "delete_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "view_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "add_exitorderitem",
+        "orders",
+        "exitorderitem"
+      ],
+      [
+        "change_exitorderitem",
+        "orders",
+        "exitorderitem"
+      ],
+      [
+        "delete_exitorderitem",
+        "orders",
+        "exitorderitem"
+      ],
+      [
+        "view_exitorderitem",
+        "orders",
+        "exitorderitem"
+      ],
+      [
+        "add_order",
+        "orders",
+        "order"
+      ],
+      [
+        "change_order",
+        "orders",
+        "order"
+      ],
+      [
+        "delete_order",
+        "orders",
+        "order"
+      ],
+      [
+        "view_order",
+        "orders",
+        "order"
+      ],
+      [
+        "add_orderitem",
+        "orders",
+        "orderitem"
+      ],
+      [
+        "change_orderitem",
+        "orders",
+        "orderitem"
+      ],
+      [
+        "delete_orderitem",
+        "orders",
+        "orderitem"
+      ],
+      [
+        "view_orderitem",
+        "orders",
+        "orderitem"
+      ],
+      [
+        "add_plan",
+        "plans",
+        "plan"
+      ],
+      [
+        "change_plan",
+        "plans",
+        "plan"
+      ],
+      [
+        "delete_plan",
+        "plans",
+        "plan"
+      ],
+      [
+        "view_plan",
+        "plans",
+        "plan"
+      ],
+      [
+        "add_plancomment",
+        "plans",
+        "plancomment"
+      ],
+      [
+        "change_plancomment",
+        "plans",
+        "plancomment"
+      ],
+      [
+        "delete_plancomment",
+        "plans",
+        "plancomment"
+      ],
+      [
+        "view_plancomment",
+        "plans",
+        "plancomment"
+      ],
+      [
+        "add_plantask",
+        "plans",
+        "plantask"
+      ],
+      [
+        "change_plantask",
+        "plans",
+        "plantask"
+      ],
+      [
+        "delete_plantask",
+        "plans",
+        "plantask"
+      ],
+      [
+        "view_plantask",
+        "plans",
+        "plantask"
+      ],
+      [
+        "add_entree",
+        "production",
+        "entree"
+      ],
+      [
+        "change_entree",
+        "production",
+        "entree"
+      ],
+      [
+        "delete_entree",
+        "production",
+        "entree"
+      ],
+      [
+        "view_entree",
+        "production",
+        "entree"
+      ],
+      [
+        "add_itemorderproduction",
+        "production",
+        "itemorderproduction"
+      ],
+      [
+        "change_itemorderproduction",
+        "production",
+        "itemorderproduction"
+      ],
+      [
+        "delete_itemorderproduction",
+        "production",
+        "itemorderproduction"
+      ],
+      [
+        "view_itemorderproduction",
+        "production",
+        "itemorderproduction"
+      ],
+      [
+        "add_itemorderproductionbash",
+        "production",
+        "itemorderproductionbash"
+      ],
+      [
+        "change_itemorderproductionbash",
+        "production",
+        "itemorderproductionbash"
+      ],
+      [
+        "delete_itemorderproductionbash",
+        "production",
+        "itemorderproductionbash"
+      ],
+      [
+        "view_itemorderproductionbash",
+        "production",
+        "itemorderproductionbash"
+      ],
+      [
+        "add_itemorderproductiontransfered",
+        "production",
+        "itemorderproductiontransfered"
+      ],
+      [
+        "change_itemorderproductiontransfered",
+        "production",
+        "itemorderproductiontransfered"
+      ],
+      [
+        "delete_itemorderproductiontransfered",
+        "production",
+        "itemorderproductiontransfered"
+      ],
+      [
+        "view_itemorderproductiontransfered",
+        "production",
+        "itemorderproductiontransfered"
+      ],
+      [
+        "add_orderproduction",
+        "production",
+        "orderproduction"
+      ],
+      [
+        "change_orderproduction",
+        "production",
+        "orderproduction"
+      ],
+      [
+        "delete_orderproduction",
+        "production",
+        "orderproduction"
+      ],
+      [
+        "view_orderproduction",
+        "production",
+        "orderproduction"
+      ],
+      [
+        "add_retour",
+        "production",
+        "retour"
+      ],
+      [
+        "change_retour",
+        "production",
+        "retour"
+      ],
+      [
+        "delete_retour",
+        "production",
+        "retour"
+      ],
+      [
+        "view_retour",
+        "production",
+        "retour"
+      ],
+      [
+        "add_sortie",
+        "production",
+        "sortie"
+      ],
+      [
+        "change_sortie",
+        "production",
+        "sortie"
+      ],
+      [
+        "delete_sortie",
+        "production",
+        "sortie"
+      ],
+      [
+        "view_sortie",
+        "production",
+        "sortie"
+      ],
+      [
+        "add_productactiveingerients",
+        "produits",
+        "productactiveingerients"
+      ],
+      [
+        "change_productactiveingerients",
+        "produits",
+        "productactiveingerients"
+      ],
+      [
+        "delete_productactiveingerients",
+        "produits",
+        "productactiveingerients"
+      ],
+      [
+        "view_productactiveingerients",
+        "produits",
+        "productactiveingerients"
+      ],
+      [
+        "add_productcompany",
+        "produits",
+        "productcompany"
+      ],
+      [
+        "change_productcompany",
+        "produits",
+        "productcompany"
+      ],
+      [
+        "delete_productcompany",
+        "produits",
+        "productcompany"
+      ],
+      [
+        "view_productcompany",
+        "produits",
+        "productcompany"
+      ],
+      [
+        "add_productfile",
+        "produits",
+        "productfile"
+      ],
+      [
+        "change_productfile",
+        "produits",
+        "productfile"
+      ],
+      [
+        "delete_productfile",
+        "produits",
+        "productfile"
+      ],
+      [
+        "view_productfile",
+        "produits",
+        "productfile"
+      ],
+      [
+        "add_productinactiveingredients",
+        "produits",
+        "productinactiveingredients"
+      ],
+      [
+        "change_productinactiveingredients",
+        "produits",
+        "productinactiveingredients"
+      ],
+      [
+        "delete_productinactiveingredients",
+        "produits",
+        "productinactiveingredients"
+      ],
+      [
+        "view_productinactiveingredients",
+        "produits",
+        "productinactiveingredients"
+      ],
+      [
+        "add_productinformations",
+        "produits",
+        "productinformations"
+      ],
+      [
+        "change_productinformations",
+        "produits",
+        "productinformations"
+      ],
+      [
+        "delete_productinformations",
+        "produits",
+        "productinformations"
+      ],
+      [
+        "view_productinformations",
+        "produits",
+        "productinformations"
+      ],
+      [
+        "add_productnote",
+        "produits",
+        "productnote"
+      ],
+      [
+        "change_productnote",
+        "produits",
+        "productnote"
+      ],
+      [
+        "delete_productnote",
+        "produits",
+        "productnote"
+      ],
+      [
+        "view_productnote",
+        "produits",
+        "productnote"
+      ],
+      [
+        "add_productproductionfullprocessstep",
+        "produits",
+        "productproductionfullprocessstep"
+      ],
+      [
+        "change_productproductionfullprocessstep",
+        "produits",
+        "productproductionfullprocessstep"
+      ],
+      [
+        "delete_productproductionfullprocessstep",
+        "produits",
+        "productproductionfullprocessstep"
+      ],
+      [
+        "view_productproductionfullprocessstep",
+        "produits",
+        "productproductionfullprocessstep"
+      ],
+      [
+        "add_productproductioninfos",
+        "produits",
+        "productproductioninfos"
+      ],
+      [
+        "change_productproductioninfos",
+        "produits",
+        "productproductioninfos"
+      ],
+      [
+        "delete_productproductioninfos",
+        "produits",
+        "productproductioninfos"
+      ],
+      [
+        "view_productproductioninfos",
+        "produits",
+        "productproductioninfos"
+      ],
+      [
+        "add_productproductionpremixstep",
+        "produits",
+        "productproductionpremixstep"
+      ],
+      [
+        "change_productproductionpremixstep",
+        "produits",
+        "productproductionpremixstep"
+      ],
+      [
+        "delete_productproductionpremixstep",
+        "produits",
+        "productproductionpremixstep"
+      ],
+      [
+        "view_productproductionpremixstep",
+        "produits",
+        "productproductionpremixstep"
+      ],
+      [
+        "add_productproductionstep",
+        "produits",
+        "productproductionstep"
+      ],
+      [
+        "change_productproductionstep",
+        "produits",
+        "productproductionstep"
+      ],
+      [
+        "delete_productproductionstep",
+        "produits",
+        "productproductionstep"
+      ],
+      [
+        "view_productproductionstep",
+        "produits",
+        "productproductionstep"
+      ],
+      [
+        "add_produit",
+        "produits",
+        "produit"
+      ],
+      [
+        "change_produit",
+        "produits",
+        "produit"
+      ],
+      [
+        "delete_produit",
+        "produits",
+        "produit"
+      ],
+      [
+        "view_produit",
+        "produits",
+        "produit"
+      ],
+      [
+        "add_produitvisite",
+        "produits",
+        "produitvisite"
+      ],
+      [
+        "change_produitvisite",
+        "produits",
+        "produitvisite"
+      ],
+      [
+        "delete_produitvisite",
+        "produits",
+        "produitvisite"
+      ],
+      [
+        "view_produitvisite",
+        "produits",
+        "produitvisite"
+      ],
+      [
+        "add_anomalies",
+        "rapports",
+        "anomalies"
+      ],
+      [
+        "change_anomalies",
+        "rapports",
+        "anomalies"
+      ],
+      [
+        "delete_anomalies",
+        "rapports",
+        "anomalies"
+      ],
+      [
+        "view_anomalies",
+        "rapports",
+        "anomalies"
+      ],
+      [
+        "add_comment",
+        "rapports",
+        "comment"
+      ],
+      [
+        "change_comment",
+        "rapports",
+        "comment"
+      ],
+      [
+        "delete_comment",
+        "rapports",
+        "comment"
+      ],
+      [
+        "view_comment",
+        "rapports",
+        "comment"
+      ],
+      [
+        "add_generatedpdf",
+        "rapports",
+        "generatedpdf"
+      ],
+      [
+        "change_generatedpdf",
+        "rapports",
+        "generatedpdf"
+      ],
+      [
+        "delete_generatedpdf",
+        "rapports",
+        "generatedpdf"
+      ],
+      [
+        "view_generatedpdf",
+        "rapports",
+        "generatedpdf"
+      ],
+      [
+        "add_qrcodemodel",
+        "rapports",
+        "qrcodemodel"
+      ],
+      [
+        "change_qrcodemodel",
+        "rapports",
+        "qrcodemodel"
+      ],
+      [
+        "delete_qrcodemodel",
+        "rapports",
+        "qrcodemodel"
+      ],
+      [
+        "view_qrcodemodel",
+        "rapports",
+        "qrcodemodel"
+      ],
+      [
+        "add_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "change_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "delete_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "view_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "add_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "change_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "delete_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "view_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "add_commune",
+        "regions",
+        "commune"
+      ],
+      [
+        "change_commune",
+        "regions",
+        "commune"
+      ],
+      [
+        "delete_commune",
+        "regions",
+        "commune"
+      ],
+      [
+        "view_commune",
+        "regions",
+        "commune"
+      ],
+      [
+        "add_pays",
+        "regions",
+        "pays"
+      ],
+      [
+        "change_pays",
+        "regions",
+        "pays"
+      ],
+      [
+        "delete_pays",
+        "regions",
+        "pays"
+      ],
+      [
+        "view_pays",
+        "regions",
+        "pays"
+      ],
+      [
+        "add_wilaya",
+        "regions",
+        "wilaya"
+      ],
+      [
+        "change_wilaya",
+        "regions",
+        "wilaya"
+      ],
+      [
+        "delete_wilaya",
+        "regions",
+        "wilaya"
+      ],
+      [
+        "view_wilaya",
+        "regions",
+        "wilaya"
+      ],
+      [
+        "add_session",
+        "sessions",
+        "session"
+      ],
+      [
+        "change_session",
+        "sessions",
+        "session"
+      ],
+      [
+        "delete_session",
+        "sessions",
+        "session"
+      ],
+      [
+        "view_session",
+        "sessions",
+        "session"
+      ],
+      [
+        "add_spend",
+        "spends",
+        "spend"
+      ],
+      [
+        "change_spend",
+        "spends",
+        "spend"
+      ],
+      [
+        "delete_spend",
+        "spends",
+        "spend"
+      ],
+      [
+        "view_spend",
+        "spends",
+        "spend"
+      ],
+      [
+        "add_spends",
+        "spends",
+        "spends"
+      ],
+      [
+        "change_spends",
+        "spends",
+        "spends"
+      ],
+      [
+        "delete_spends",
+        "spends",
+        "spends"
+      ],
+      [
+        "view_spends",
+        "spends",
+        "spends"
+      ],
+      [
+        "add_spend_types",
+        "spends",
+        "spend_types"
+      ],
+      [
+        "change_spend_types",
+        "spends",
+        "spend_types"
+      ],
+      [
+        "delete_spend_types",
+        "spends",
+        "spend_types"
+      ],
+      [
+        "view_spend_types",
+        "spends",
+        "spend_types"
+      ],
+      [
+        "add_status_types",
+        "spends",
+        "status_types"
+      ],
+      [
+        "change_status_types",
+        "spends",
+        "status_types"
+      ],
+      [
+        "delete_status_types",
+        "spends",
+        "status_types"
+      ],
+      [
+        "view_status_types",
+        "spends",
+        "status_types"
+      ],
+      [
+        "add_way_of_payment",
+        "spends",
+        "way_of_payment"
+      ],
+      [
+        "change_way_of_payment",
+        "spends",
+        "way_of_payment"
+      ],
+      [
+        "delete_way_of_payment",
+        "spends",
+        "way_of_payment"
+      ],
+      [
+        "view_way_of_payment",
+        "spends",
+        "way_of_payment"
+      ],
+      [
+        "add_supervisor_evaluation",
+        "supervisors_evaluations",
+        "supervisor_evaluation"
+      ],
+      [
+        "change_supervisor_evaluation",
+        "supervisors_evaluations",
+        "supervisor_evaluation"
+      ],
+      [
+        "delete_supervisor_evaluation",
+        "supervisors_evaluations",
+        "supervisor_evaluation"
+      ],
+      [
+        "view_supervisor_evaluation",
+        "supervisors_evaluations",
+        "supervisor_evaluation"
+      ],
+      [
+        "add_supervisorevaluation",
+        "supervisors_evaluations",
+        "supervisorevaluation"
+      ],
+      [
+        "change_supervisorevaluation",
+        "supervisors_evaluations",
+        "supervisorevaluation"
+      ],
+      [
+        "delete_supervisorevaluation",
+        "supervisors_evaluations",
+        "supervisorevaluation"
+      ],
+      [
+        "view_supervisorevaluation",
+        "supervisors_evaluations",
+        "supervisorevaluation"
+      ],
+      [
+        "add_supevaluation",
+        "supervisors_evaluations",
+        "supevaluation"
+      ],
+      [
+        "change_supevaluation",
+        "supervisors_evaluations",
+        "supevaluation"
+      ],
+      [
+        "delete_supevaluation",
+        "supervisors_evaluations",
+        "supevaluation"
+      ],
+      [
+        "view_supevaluation",
+        "supervisors_evaluations",
+        "supevaluation"
+      ],
+      [
+        "add_creance",
+        "versement",
+        "creance"
+      ],
+      [
+        "change_creance",
+        "versement",
+        "creance"
+      ],
+      [
+        "delete_creance",
+        "versement",
+        "creance"
+      ],
+      [
+        "view_creance",
+        "versement",
+        "creance"
+      ],
+      [
+        "add_creanceclient",
+        "versement",
+        "creanceclient"
+      ],
+      [
+        "change_creanceclient",
+        "versement",
+        "creanceclient"
+      ],
+      [
+        "delete_creanceclient",
+        "versement",
+        "creanceclient"
+      ],
+      [
+        "view_creanceclient",
+        "versement",
+        "creanceclient"
+      ],
+      [
+        "add_paybookuser",
+        "versement",
+        "paybookuser"
+      ],
+      [
+        "change_paybookuser",
+        "versement",
+        "paybookuser"
+      ],
+      [
+        "delete_paybookuser",
+        "versement",
+        "paybookuser"
+      ],
+      [
+        "view_paybookuser",
+        "versement",
+        "paybookuser"
+      ],
+      [
+        "add_versement",
+        "versement",
+        "versement"
+      ],
+      [
+        "change_versement",
+        "versement",
+        "versement"
+      ],
+      [
+        "delete_versement",
+        "versement",
+        "versement"
+      ],
+      [
+        "view_versement",
+        "versement",
+        "versement"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$180000$RFFAOYztI7FD$DC6rGarohFRj1cgnuozaLaNHJX8dxB0Zj3TbNmWOTtE=",
+    "last_login": "2021-08-30T23:37:51Z",
+    "is_superuser": false,
+    "username": "SUPERASMATN",
+    "first_name": "Asma",
+    "last_name": "Ben Dhaou",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2020-06-06T14:01:46Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Supervisor"
+      ]
+    ],
+    "user_permissions": [
+      [
+        "add_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "change_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "delete_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "view_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "add_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "change_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "delete_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "view_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "add_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "change_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "delete_visite",
+        "rapports",
+        "visite"
+      ],
+      [
+        "view_visite",
+        "rapports",
+        "visite"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$HFUG6uNM3bpCyE3X3ENY4j$OAygJbRMsdXJ1BPCgMbdW5kmj5rM4GVjnmZHTVmiBQo=",
+    "last_login": "2025-01-30T12:52:05Z",
+    "is_superuser": false,
+    "username": "itedaldz",
+    "first_name": "SHARBAJI",
+    "last_name": "Itedal",
+    "email": "i.sharbadji@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2020-07-21T17:23:39Z",
+    "groups": [
+      [
+        "Commerciale"
+      ]
+    ],
+    "user_permissions": [
+      [
+        "change_medecin",
+        "medecins",
+        "medecin"
+      ],
+      [
+        "view_medecin",
+        "medecins",
+        "medecin"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$5pquhVJslnKhVnnT37LQML$YojD6hEQO6LxcWrNCZ4XtWZw94eDbBdHJE6AWxpCuio=",
+    "last_login": "2025-01-22T13:22:29Z",
+    "is_superuser": false,
+    "username": "MASLOUGDZ",
+    "first_name": "SOUALAH",
+    "last_name": "Nassima",
+    "email": "soualahnassima@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2021-01-03T16:17:14Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Commerciale"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$mL5ghbu9CwIdNtVzgR2kJs$0V3JoNj3vMf6HVVKdk3IMcIfdNF4tw+lFbS8vruuTZQ=",
+    "last_login": "2025-02-01T21:34:27Z",
+    "is_superuser": false,
+    "username": "Fatimadz",
+    "first_name": "ZERROUKI",
+    "last_name": "Fatima Zohra",
+    "email": "f.zerrouki@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2021-01-19T03:29:39Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$ZezzCl9OWzfhpXGYj5bKnk$OhNRCWY2fGKHoVkKue8pXoOXSBBp67COk521fIVTnu0=",
+    "last_login": "2022-04-08T20:21:41Z",
+    "is_superuser": false,
+    "username": "TUNIS2021",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2021-09-03T10:52:54Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$LYrETA6XWtMS537ctLDc9v$iVzu3+pnNHxHTyClOcFDmve1Oljf8upwTGqR3GukX18=",
+    "last_login": "2025-02-02T22:45:18Z",
+    "is_superuser": false,
+    "username": "SAMYDZ",
+    "first_name": "FEROUI",
+    "last_name": "Othmane Sami",
+    "email": "s.feroui@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2022-11-29T22:15:50Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$Vy0HpfWZ5Ah1gV0e669vba$vyrmT3YZM5L8vZRECp8CVLk2SDXwwMwi6pcCC6ttiKY=",
+    "last_login": "2025-02-02T15:00:47Z",
+    "is_superuser": false,
+    "username": "ibtissemdz",
+    "first_name": "BOUTAIBAOUI",
+    "last_name": "Ibtissem",
+    "email": "lilium.dz@gmail.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2022-01-12T17:13:13Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Finance & Comptabilité"
+      ],
+      [
+        "BON DE SORTIE confirme"
+      ],
+      [
+        "BON DE COMMANDE confirme"
+      ],
+      [
+        "BON DE COMMANDE en cours"
+      ]
+    ],
+    "user_permissions": [
+      [
+        "add_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "change_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "delete_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "view_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "add_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "change_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "delete_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "view_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "add_user",
+        "auth",
+        "user"
+      ],
+      [
+        "change_user",
+        "auth",
+        "user"
+      ],
+      [
+        "delete_user",
+        "auth",
+        "user"
+      ],
+      [
+        "view_user",
+        "auth",
+        "user"
+      ],
+      [
+        "add_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "change_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "delete_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "view_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "add_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "change_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "delete_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "view_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "add_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "change_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "delete_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "view_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "add_order",
+        "orders",
+        "order"
+      ],
+      [
+        "change_order",
+        "orders",
+        "order"
+      ],
+      [
+        "delete_order",
+        "orders",
+        "order"
+      ],
+      [
+        "view_order",
+        "orders",
+        "order"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$IHH457KP1bfFhtOVfuBvfs$7e0Owj1yGQcGXai2JbLkEkXyAuULHn5fi+pgzpHd/6w=",
+    "last_login": "2024-11-19T11:05:41Z",
+    "is_superuser": false,
+    "username": "Chlef",
+    "first_name": "OMAR",
+    "last_name": "Fatima Zohra",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2022-02-03T13:08:35Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$OfvDYAWqW4ubxROlM94FPU$Mcb1OlLbpsVxUQRy8C5Pu9yMK93ta9iILsZpFnPVlZg=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "google",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-02-04T15:47:36Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$p40RFzPuBobsgwSgUDu7iC$upH9ffBPtnZ1vuVdO+RxYGJhEGYiF4YL1AHdT6HeAlQ=",
+    "last_login": "2022-03-04T21:32:18Z",
+    "is_superuser": false,
+    "username": "YOUSEF",
+    "first_name": "GHOSHEH",
+    "last_name": "Youcef",
+    "email": "yghousha@gmail.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2022-02-06T18:55:06Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Supervisor"
+      ],
+      [
+        "!  ALL PERMISSIONS  !"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$XOtpBrqz7YQILaWJTbRBNJ$l2c/LZGphszOYt4KOa5dhQtuXLqCTpqQy+wobdLInmU=",
+    "last_login": "2025-01-19T12:56:38Z",
+    "is_superuser": false,
+    "username": "BouhallaDZ",
+    "first_name": "BOUHALLA",
+    "last_name": "Imane",
+    "email": "i.bouhala@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2022-05-27T21:18:05Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Commerciale"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$COXjSwUwNMbbhANTd0MC62$XvxM8s4qFtp259+wlJSNZF66rgduLuEYoFTJVR1TySc=",
+    "last_login": "2025-02-02T14:45:21Z",
+    "is_superuser": false,
+    "username": "ROCHDDZ",
+    "first_name": "ABDELHAMID",
+    "last_name": "Lyna",
+    "email": "l.abdelhamid@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2023-07-31T14:31:52Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$wtuAuG5CvRueXzJOBtLSti$lSe1ZOU7PY66l7Sb2gA9k2c8svxDF5q+VdvtaDSuhxI=",
+    "last_login": "2025-02-17T00:10:37.357Z",
+    "is_superuser": true,
+    "username": "HANIADZ",
+    "first_name": "MAKOUR",
+    "last_name": "Hania",
+    "email": "h.makour@liliumpharma.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2022-06-21T10:33:48Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Superviseur National"
+      ]
+    ],
+    "user_permissions": [
+      [
+        "approve_absence",
+        "leaves",
+        "absence"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$dEmlCTshwDDrsni0i8xzQI$Xc0JadWhDnxUToWmASLKYeqoj0gXTISg6931gdbw070=",
+    "last_login": "2025-02-19T15:52:18.284Z",
+    "is_superuser": false,
+    "username": "MeriemDZ",
+    "first_name": "RIMOUCHE",
+    "last_name": "Meriem",
+    "email": "m.rimouche@liliumpharma.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2022-06-21T11:12:03Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "BON DE SORTIE confirme"
+      ],
+      [
+        "BON DE COMMANDE traite"
+      ],
+      [
+        "BON DE COMMANDE confirme"
+      ],
+      [
+        "country manager"
+      ],
+      [
+        "Country manager"
+      ]
+    ],
+    "user_permissions": [
+      [
+        "add_userproduct",
+        "accounts",
+        "userproduct"
+      ],
+      [
+        "change_userproduct",
+        "accounts",
+        "userproduct"
+      ],
+      [
+        "delete_userproduct",
+        "accounts",
+        "userproduct"
+      ],
+      [
+        "view_userproduct",
+        "accounts",
+        "userproduct"
+      ],
+      [
+        "add_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "change_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "delete_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "view_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "add_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "change_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "delete_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "view_usertargetmonthproduct",
+        "accounts",
+        "usertargetmonthproduct"
+      ],
+      [
+        "add_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "change_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "delete_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "view_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "add_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "change_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "delete_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "view_usertargetmonthproduct",
+        "clients",
+        "usertargetmonthproduct"
+      ],
+      [
+        "approve_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "add_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "change_rapport",
+        "rapports",
+        "rapport"
+      ],
+      [
+        "view_rapport",
+        "rapports",
+        "rapport"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$4Yh6YWLbf66aVIdHqciUef$Hn3WEsETT88aHUQ6enXLZbI5FcdSwRg2BGQRaY+psxk=",
+    "last_login": "2022-07-21T11:18:40Z",
+    "is_superuser": false,
+    "username": "sabrinadz",
+    "first_name": "sabrinasa",
+    "last_name": "",
+    "email": "sabrinasab784@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2022-07-21T11:18:10Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$OiUlPZAAZgEgNqShfcmPLo$b4JeH7Pk3DaqogNgEh/fSFv/HJLJRU+3LCFUDCVmgLI=",
+    "last_login": "2022-08-18T16:21:24Z",
+    "is_superuser": false,
+    "username": "boualemdz",
+    "first_name": "AIT AMER",
+    "last_name": "Boualem",
+    "email": "aitboualem64@gmail.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2022-08-18T16:15:28Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "!  ALL PERMISSIONS  !"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$0YQxb70m8GEYe9Wl1MKmzT$4XsSbqxO3YTVkx1m+1tzV82OUd5dz8bcdTYhBWkYrRs=",
+    "last_login": "2025-01-11T12:47:56Z",
+    "is_superuser": false,
+    "username": "IMENEDZ",
+    "first_name": "MOKEDDEM",
+    "last_name": "Hayat",
+    "email": "i.moukadem@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2022-09-04T16:13:48Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Commerciale"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$KS8qlX6s0sQoLgyOo3mesO$jD4RIAPNTdR4nHGM9rxHaX23oWxZPDJuOjOt4tC+svE=",
+    "last_login": "2025-02-16T23:43:12.260Z",
+    "is_superuser": false,
+    "username": "nesrinedz",
+    "first_name": "MEZIANI",
+    "last_name": "Nesrine",
+    "email": "haniamakour313@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-07-09T12:04:35Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$qPLAbyBicVEjykZqNScAEb$j1lV97yBfnicyQ1kQi25TQvDs4v8xVcR0ezB8PHxILg=",
+    "last_login": "2025-02-16T23:14:49.838Z",
+    "is_superuser": false,
+    "username": "BelhadjDZ",
+    "first_name": "BELHADJ",
+    "last_name": "ADEL",
+    "email": "a.belhadj@liliumpharma.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2022-12-05T13:36:07Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$KoIPKrS7TOUN3dR9dNR2yr$iwbHz0Pnl2UOe1udwY3EN0r9Ynbx5fLsIEdq7ctUn+Y=",
+    "last_login": "2023-01-14T14:49:37Z",
+    "is_superuser": false,
+    "username": "apple",
+    "first_name": "Apple",
+    "last_name": "Dev",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2023-01-11T19:11:22Z",
+    "groups": [
+      [
+        "!  ALL PERMISSIONS  !"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$2pcO4Zfu86L99B39A91Q6T$PXQXVb/dkslrpicdxGuaKRTeGCy2xrxWj0vhEWckw64=",
+    "last_login": "2025-02-11T12:12:26Z",
+    "is_superuser": true,
+    "username": "MAALEM",
+    "first_name": "MAALEM",
+    "last_name": "Madjid",
+    "email": "madjid@liliumpharma.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-02-05T13:01:39Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Finance & Comptabilité"
+      ]
+    ],
+    "user_permissions": [
+      [
+        "add_creance",
+        "versement",
+        "creance"
+      ],
+      [
+        "change_creance",
+        "versement",
+        "creance"
+      ],
+      [
+        "delete_creance",
+        "versement",
+        "creance"
+      ],
+      [
+        "view_creance",
+        "versement",
+        "creance"
+      ],
+      [
+        "add_creanceclient",
+        "versement",
+        "creanceclient"
+      ],
+      [
+        "change_creanceclient",
+        "versement",
+        "creanceclient"
+      ],
+      [
+        "delete_creanceclient",
+        "versement",
+        "creanceclient"
+      ],
+      [
+        "view_creanceclient",
+        "versement",
+        "creanceclient"
+      ],
+      [
+        "add_paybookuser",
+        "versement",
+        "paybookuser"
+      ],
+      [
+        "change_paybookuser",
+        "versement",
+        "paybookuser"
+      ],
+      [
+        "delete_paybookuser",
+        "versement",
+        "paybookuser"
+      ],
+      [
+        "view_paybookuser",
+        "versement",
+        "paybookuser"
+      ],
+      [
+        "add_versement",
+        "versement",
+        "versement"
+      ],
+      [
+        "change_versement",
+        "versement",
+        "versement"
+      ],
+      [
+        "delete_versement",
+        "versement",
+        "versement"
+      ],
+      [
+        "view_versement",
+        "versement",
+        "versement"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$eHCg5csN0QiTjmap9sHahr$iwKssWYN1cqDC6nmEMp8ERkIOJwhZRtKMzI8J7coHIc=",
+    "last_login": "2025-02-02T14:45:07Z",
+    "is_superuser": false,
+    "username": "SihemDZ",
+    "first_name": "OUALI",
+    "last_name": "Sihem",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2023-02-09T12:05:59Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Superviseur National"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$o4TBSiSErCFPiMyDBl6I1r$J/v6LW9YrUEMgZYyWT3O1wzlbXbdY+BM47UZYvP1Tks=",
+    "last_login": "2025-02-16T23:12:17.510Z",
+    "is_superuser": false,
+    "username": "akramhdz",
+    "first_name": "HAFASSA",
+    "last_name": "Akram",
+    "email": "a.hafassa@liliumpharma.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-04-30T12:15:17Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$vseCJhWBQDMAJyOvgNsVNw$j9Aj2A8QFdCKlRSMZwDm/X3AP3QrATE8wtyXfAmx0ZM=",
+    "last_login": "2025-01-14T19:25:55Z",
+    "is_superuser": false,
+    "username": "ISKANDERDZ",
+    "first_name": "ISKANDER",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2023-05-07T13:55:45Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$9B0tFVj3VNyCk08VDmpecS$PK+Vu45hr2RRDV60WgH0iJ+A6z1y47BeyzZwS1K963A=",
+    "last_login": "2024-11-27T17:23:54Z",
+    "is_superuser": false,
+    "username": "Mustaphadz",
+    "first_name": "Mustapha",
+    "last_name": "Mustapha",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2023-07-24T10:16:55Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$FlFOJyq6CcepbDFn5v1gTS$ZWPQqb01vHkguzTAlhRMInzeE8SAt2FTL87gTj56n5w=",
+    "last_login": "2025-02-02T14:08:05Z",
+    "is_superuser": false,
+    "username": "kenzadz",
+    "first_name": "BOURENANE",
+    "last_name": "Kenza",
+    "email": "kenza@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2022-06-12T22:36:33Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Service Technique"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$bG2r5NnR3qJWmXChi98bH1$yqwTuTRiebGHBFbx9YT9PNRZnwSNR5LUsJzPNct19PQ=",
+    "last_login": "2025-02-12T09:49:02.388Z",
+    "is_superuser": false,
+    "username": "sadidz",
+    "first_name": "SADI",
+    "last_name": "Ahmed",
+    "email": "sidahmed@liliumpharma.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-08-17T08:10:17Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$zITNmfoIANc3hUjiVdKFgD$6RJf0ecAhAwFE/DtceX93SQ8EnTLRSYxvRRc9QgysKQ=",
+    "last_login": "2025-02-16T23:40:55.411Z",
+    "is_superuser": false,
+    "username": "melizadz",
+    "first_name": "GUERRAB",
+    "last_name": "Meliza",
+    "email": "m.guerrab@liliumpharma.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-08-31T09:32:13Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$fT8jFPM67tj6VWQxdnThoe$ubnxHEpmlHqjDhZ5V/TQefTeuE0XkRK3QEMUofof8Ys=",
+    "last_login": "2025-02-16T23:05:09.561Z",
+    "is_superuser": false,
+    "username": "AbderahmaneDZ",
+    "first_name": "CHEMMAME",
+    "last_name": "Abderahmane",
+    "email": "a.chemmame@liliumpharma.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-08-31T09:54:27Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$K51OwdeStVrz11wJUyUQAF$WisPO9lhWucQ5keRt3HwR9HSoHLE9q4ILO185eb/LMI=",
+    "last_login": "2025-02-16T23:20:45.670Z",
+    "is_superuser": false,
+    "username": "hamzadz",
+    "first_name": "MANSOURI",
+    "last_name": "Hamza",
+    "email": "h.mansouri@liliumpharma.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-08-31T10:15:25Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$1KuP4f7DFM8l2DJrUMiNEB$cEx1nwQo2y39IMMFkZSYB05eai6I2YBV8PGxAiR7Dtg=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "meryemdz",
+    "first_name": "BOULAFRAOU",
+    "last_name": "Meryem",
+    "email": "blfmeriem1@gmail.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2023-09-03T14:32:39Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$qq6tYDVlkhG1JNO5cjfxyo$LjKSoIaON3WgwUGnh8VeEEqrYacIevTVI1aQGj+VA4A=",
+    "last_login": "2025-02-16T12:50:49Z",
+    "is_superuser": false,
+    "username": "RABTIDZ",
+    "first_name": "RABTI",
+    "last_name": "Ahmed",
+    "email": "a.rabti@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2023-10-30T12:51:24Z",
+    "groups": [
+      [
+        "BON DE SORTIE confirme"
+      ],
+      [
+        "BON DE SORTIE traite"
+      ],
+      [
+        "BON DE COMMANDE traite"
+      ]
+    ],
+    "user_permissions": [
+      [
+        "add_order",
+        "clients",
+        "order"
+      ],
+      [
+        "change_order",
+        "clients",
+        "order"
+      ],
+      [
+        "delete_order",
+        "clients",
+        "order"
+      ],
+      [
+        "view_order",
+        "clients",
+        "order"
+      ],
+      [
+        "add_orderproduct",
+        "clients",
+        "orderproduct"
+      ],
+      [
+        "change_orderproduct",
+        "clients",
+        "orderproduct"
+      ],
+      [
+        "delete_orderproduct",
+        "clients",
+        "orderproduct"
+      ],
+      [
+        "view_orderproduct",
+        "clients",
+        "orderproduct"
+      ],
+      [
+        "add_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "change_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "delete_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "view_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "add_ordersourceproduct",
+        "clients",
+        "ordersourceproduct"
+      ],
+      [
+        "change_ordersourceproduct",
+        "clients",
+        "ordersourceproduct"
+      ],
+      [
+        "delete_ordersourceproduct",
+        "clients",
+        "ordersourceproduct"
+      ],
+      [
+        "view_ordersourceproduct",
+        "clients",
+        "ordersourceproduct"
+      ],
+      [
+        "add_source",
+        "clients",
+        "source"
+      ],
+      [
+        "change_source",
+        "clients",
+        "source"
+      ],
+      [
+        "delete_source",
+        "clients",
+        "source"
+      ],
+      [
+        "view_source",
+        "clients",
+        "source"
+      ],
+      [
+        "add_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "change_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "delete_usertargetmonth",
+        "clients",
+        "usertargetmonth"
+      ],
+      [
+        "add_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "change_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "delete_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "view_exitorder",
+        "orders",
+        "exitorder"
+      ],
+      [
+        "add_exitorderitem",
+        "orders",
+        "exitorderitem"
+      ],
+      [
+        "change_exitorderitem",
+        "orders",
+        "exitorderitem"
+      ],
+      [
+        "delete_exitorderitem",
+        "orders",
+        "exitorderitem"
+      ],
+      [
+        "view_exitorderitem",
+        "orders",
+        "exitorderitem"
+      ],
+      [
+        "add_order",
+        "orders",
+        "order"
+      ],
+      [
+        "change_order",
+        "orders",
+        "order"
+      ],
+      [
+        "delete_order",
+        "orders",
+        "order"
+      ],
+      [
+        "view_order",
+        "orders",
+        "order"
+      ],
+      [
+        "add_orderitem",
+        "orders",
+        "orderitem"
+      ],
+      [
+        "change_orderitem",
+        "orders",
+        "orderitem"
+      ],
+      [
+        "delete_orderitem",
+        "orders",
+        "orderitem"
+      ],
+      [
+        "view_orderitem",
+        "orders",
+        "orderitem"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$3KQsDzncwYPZFj31ViEi48$l6XkvcJSZuph4japK9q5EF6zzdQRWaI/h3qCsjvWIt8=",
+    "last_login": "2025-01-09T13:41:12Z",
+    "is_superuser": false,
+    "username": "guerfidz",
+    "first_name": "GUERFI",
+    "last_name": "Aya Rabia",
+    "email": "a.guerfi@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2023-11-23T15:55:26Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$3ASwjWZkarWWGBCcaWg2LU$yG4UIGYwlhhmkJ049rhOK3OAm30hH4Ys8sr8frGvDS0=",
+    "last_login": "2025-02-18T16:22:33.611Z",
+    "is_superuser": false,
+    "username": "syrianadz",
+    "first_name": "AZZOUZ",
+    "last_name": "SYRIANA HAYET",
+    "email": "syriana.hayet@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-12-05T10:14:12Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$RmsonULzGbnGmofH0Q4Kge$u2cArF3FpUwr+pvTh7GcY2FFguAbOFVkFXyab22qbBE=",
+    "last_login": "2025-02-02T21:01:57Z",
+    "is_superuser": false,
+    "username": "SAMIADZ",
+    "first_name": "SAMIA",
+    "last_name": "YOUSFI",
+    "email": "samia_yousfi@hotmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-12-05T11:04:30Z",
+    "groups": [
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": [
+      [
+        "add_rapport",
+        "rapports",
+        "rapport"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$wQkOCXC3YFtmw2Bl83vS0q$JtZ1gM3Fdpalw2HqbVLAIGm5cu6gquvp6erkbG4IwSg=",
+    "last_login": "2025-02-17T00:09:11.645Z",
+    "is_superuser": false,
+    "username": "taibidz",
+    "first_name": "TAIBI",
+    "last_name": "Lydia",
+    "email": "l.taibi@liliumpharma.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-02-21T11:10:23Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$YdQ8fbrmPii171CbDfi9nh$J5CUeOhQyue8xMFhoxuHH+CJmUJl6EYS0BBHSq5s2lQ=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "ORANLINE2",
+    "first_name": "ZINAI",
+    "last_name": "Ahmed Abdellah",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2024-02-21T11:17:16Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$VFMOcb9v4IwWRgHIctcZ4G$cUf8tTB5FhQg65XInPd8IHV/mb3ldluowZoUhIDYOm0=",
+    "last_login": "2025-02-01T16:33:10Z",
+    "is_superuser": false,
+    "username": "khelilidz",
+    "first_name": "KHELILI",
+    "last_name": "Abderraouf",
+    "email": "a.khelili@liliumpharma.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-02-21T11:23:32Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$P3sNGpmLqbG1K4Nj9Tsy3b$vxqd3ZhLchw/hsAOkkCzAxgyjsZDkTUNZzd3vjlKavc=",
+    "last_login": "2025-01-16T16:03:29Z",
+    "is_superuser": false,
+    "username": "telmsan",
+    "first_name": "BENARIBA",
+    "last_name": "Ikram",
+    "email": "i.benariba@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2024-03-05T13:41:05Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$wjzYitEU8oqQ9moBUuRhxE$pD60olHPdNwjq89pmDVJbgVNtx36W7CbMXK4UAMuYTQ=",
+    "last_login": "2025-02-09T13:24:35.056Z",
+    "is_superuser": false,
+    "username": "BillalDZ",
+    "first_name": "DEGHMOUM",
+    "last_name": "Billal",
+    "email": "b.deghmoum@lilium.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-04-28T11:04:10Z",
+    "groups": [
+      [
+        "Country manager"
+      ]
+    ],
+    "user_permissions": [
+      [
+        "add_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "change_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "delete_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "view_ordersource",
+        "clients",
+        "ordersource"
+      ],
+      [
+        "add_source",
+        "clients",
+        "source"
+      ],
+      [
+        "change_source",
+        "clients",
+        "source"
+      ],
+      [
+        "delete_source",
+        "clients",
+        "source"
+      ],
+      [
+        "view_source",
+        "clients",
+        "source"
+      ],
+      [
+        "add_creance",
+        "versement",
+        "creance"
+      ],
+      [
+        "change_creance",
+        "versement",
+        "creance"
+      ],
+      [
+        "delete_creance",
+        "versement",
+        "creance"
+      ],
+      [
+        "view_creance",
+        "versement",
+        "creance"
+      ],
+      [
+        "add_creanceclient",
+        "versement",
+        "creanceclient"
+      ],
+      [
+        "change_creanceclient",
+        "versement",
+        "creanceclient"
+      ],
+      [
+        "delete_creanceclient",
+        "versement",
+        "creanceclient"
+      ],
+      [
+        "view_creanceclient",
+        "versement",
+        "creanceclient"
+      ],
+      [
+        "add_paybookuser",
+        "versement",
+        "paybookuser"
+      ],
+      [
+        "change_paybookuser",
+        "versement",
+        "paybookuser"
+      ],
+      [
+        "delete_paybookuser",
+        "versement",
+        "paybookuser"
+      ],
+      [
+        "view_paybookuser",
+        "versement",
+        "paybookuser"
+      ],
+      [
+        "add_versement",
+        "versement",
+        "versement"
+      ],
+      [
+        "change_versement",
+        "versement",
+        "versement"
+      ],
+      [
+        "delete_versement",
+        "versement",
+        "versement"
+      ],
+      [
+        "view_versement",
+        "versement",
+        "versement"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$ivyg45YA7vWV3WM9g6HrpH$fWMyNcFgIa2EL2tqJvX81vJKFAmQYL/3LrOq/b/hSE4=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Medecin_Recycle_Bin",
+    "first_name": "Medecin_Recycle_Bin",
+    "last_name": "Medecin_Recycle_Bin",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2024-05-09T10:31:37Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$OmJoMFbdJkfvBrvpZQWXr4$871bIYg0LffzjB0Kud2JHNreA2nCjRR8lRW9sRKCEd8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Pharmacie_Recycle_Bin",
+    "first_name": "Pharmacie_Recycle_Bin",
+    "last_name": "Pharmacie_Recycle_Bin",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-08-22T11:07:53Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$ltAVkCLaJ1SyJWVnwQwMz5$CkdgXxL2DU+ob697fGwKGSpCkD1QJrf4DwJi4IWjOQc=",
+    "last_login": "2024-12-04T18:28:58Z",
+    "is_superuser": false,
+    "username": "Anisdz",
+    "first_name": "LOUNIS",
+    "last_name": "Anis",
+    "email": "a.lounis@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2024-09-11T15:01:13Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$XpWPLJroiVMMajpLG9U2Kn$9a21f17P/kAfQN8NsI1ZcYdvsAxJNpyxRrX1i7E2dgM=",
+    "last_login": "2025-02-19T17:33:43.654Z",
+    "is_superuser": false,
+    "username": "RaghedDZ",
+    "first_name": "BOUTITAOU",
+    "last_name": "Raghed",
+    "email": "r.boutitaou@liliumpharma.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-09-24T13:29:12Z",
+    "groups": [
+      [
+        "Ressource Humaine"
+      ]
+    ],
+    "user_permissions": [
+      [
+        "view_usertargetmonth",
+        "accounts",
+        "usertargetmonth"
+      ],
+      [
+        "approve_absence",
+        "leaves",
+        "absence"
+      ],
+      [
+        "view_medecin",
+        "medecins",
+        "medecin"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$jTGQmP1G0XC4fvUnyj3843$ncWLF+vLSdORatFqVl9vOrUyB5rD8D3UsVAc/oQEJMI=",
+    "last_login": "2024-10-30T20:07:35Z",
+    "is_superuser": false,
+    "username": "MSILA",
+    "first_name": "AOUFI",
+    "last_name": "zouweyna",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2024-10-16T10:46:24Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$0zKEy22Jj8QUmRRVvqWKmk$730kqLpIS7EFdWQVi5ZwBK8W5YcZeR5hah9ziBaLhBE=",
+    "last_login": "2024-11-21T11:43:43Z",
+    "is_superuser": false,
+    "username": "sihemnehardz",
+    "first_name": "NEHAR BELAID",
+    "last_name": "Sihem",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2024-11-21T11:43:03Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$0HhzeFOAbmdn1jXl8dx6W8$AhT6cF0EtTqpugGtQgvz2N5M+qAHFHLOGX4zzBY5Zvs=",
+    "last_login": "2025-01-26T13:05:17Z",
+    "is_superuser": false,
+    "username": "MESLIOUIDZ",
+    "first_name": "MESLIOUI",
+    "last_name": "MOHAMED",
+    "email": "m.meslioui@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2024-12-03T11:21:43Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$XFmYZNjr63mg6mViIi9jLH$/yhUFYp2+8gb9XLjvd2No2F6+GMQO656Io3OLGiPkTI=",
+    "last_login": "2025-01-30T09:22:56Z",
+    "is_superuser": false,
+    "username": "TAKIEDDINEDZ",
+    "first_name": "MOHAMMEDI",
+    "last_name": "TAKI EDDINE",
+    "email": "t.mohammedi@liliumpharma.com",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2024-12-08T14:02:23Z",
+    "groups": [
+      [
+        "TARGET 2024"
+      ],
+      [
+        "BON DE SORTIE confirme"
+      ],
+      [
+        "Superviseur Régional"
+      ],
+      [
+        "Superviseur National"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$FwUKtzNiayFrYOX8A6UF9N$WZxBn44wX0m2qie1e4vMHgolhFljBaW7Oj82Yt+mMRA=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "yassinedz",
+    "first_name": "MAHDI",
+    "last_name": "Yassine",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-01-08T12:31:13Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$dertNwaJJRYUenAOeaD3vu$dOW6DWKTF24cOjEeaUQUg6pXbi+rpftzzRl/6kPZ6IM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Alloundz",
+    "first_name": "ALLOUN",
+    "last_name": "El Hadi",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-01-08T12:35:51Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$6Xdmt8VgdfonQ2onSXOWEw$lvaW7HKgvvQKphfBjfd49oz3ZctBbpR/bYL/W9CdYr0=",
+    "last_login": "2025-01-08T13:27:12Z",
+    "is_superuser": false,
+    "username": "slimanedz",
+    "first_name": "MEDJEDDEL",
+    "last_name": "Slimane",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-01-08T12:37:36Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$RzhnHOteS7x6bUoSvulE0m$qKpJYDaHzz3tOLyYzb0aXIj+bHFMNHl83W2EEng5B2g=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "bezzoudz",
+    "first_name": "BEZZOU",
+    "last_name": "Ghariba",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-01-08T12:40:02Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$xVElMtzQWwiHIub1ZofHe9$5K7MiAD/avkY/oeH/nEWdUPEGNDVGV4H2lWfdjOpiZU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "chaoukidz",
+    "first_name": "BELARBI",
+    "last_name": "Mohamed Chaouki",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-01-08T12:42:01Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$Be6aun32992ad9z6mjZ3Qq$z6lVOF1Gksl2h69a7V0s05UUpLXSmQlcgTPTkgaWHwI=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "fouaddz",
+    "first_name": "BELKACEM",
+    "last_name": "Fouad",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-01-08T12:44:16Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$TPs61RN81VHXbHdo3Qh2EQ$Scb2nztZTgCVhNUSZfh+2oj9RoJ9ASngWvCAwuiL+F8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "merzoukdz",
+    "first_name": "MERZOUK",
+    "last_name": "Mohamed",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-01-08T12:46:08Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$NQIp5YQ3TKQWHiCcJIX59m$BXcIi0MFf7pLXfRdefpnQJrOsLQ8e3SspHiPslB6vA0=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "alidz",
+    "first_name": "BENSLIMANE",
+    "last_name": "Ali",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-01-08T12:47:33Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$L8IqYG0AGrtV2R6Rf2AQ7A$JqE4hWQYsh3Tok+yrtUFCED1FgDkcWEKY2JMHE/4aOs=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "houriadz",
+    "first_name": "ALLALI",
+    "last_name": "Houria",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-01-08T13:05:44Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$goCwlxyG74jNQ4gz71rWTP$EytD3AQA/bsP7+9BjUXUeWQeiNZzN/scr3aYlrrEDTA=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "brahimdz",
+    "first_name": "BELAIDI",
+    "last_name": "Brahim",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-01-09T13:18:28Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$bUw5SxFPre0bfaVc7KkAm8$D92075dEelTHP2nNXcZMCyWfruGANDroCEnWqXZqUkQ=",
+    "last_login": "2025-02-09T07:49:38Z",
+    "is_superuser": false,
+    "username": "apple_token",
+    "first_name": "DO NOT DELETE",
+    "last_name": "DO NOT DELETE",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-02-09T07:47:25Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$QXogiqWW6lFCwwFKOKUTn9$vZ6Gmaqv3/FFPYAwHRHcqMi1SXIwR9+obuwvBLeLaL0=",
+    "last_login": "2025-02-18T16:07:58Z",
+    "is_superuser": false,
+    "username": "makourdz",
+    "first_name": "makour",
+    "last_name": "yasmine",
+    "email": "yasmak018@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-02-17T00:13:52Z",
+    "groups": [
+      [
+        "Medico Commercial"
+      ]
+    ],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$caa2eZEBYcXnakiluMqRPt$tXb6MBqFasQwXj3gg0XtgHjADzhQ95Ytrz/5CUz44To=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "RadhiaDZ",
+    "first_name": "RADHIA",
+    "last_name": "HEDJAZI",
+    "email": "hedjziikram2003@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-02-18T16:04:53Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$rWjqFNJnG5bZfar0rXoA2c$0lpoWSjMfQnuOAmUElZ9/DFGZ9ReE1AoFZFDUoc+6to=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "OUSSAMADZ",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-02-18T17:40:27Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]

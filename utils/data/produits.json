@@ -1,0 +1,280 @@
+calleeddd
+heree serializer called 
+[
+{
+  "model": "produits.produit",
+  "pk": 1,
+  "fields": {
+    "nom": "FF",
+    "price": 2878.62,
+    "fname": "FERTIFIT FEMININ",
+    "pdf": "",
+    "pdf_2": "",
+    "image": "Fertifit-3.png",
+    "pays": [
+      1
+    ]
+  }
+},
+{
+  "model": "produits.produit",
+  "pk": 2,
+  "fields": {
+    "nom": "FM",
+    "price": 2878.62,
+    "fname": "FERTIFIT MASCULIN",
+    "pdf": "",
+    "pdf_2": "",
+    "image": "Forti_fit_M_T1K5Lr2.png",
+    "pays": [
+      1
+    ]
+  }
+},
+{
+  "model": "produits.produit",
+  "pk": 3,
+  "fields": {
+    "nom": "IRON",
+    "price": 1452.0,
+    "fname": "LILIUM IRON",
+    "pdf": "",
+    "pdf_2": "",
+    "image": "pngtree-coming-soon-green-png-image_6870557_85Md5Hu.png",
+    "pays": [
+      1
+    ]
+  }
+},
+{
+  "model": "produits.produit",
+  "pk": 4,
+  "fields": {
+    "nom": "YES CAL",
+    "price": 1101.62,
+    "fname": "YESCAL PLUS",
+    "pdf": "",
+    "pdf_2": "",
+    "image": "Yes_cal__6zweNwS.png",
+    "pays": [
+      1
+    ]
+  }
+},
+{
+  "model": "produits.produit",
+  "pk": 5,
+  "fields": {
+    "nom": "YES VIT",
+    "price": 1439.31,
+    "fname": "YESVIT",
+    "pdf": "",
+    "pdf_2": "",
+    "image": "Yes_Vit_VFzsrfW.png",
+    "pays": [
+      1
+    ]
+  }
+},
+{
+  "model": "produits.produit",
+  "pk": 12,
+  "fields": {
+    "nom": "ADVAGEN",
+    "price": 1641.0,
+    "fname": "ADVAGEN",
+    "pdf": "",
+    "pdf_2": "",
+    "image": "advagen.png",
+    "pays": [
+      1,
+      2,
+      3
+    ]
+  }
+},
+{
+  "model": "produits.produit",
+  "pk": 18,
+  "fields": {
+    "nom": "DHEA 75mg",
+    "price": 3537.38,
+    "fname": "DHEA Plus 75 mg",
+    "pdf": "",
+    "pdf_2": "",
+    "image": "DHEA-01_hK8pPjI.jpg",
+    "pays": [
+      1
+    ]
+  }
+},
+{
+  "model": "produits.produit",
+  "pk": 19,
+  "fields": {
+    "nom": "HAIRVOL",
+    "price": 1439.31,
+    "fname": "HAIRVOL",
+    "pdf": "",
+    "pdf_2": "",
+    "image": "Hairvol-1.png",
+    "pays": [
+      1,
+      2,
+      3
+    ]
+  }
+},
+{
+  "model": "produits.produit",
+  "pk": 20,
+  "fields": {
+    "nom": "SUB12",
+    "price": 824.83,
+    "fname": "SUB 12 sublingual",
+    "pdf": "",
+    "pdf_2": "",
+    "image": "Sub12_lHwaCwS.png",
+    "pays": [
+      1,
+      2,
+      3
+    ]
+  }
+},
+{
+  "model": "produits.produit",
+  "pk": 21,
+  "fields": {
+    "nom": "MENOLIB",
+    "price": 1101.62,
+    "fname": "MENOLIB",
+    "pdf": "",
+    "pdf_2": "",
+    "image": "LILIUM_MENOLIB_TJU8O7q.png",
+    "pays": [
+      1
+    ]
+  }
+},
+{
+  "model": "produits.produit",
+  "pk": 22,
+  "fields": {
+    "nom": "THYROLIB",
+    "price": 1273.23,
+    "fname": "THYROLIB",
+    "pdf": "",
+    "pdf_2": "",
+    "image": "LILIUM_THYROLIB_lffo5np.png",
+    "pays": [
+      1
+    ]
+  }
+},
+{
+  "model": "produits.produit",
+  "pk": 23,
+  "fields": {
+    "nom": "HEPALIB",
+    "price": 1439.31,
+    "fname": "HEPALIB",
+    "pdf": "",
+    "pdf_2": "",
+    "image": "LILIUM_HEPALIB_PtMc49p.png",
+    "pays": [
+      1
+    ]
+  }
+},
+{
+  "model": "produits.produit",
+  "pk": 24,
+  "fields": {
+    "nom": "SOPK FREE",
+    "price": 3315.95,
+    "fname": "SOPK FREE",
+    "pdf": "",
+    "pdf_2": "",
+    "image": "SOPKFREE.jpeg",
+    "pays": [
+      1
+    ]
+  }
+},
+{
+  "model": "produits.produit",
+  "pk": 25,
+  "fields": {
+    "nom": "URISOFT",
+    "price": 1273.23,
+    "fname": "URISOFT",
+    "pdf": "",
+    "pdf_2": "",
+    "image": "WhatsApp_Image_2023-12-09_at_8.18.36_PM_VnR760e.jpeg",
+    "pays": [
+      1
+    ]
+  }
+},
+{
+  "model": "produits.produit",
+  "pk": 26,
+  "fields": {
+    "nom": "URICITRIL",
+    "price": 1101.62,
+    "fname": "URICITRIL",
+    "pdf": "",
+    "pdf_2": "",
+    "image": "406883825_855301669657079_1702183829271496167_n.jpg",
+    "pays": [
+      1
+    ]
+  }
+},
+{
+  "model": "produits.produit",
+  "pk": 27,
+  "fields": {
+    "nom": "BESTFER",
+    "price": 1101.62,
+    "fname": "BESTFER",
+    "pdf": "",
+    "pdf_2": "",
+    "image": "002_Brochure_A4_BESTFER_Plan_de_travail_1-1.jpg",
+    "pays": [
+      1
+    ]
+  }
+},
+{
+  "model": "produits.produit",
+  "pk": 28,
+  "fields": {
+    "nom": "DIGEST PLUS",
+    "price": 1101.62,
+    "fname": "DIGEST PLUS",
+    "pdf": "",
+    "pdf_2": "",
+    "image": "image.png",
+    "pays": [
+      1
+    ]
+  }
+},
+{
+  "model": "produits.produit",
+  "pk": 29,
+  "fields": {
+    "nom": "ANAFLAM",
+    "price": 824.83,
+    "fname": "ANAFLAM",
+    "pdf": "",
+    "pdf_2": "",
+    "image": "ANAFLAM_3_D_V.jpg",
+    "pays": [
+      1
+    ]
+  }
+}
+]

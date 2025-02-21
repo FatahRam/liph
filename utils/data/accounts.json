@@ -1,0 +1,5596 @@
+calleeddd
+heree serializer called 
+[
+{
+  "model": "accounts.userprofile",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "aimen"
+    ],
+    "company": "aniya pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Admin",
+    "rolee": "CountryManager",
+    "telephone": "0655342974",
+    "adresse": "214 Avenue Ziar Abdelkader Bologhine",
+    "commune": 559,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": true,
+    "can_update_medecin": true,
+    "can_add_client": true,
+    "can_view_visites": true,
+    "notification_token": "cHxOgMOkSG6i7ZLoRm6Okt:APA91bGgSXoX5EyBIP4HQmk2nOWMx17JVWa3j2SHoLQ8TwxF9DbXnyelfcMDF22lDQm_dQcSUECUERDfH2hbZg2_P8vvxh2iW3u-pAUh5rQS1ALDimV-pCWguNAnKVwHRElxUmoT80L6",
+    "ios_notification_token": "fElP_cZATk5CuU1php5BSw:APA91bH7ES63OP7uBPSnYrUL364Uaw3wxARcU--VwTlx9M5Q8kDXgSQQGKXsbq0pPQOjjBypsOCLRV8wG6khNuob3uwlCZLm36E7N4kzSe3bEZU-Q3YPWiez_3JSDs-e9R5I9vKWlsHF",
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": "105062359784235",
+    "entry_date": "2022-09-10",
+    "conge": 0.0,
+    "bank_account": "140000365984",
+    "bank_name": "AGB Bank",
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": "Développeur",
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": 100000,
+    "date_of_birth": "1993-12-01",
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": false,
+    "usersunder": [
+      [
+        "aimen"
+      ]
+    ],
+    "sectors": [
+      16
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 3,
+  "fields": {
+    "user": [
+      "yasmindz"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium2",
+    "speciality_rolee": "Superviseur_national",
+    "rolee": "Superviseur",
+    "telephone": "0561746015",
+    "adresse": "villa 12 rue said hamlet hussein day alger",
+    "commune": 554,
+    "activate": "e3e5a6649dc56444eab3e3c05d9dd0f8",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": true,
+    "can_update_medecin": true,
+    "can_add_client": true,
+    "can_view_visites": true,
+    "notification_token": "ePBlVZ_wQHKl8eJ0rGGBb0:APA91bGrBr6lJFk-7KTcq-Q3LogQJLa1kcTyZOpH-lj0-eaMO_3bTLRYCUdiMTsX9RwKjR_n_0N_c_foU-V0QRFaoQDFeoGuLaSK4-xNo2ToaaQ8EJ9QtZ6qZi5S4qpzm4y_HPuXHgTO",
+    "ios_notification_token": "cW32lrIbXUGLjrMK7ZXLfA:APA91bGTlLeKyrnwS5zqTbtdEN3NdDP_IDG2eJN-2fF0IM_6qXpkDPNW6PC5KUE__uTX5r-rE1Y_5FBjwZ8VC2ZgnnUY0Z6XUXSHoy2nonC598TEsY1duY-BwtMOra307JRVLJ0OG-bW",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": "931153003353",
+    "entry_date": "2019-09-24",
+    "conge": 2.0,
+    "bank_account": "00799999002350318354",
+    "bank_name": "CCP",
+    "pc_paie_id": "010",
+    "situation": "marrié",
+    "job_name": "Superviseur Médicale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": 120000,
+    "date_of_birth": "1993-03-31",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [
+      [
+        "guerfidz"
+      ],
+      [
+        "melizadz"
+      ],
+      [
+        "taibidz"
+      ],
+      [
+        "akramhdz"
+      ],
+      [
+        "tawfikdz"
+      ],
+      [
+        "MSILA"
+      ],
+      [
+        "nesrinedz"
+      ],
+      [
+        "BelhadjDZ"
+      ],
+      [
+        "yasmindz"
+      ],
+      [
+        "itedaldz"
+      ],
+      [
+        "hamzadz"
+      ],
+      [
+        "ORANLINE2"
+      ],
+      [
+        "khelilidz"
+      ],
+      [
+        "HANIADZ"
+      ],
+      [
+        "BouhallaDZ"
+      ],
+      [
+        "AbderahmaneDZ"
+      ],
+      [
+        "IMENEDZ"
+      ]
+    ],
+    "sectors": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 4,
+  "fields": {
+    "user": [
+      "KHALEDDZ"
+    ],
+    "company": "all",
+    "family": "Aniya_Pharm",
+    "speciality_rolee": "CountryManager",
+    "rolee": "CountryManager",
+    "telephone": "0561730741",
+    "adresse": "N° 10 Cité Larbi Ben Mhidi",
+    "commune": 117,
+    "activate": "f09d146b0db407ba7d3656db7dd64e8e",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": "fChAdwbqRRmMPDmBRwXRkC:APA91bEn1hdf8P17gdZx7YglyV1449HAFD5TVkcwqlMPuNYQU68IgBt2Rwt1l8pCdXhI3aEHQfprtcpODojMHiOCNN62hTLb2fCLxBKt2P7hKikLi-eYdpSF6H4iuESdsqQbJrgyfxmF",
+    "ios_notification_token": "f57gsvPr1kdpiQWHCqDNCI:APA91bHRyTFfkKrlNbknqtUhIB2gMk903aIJGxpITZf1X4ipEvaNeua8jWIKucb6Y0mCUJtqE56AfN1ci_2-UOulDl2WxKsN28ycEaB-gSITLnH6yXh5Mghj9cwY8ZBG4Av8Q5T1f_4z",
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": "945400000360",
+    "entry_date": "2020-01-15",
+    "conge": 14.0,
+    "bank_account": "01100359700113806956",
+    "bank_name": "BDL",
+    "pc_paie_id": "013",
+    "situation": "marrié",
+    "job_name": "Superviseur Médicale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": 92000,
+    "date_of_birth": "1994-08-21",
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": true,
+    "is_human": true,
+    "usersunder": [
+      [
+        "KHALEDDZ"
+      ],
+      [
+        "syrianadz"
+      ],
+      [
+        "SAMIADZ"
+      ]
+    ],
+    "sectors": [
+      5,
+      7,
+      43
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 5,
+  "fields": {
+    "user": [
+      "aminadz"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium1",
+    "speciality_rolee": "Superviseur_regional",
+    "rolee": "Superviseur",
+    "telephone": "0561962058",
+    "adresse": "Résidence El Mouna N° 12 Bt. 06 Hai Essalem Bir El Djir",
+    "commune": 1110,
+    "activate": "a2d6595b592271d48211ba8c96952088",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "caR1TuEsTuaCjnJ4Uq8-Sm:APA91bFzJYqR_FFb8YiDytKgmqM9f1BSPRpbyaI2bYU2heecvgRLdDmc1Am4kbQG6E0YLCA2Ycf_9IdALclLwjTxb09jpF8BuMDxUeBaNr1fGunooFEDA9qetLF9aC_sscdji8WWbeJw",
+    "ios_notification_token": "cW32lrIbXUGLjrMK7ZXLfA:APA91bGTlLeKyrnwS5zqTbtdEN3NdDP_IDG2eJN-2fF0IM_6qXpkDPNW6PC5KUE__uTX5r-rE1Y_5FBjwZ8VC2ZgnnUY0Z6XUXSHoy2nonC598TEsY1duY-BwtMOra307JRVLJ0OG-bW",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": "878366000237",
+    "entry_date": "2019-09-25",
+    "conge": 60.0,
+    "bank_account": "00799999001474257810",
+    "bank_name": "SGA",
+    "pc_paie_id": "011",
+    "situation": "celibataire",
+    "job_name": "Superviseur Médicale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": 80000,
+    "date_of_birth": "1987-08-15",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": true,
+    "is_human": true,
+    "usersunder": [
+      [
+        "aminadz"
+      ],
+      [
+        "Fatimadz"
+      ],
+      [
+        "Chlef"
+      ]
+    ],
+    "sectors": [
+      2,
+      13,
+      17,
+      22,
+      27,
+      29,
+      31,
+      48,
+      38,
+      46,
+      20,
+      14,
+      1,
+      37,
+      3,
+      44
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 6,
+  "fields": {
+    "user": [
+      "ahmedDZ"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium1",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0561751072",
+    "adresse": "setif",
+    "commune": 675,
+    "activate": "zkdfnmkdxf",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "d-JfpBeaQbykOj8VR8i-T3:APA91bExkywYosCs-3v4sTNEBwkoLwwGwo8psdeYfzw32eajRHUEioRsxCPOJSMEJpVgJyFk0meMbCe7n51Cg8dhh7BFZgSPh3EqZbZbwFW02vZyYXt-3W8",
+    "ios_notification_token": "fZMreHjdk0eFq-yiokpPG8:APA91bHbZtnC2s3_kSB5TmtjTrKOs0rYLWs9NlZE-5X7NaM3bUZGOv-q_8anfLMca5XQthJJbyhLPjPbTLczJvXnwPNb2rTDDaH3pgV9R3SaG_WYop8en0yE82J5pxSf-nzjSXlZWCB5",
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2024-10-20",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": "déléguée médicale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": "1999-07-01",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": [
+      34,
+      19
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 7,
+  "fields": {
+    "user": [
+      "tawfikdz"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium1",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0561779789",
+    "adresse": "Cite sommam , Bayadha, el oued",
+    "commune": 1281,
+    "activate": "31a3529f22f8282719af3ae7c0f33077",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "dd_DcNQ6Tr6xzIdGJao_vn:APA91bGGcaR4cB-oonTAs0Q99D2STaeSSaP3ZCkqP-oZ0ahP5DGp1YEfuzLhhZ1oRLtuB01SnhjALcfiJ_Ff9s1vBjJXd13jmNZBAfRqfhJMWmazC99qoyoGt9pt9-wcYVItryp0-n7a",
+    "ios_notification_token": "dli09XPhMUnlt6H5KuduhU:APA91bEpEdHjIoqDk4NyYT18yVQs2S03QZQiI19T7P_gZs3LrpVMPVV6L1S3umOxmK6SQCWxL7_9xJfzl-r17cvFhrjSjM6NOl0Q64Z5bIVC-C67BXygpcnq5rv2iOpmNkAhH1iWTKrU",
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": "923604001853",
+    "entry_date": "2020-06-16",
+    "conge": 35.0,
+    "bank_account": "00799999001620896202",
+    "bank_name": "CCP",
+    "pc_paie_id": "016",
+    "situation": "marrié",
+    "job_name": "Déléguée Médical",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": 82000,
+    "date_of_birth": "1992-07-27",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": true,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": [
+      39,
+      74,
+      30
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 8,
+  "fields": {
+    "user": [
+      "fayzadz"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium1",
+    "speciality_rolee": "Superviseur_regional",
+    "rolee": "Superviseur",
+    "telephone": "0561769970",
+    "adresse": "32 cite 40 logement ENIEM, tizi ouzou",
+    "commune": 487,
+    "activate": "36da26d09cd8b0809da8527025b6bdf2",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "eiC_Q2WaRZ2F4FQi054loy:APA91bGfungYe-WYcHkhS-cElyLTYocCc9Q1jNFCkrugvgM79n1mV2yHhHTQgraKtnuzasgM9oezPJTU1gnhoDRNjPnzochLE71ir2YXMf42NeSXVI380QwYkE7fAaTRY6TbkmTS_Fow",
+    "ios_notification_token": "cW32lrIbXUGLjrMK7ZXLfA:APA91bGTlLeKyrnwS5zqTbtdEN3NdDP_IDG2eJN-2fF0IM_6qXpkDPNW6PC5KUE__uTX5r-rE1Y_5FBjwZ8VC2ZgnnUY0Z6XUXSHoy2nonC598TEsY1duY-BwtMOra307JRVLJ0OG-bW",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": "875840000347",
+    "entry_date": "2019-09-19",
+    "conge": 34.0,
+    "bank_account": "00799999001474257810",
+    "bank_name": "CCP",
+    "pc_paie_id": "008",
+    "situation": "marrié",
+    "job_name": "Superviseur Médicale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": 100000,
+    "date_of_birth": "1987-10-18",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": true,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": [
+      6,
+      10,
+      15,
+      35,
+      47
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 9,
+  "fields": {
+    "user": [
+      "bouchachiadz"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium1",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0557478094",
+    "adresse": "-",
+    "commune": 558,
+    "activate": "23c474cff5b8aa74bf4b8e9acaf406a2",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "fyb_bfayT4imY1-DjgyWwo:APA91bEminNhXGznAgka6-U2GQohFU1CIa9Po2aCcBin1hhP6vZ6WREDlF7-WNxhcpuChB6VMn2WY-pf8zD8K9-dOIIlJaVhmcX-f9fX28WVlUbsAsO-zgM",
+    "ios_notification_token": "eyS5YA07mE1Fk5tVy3Qw6v:APA91bGkscF0_YkxSOp9D5PlZroc_xDWJjGF487m4xfNSm_ryJchk6Jg_3egmtagEcLlT5LFeqZ0ipyCw1auD1bIGMxmzbl8SpVr7roN1jMCY9wjswA_wyEGjWV-0TIohFev6Q3h7e0a",
+    "recive_mail": true,
+    "gender": "femme",
+    "CNAS": null,
+    "entry_date": "2024-10-20",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": "074",
+    "situation": "celibataire",
+    "job_name": "Delegue Médicale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [
+      [
+        "bouchachiadz"
+      ],
+      [
+        "MASLOUGDZ"
+      ],
+      [
+        "ROCHDDZ"
+      ]
+    ],
+    "sectors": [
+      16
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 10,
+  "fields": {
+    "user": [
+      "asmatn"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Commercial",
+    "rolee": "Superviseur",
+    "telephone": "050030640",
+    "adresse": "tunis",
+    "commune": 2103,
+    "activate": "dfaa0500eab31c722d5b668ff7f78ba6",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": true,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2022-09-10",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": false,
+    "usersunder": [
+      [
+        "mohamedtn"
+      ],
+      [
+        "TUNIS"
+      ]
+    ],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 11,
+  "fields": {
+    "user": [
+      "mohamedtn"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": "50030910",
+    "adresse": "tunis",
+    "commune": 2103,
+    "activate": "81d7b5b7ccb1e7068377aaab19021183",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": true,
+    "can_view_visites": true,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2022-09-10",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": false,
+    "usersunder": [
+      [
+        "asmatn"
+      ],
+      [
+        "TUNIS"
+      ],
+      [
+        "fatmatn"
+      ],
+      [
+        "SUPERASMATN"
+      ]
+    ],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 12,
+  "fields": {
+    "user": [
+      "TUNIS"
+    ],
+    "company": "all",
+    "family": "Administration",
+    "speciality_rolee": "Commercial",
+    "rolee": "Superviseur",
+    "telephone": "0540307009",
+    "adresse": "tunis",
+    "commune": 2103,
+    "activate": "cc47b4259e3ef7b46e5c3b393b9677a5",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": true,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": null,
+    "entry_date": "2022-09-10",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [
+      [
+        "mohamedtn"
+      ],
+      [
+        "asmatn"
+      ],
+      [
+        "TUNIS"
+      ],
+      [
+        "fatmatn"
+      ],
+      [
+        "SUPERASMATN"
+      ],
+      [
+        "TUNIS2021"
+      ],
+      [
+        "mohammed"
+      ]
+    ],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 13,
+  "fields": {
+    "user": [
+      "fatmatn"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": "052240301",
+    "adresse": "tunis",
+    "commune": 2279,
+    "activate": "3acbeb0d63ef495fd22fed7a22009db1",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": true,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": null,
+    "entry_date": "2022-09-10",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": false,
+    "usersunder": [
+      [
+        "fatmatn"
+      ]
+    ],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 15,
+  "fields": {
+    "user": [
+      "mohammed"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Office",
+    "rolee": "CountryManager",
+    "telephone": "0559103708",
+    "adresse": "lotissement  communal c",
+    "commune": 554,
+    "activate": "1235446688HHGGFDSS",
+    "can_send_receive_tasks": true,
+    "can_add_medecin": true,
+    "can_update_medecin": false,
+    "can_add_client": true,
+    "can_view_visites": true,
+    "notification_token": "eYMpUYbLTD2C1S_geAzBl7:APA91bFJOe_EfNr5wUS3WfkEfCHgsplWSLi-kEiE4ttQAXkOBEJ4v-JAMZR2q1ywBaFUprXJ7ZlYkCDqXX8OGtppcxI2QhVsZicthoqAFuyvEqb_nz6hKMKvrZqVMFA8uoT7wBRcoqWo",
+    "ios_notification_token": "ferTDJphpkCzk-wWDxnzsD:APA91bHTJdYdzmURBINvOI-U--uOVjn6bM5D2USiDUcyoaNdkAe7gk4xIpW7qOH2Zczf92fNM35wNYSxBueHjYkrYTH059IdCbxvJZwSaeWjppQ_lLqJkH8FWTbCemGxNEqv1xvzlCFW",
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2022-09-10",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": false,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 17,
+  "fields": {
+    "user": [
+      "SUPERASMATN"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": "50030270",
+    "adresse": "tunis",
+    "commune": 2103,
+    "activate": "db3a88bf74cba34f6346dc1c0ce6c46f",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": true,
+    "can_view_visites": true,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": null,
+    "entry_date": "2022-09-10",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": false,
+    "usersunder": [
+      [
+        "fayzadz"
+      ],
+      [
+        "mohamedtn"
+      ],
+      [
+        "asmatn"
+      ],
+      [
+        "TUNIS"
+      ],
+      [
+        "fatmatn"
+      ]
+    ],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 24,
+  "fields": {
+    "user": [
+      "itedaldz"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": "0561765709",
+    "adresse": "rue entv oulami ouled  fayet alger",
+    "commune": 554,
+    "activate": "701271cc6774fa5f8ac484c717dff4d1",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "e6_pQwVNR9a0KtVK63DwVS:APA91bE-FC_dMAwRiZwyU4LsxtjdN-PUKTMiqfMBJ775PDpyRiIQTjOQywB8MxV439LlWLOr1XqFhl8q7IVyx4XaD8CxOdWpL8iH3dFnl32IxKl9QFjfKjb1RKgWPNjpKUj7m90PiI1e",
+    "ios_notification_token": "etyQitpj50S0tbwL-7NMTG:APA91bE2H8wIJ0qJ6iDctM34RM0X5DrurKj0uf3jbQ1z7YMjtIbJfqRsxel595IT0iB2vucyIDlf3wyIzzS5Go9evhOkQKyis3n8YVRtYbxCFSQEyh4B8Vk",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": "981006008346",
+    "entry_date": "2021-08-15",
+    "conge": 6.0,
+    "bank_account": "00799999002387821173",
+    "bank_name": "CCP",
+    "pc_paie_id": "023",
+    "situation": "marrié",
+    "job_name": "Déléguée commercial",
+    "code_section": "COM",
+    "code_contrat": "CDI",
+    "salary": 62000,
+    "date_of_birth": "1998-11-19",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": true,
+    "is_human": true,
+    "usersunder": [
+      [
+        "BouhallaDZ"
+      ],
+      [
+        "IMENEDZ"
+      ]
+    ],
+    "sectors": [
+      16,
+      9,
+      42
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 25,
+  "fields": {
+    "user": [
+      "MASLOUGDZ"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium1",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0561849851",
+    "adresse": "83 rue hassiba ben bouali alger",
+    "commune": 554,
+    "activate": "d06b79331bde5aacae829d28cae464f7",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "dM475diIQSC6BKW5D8EYu3:APA91bEEZGUzYU5TMdwPZcORCbtEQkkmdP6U53QNA-nhcHYeKZlzEfNUFVGyfqWsrHtdtAzH5LMf-Wt4RdBSfO80rua0OJ1fmR4hBr0rpSTRXlIGrWZBR1Nd-rSsySSFObcHbUchEDvM",
+    "ios_notification_token": "fscuLHOm50MTkfxZ6mlNjd:APA91bHYFKAp_l351fXyoOSIDUJWHlTgBCBjtW20VGYZ__ShjL_0Yd6Jd7LNsCvtGtW-KXEKn3VpXpWC8R_Cu-UzSEAfLjESCJcqU7AY9a32tNpZ9mjJMfP4m6_xkEsw7_-_Rl96PmS-",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": "810490006345",
+    "entry_date": "2021-03-21",
+    "conge": 28.0,
+    "bank_account": "00799999000746395224",
+    "bank_name": "CCP",
+    "pc_paie_id": "020",
+    "situation": "marrié",
+    "job_name": "Déléguée Médical",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": 72000,
+    "date_of_birth": "1981-01-27",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [
+      [
+        "itedaldz"
+      ],
+      [
+        "BouhallaDZ"
+      ],
+      [
+        "IMENEDZ"
+      ]
+    ],
+    "sectors": [
+      9,
+      16,
+      42
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 26,
+  "fields": {
+    "user": [
+      "Fatimadz"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium1",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "-",
+    "commune": 1110,
+    "activate": "a65dd234ef017a7a5771274408827894",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "erlfjIdGT0KqZXwNlplvBK:APA91bGR-KYd2EGypF-8QNIRYlfw4RVp4VOlkOYzA6Z5MVpv-b8pTukrfzJs0yzPgZvpQfxWxxAyhjmtYOtgxoWZR3Ko9rmzwaGwsvGTjO2Nz7nlPGddsdi22XmlVDyBUNjw4x6Xiyme",
+    "ios_notification_token": "ftFCcix4fkRiqzFo7_W-es:APA91bFnGhJhPWtyWZL9rpy4B_gYVBajvRqr_5qDp3auCSews_oINkLxncdL8MWVUpRVIGRNVMNacNVTxq5oAsFnvvOHl7gHtvhXv1sJqB430VDA-cJCcoc",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": "951861005142",
+    "entry_date": "2023-09-18",
+    "conge": 30.0,
+    "bank_account": null,
+    "bank_name": "CCP",
+    "pc_paie_id": "050",
+    "situation": "marrié",
+    "job_name": "Déléguée Médical",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": "1995-02-18",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": [
+      13,
+      22,
+      27,
+      29,
+      31,
+      48,
+      1,
+      37,
+      14,
+      2,
+      38,
+      46,
+      17,
+      20,
+      3,
+      44
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 28,
+  "fields": {
+    "user": [
+      "TUNIS2021"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Commercial",
+    "rolee": "CountryManager",
+    "telephone": null,
+    "adresse": "Tunis",
+    "commune": 2103,
+    "activate": "5ebe6d92f2d511aee5fb8d7333c78054",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": true,
+    "can_view_visites": true,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2022-09-10",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": false,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 29,
+  "fields": {
+    "user": [
+      "SAMYDZ"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium1",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0557571848",
+    "adresse": "Cité Boussouf Bt. 49 N° 574",
+    "commune": 887,
+    "activate": "171754f4bbc5acf19455d493bea38cfc",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "eJkL1T2zTbuk_jfSwkPee1:APA91bGxu0MzqXS7P2Fhz0TkEo7jB-lL5G34yyCq0ZwiIlvKNOldpIfD1KxTK13l089EA6oZDzuCaz5MaBRexYpS_sq812z3Y9m1nOxf80yIHr1eehs9Uqn6Yql0tgiuP9oXu5snH3zs",
+    "ios_notification_token": "cW32lrIbXUGLjrMK7ZXLfA:APA91bGTlLeKyrnwS5zqTbtdEN3NdDP_IDG2eJN-2fF0IM_6qXpkDPNW6PC5KUE__uTX5r-rE1Y_5FBjwZ8VC2ZgnnUY0Z6XUXSHoy2nonC598TEsY1duY-BwtMOra307JRVLJ0OG-bW",
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": "964471000939",
+    "entry_date": "2022-11-29",
+    "conge": 0.0,
+    "bank_account": "00100834020000193524",
+    "bank_name": null,
+    "pc_paie_id": "034",
+    "situation": "celibataire",
+    "job_name": "deleguee medicale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": "1996-11-26",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": [
+      25,
+      4,
+      43
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 31,
+  "fields": {
+    "user": [
+      "ibtissemdz"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Finance_et_comptabilité",
+    "rolee": "CountryManager",
+    "telephone": "0560842305",
+    "adresse": "cité 1400 logt bt 22N°01 DOUERA ALGER",
+    "commune": 554,
+    "activate": "654646466,n;n;,n;",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": true,
+    "can_view_visites": true,
+    "notification_token": "d-EMdtFQRyadTyCKZhrA9K:APA91bEqhvEJJSfxisO8Q-Lp0_G7nevj2iK5C0N5moRGlLPQIMqY4T2VGVcV7gysIjRloc2axRbTJj0Kh8TFdJ602gQGY5w3Cp5EV-qehkbsAznEbg57f218rUMBRYseIs7wyCkE3art",
+    "ios_notification_token": "f-yjH1O1PEWCjQUZsrqF7z:APA91bGnmX5xGCmaXhStpqOBbwn5jtMMehkvQ4mtAKcl3KwD20n6me6FiuufZUmke5huNUnOhW-zLplEOlo_lmMfoifPGQgYZkkGi5Jq0n9jHrFmOPPIF6Y",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": "943428001251",
+    "entry_date": "2021-08-15",
+    "conge": 22.0,
+    "bank_account": "02100001115030373142",
+    "bank_name": "SGA",
+    "pc_paie_id": "022",
+    "situation": "celibataire",
+    "job_name": "comptable",
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": 57000,
+    "date_of_birth": "1994-11-12",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 32,
+  "fields": {
+    "user": [
+      "google"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Admin",
+    "rolee": "Commercial",
+    "telephone": "0655342974",
+    "adresse": "alger",
+    "commune": 554,
+    "activate": "dfsdfsdgfdsf&",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": true,
+    "can_view_visites": true,
+    "notification_token": "epLP6l3ASdicbzr9eJDJr-:APA91bEvd4pK3a_U9JuOFos7TiCJsghoYXCSAmk9uz5fns7LIXGUAkOi110guei8uqOCx5Hm0kcLfjzyLRfO-WO5HTzQ52YHP_iv1Oi8G_PU9kEHezDmrcnSa1T9oPaqGOl9JgH8JMRM",
+    "ios_notification_token": null,
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2022-09-10",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": false,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 33,
+  "fields": {
+    "user": [
+      "Chlef"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium1",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0672146301",
+    "adresse": "Cité El Yasmine BT  C .Alger",
+    "commune": 29,
+    "activate": "032145",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "fmvhOIvSRTW9ZW0OP2JCug:APA91bHLkVwvmmYTMMVbVoZ79O1Tbt479LHwS5gUtdCVktXzsxox9HcttdWUdf1aKC8B5wpcUExk9Tp21wLC3Pyb4WPPRyHX3LJaBGvvs6Sp_egdvluoslraQZQxjVxzIGrS-Hny-Tv1",
+    "ios_notification_token": "dli09XPhMUnlt6H5KuduhU:APA91bEpEdHjIoqDk4NyYT18yVQs2S03QZQiI19T7P_gZs3LrpVMPVV6L1S3umOxmK6SQCWxL7_9xJfzl-r17cvFhrjSjM6NOl0Q64Z5bIVC-C67BXygpcnq5rv2iOpmNkAhH1iWTKrU",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": null,
+    "entry_date": "2023-11-23",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": "Déléguée Médical",
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": 0,
+    "date_of_birth": "2023-11-23",
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": false,
+    "usersunder": [],
+    "sectors": [
+      2
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 34,
+  "fields": {
+    "user": [
+      "YOUSEF"
+    ],
+    "company": "orient bio",
+    "family": "orient Bio",
+    "speciality_rolee": "Office",
+    "rolee": "Commercial",
+    "telephone": "0775659230",
+    "adresse": "alger",
+    "commune": 554,
+    "activate": "123",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": true,
+    "can_view_visites": true,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2022-09-10",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 36,
+  "fields": {
+    "user": [
+      "BouhallaDZ"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": "0561673092",
+    "adresse": "cité 390 loft bt 01 N°22 gué de constantine",
+    "commune": 554,
+    "activate": "sdfsfsdf246546dsfljsdm",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "cjMWNVM2TB2gHH8ww9XLwu:APA91bHRFjIEx-esKokhyrqpWl2oFbaHOPyhxGnNHSn1XZpKyyn-u6eGlLu0hI-w7WvVrbijFuretoUeaLQafsPnaelJVkaMBkZutp-D83yE8AwiyaQ7H-A2If6dxuFyJozdLac_gEmk",
+    "ios_notification_token": "cW32lrIbXUGLjrMK7ZXLfA:APA91bGTlLeKyrnwS5zqTbtdEN3NdDP_IDG2eJN-2fF0IM_6qXpkDPNW6PC5KUE__uTX5r-rE1Y_5FBjwZ8VC2ZgnnUY0Z6XUXSHoy2nonC598TEsY1duY-BwtMOra307JRVLJ0OG-bW",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": "991989004919",
+    "entry_date": "2022-10-13",
+    "conge": 2.0,
+    "bank_account": "007999990023855737128",
+    "bank_name": "CCP",
+    "pc_paie_id": "033",
+    "situation": "celibataire",
+    "job_name": "Déléguée commercial",
+    "code_section": "COM",
+    "code_contrat": "CDI",
+    "salary": 60000,
+    "date_of_birth": "1999-12-09",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": true,
+    "is_human": true,
+    "usersunder": [
+      [
+        "itedaldz"
+      ],
+      [
+        "BouhallaDZ"
+      ],
+      [
+        "IMENEDZ"
+      ]
+    ],
+    "sectors": [
+      16,
+      42,
+      9
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 37,
+  "fields": {
+    "user": [
+      "ROCHDDZ"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium1",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0560017258",
+    "adresse": "Rue 29 Frères Zaoui, Bologhine, Ibn Ziri",
+    "commune": 558,
+    "activate": "000000",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "cFpPuS4QQwiungWrGRX46C:APA91bEsej4_OMDl43SGJSFtWczi2YuVIOMYQJM-rW11fTxcokR45YQLaMwRl-d1auP-wPWrFmFyzklhXXvyuzldYqahxLct24Pl1cDEpoUVx5w9fe9N8ag",
+    "ios_notification_token": "ftFCcix4fkRiqzFo7_W-es:APA91bFnGhJhPWtyWZL9rpy4B_gYVBajvRqr_5qDp3auCSews_oINkLxncdL8MWVUpRVIGRNVMNacNVTxq5oAsFnvvOHl7gHtvhXv1sJqB430VDA-cJCcoc",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": "922696003138",
+    "entry_date": "2023-07-25",
+    "conge": 12.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": "042",
+    "situation": "celibataire",
+    "job_name": "Déléguée Médical",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": 80000,
+    "date_of_birth": "2000-09-19",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [
+      [
+        "itedaldz"
+      ],
+      [
+        "BouhallaDZ"
+      ],
+      [
+        "IMENEDZ"
+      ]
+    ],
+    "sectors": [
+      9,
+      16,
+      42
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 38,
+  "fields": {
+    "user": [
+      "HANIADZ"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium2",
+    "speciality_rolee": "Superviseur_national",
+    "rolee": "Superviseur",
+    "telephone": "0561845213",
+    "adresse": "003 Route Habou Mohamed",
+    "commune": 554,
+    "activate": "01",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "clptZL11QjyaEzlE4OtRdd:APA91bG1mygFG2HYW_E5hr5gSK0r7C8IAuurDFMQhsaTynlmg0bfQT25CKLSTRkIla0P4nT9MWTfPJMt1XEewL45bCeDffrWW37GkTJS0jzxdif1Ab9FzUQ",
+    "ios_notification_token": "cKZcQ6GnY0qAg6xTMJ5UtE:APA91bHYKp5gTk9mMhs6jM__ahsFnIP5nPeAPU6mDksl5ss_sfjrXoR4r4xtOwYa1GMGInnnzt27Y3QAzr-OfC9CwjodWybKRk_1-qKjV5dqhxmVbn0dy68",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": "051506002455",
+    "entry_date": "2022-06-12",
+    "conge": 12.0,
+    "bank_account": "00500104000000385419",
+    "bank_name": "BDL",
+    "pc_paie_id": "029",
+    "situation": "celibataire",
+    "job_name": "deleguee medicale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": 90000,
+    "date_of_birth": "1995-06-26",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [
+      [
+        "melizadz"
+      ],
+      [
+        "taibidz"
+      ],
+      [
+        "nesrinedz"
+      ],
+      [
+        "BelhadjDZ"
+      ],
+      [
+        "itedaldz"
+      ],
+      [
+        "hamzadz"
+      ],
+      [
+        "HANIADZ"
+      ],
+      [
+        "BouhallaDZ"
+      ],
+      [
+        "IMENEDZ"
+      ]
+    ],
+    "sectors": [
+      16,
+      39,
+      9,
+      42
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 39,
+  "fields": {
+    "user": [
+      "MeriemDZ"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "CountryManager",
+    "rolee": "CountryManager",
+    "telephone": "0697729853",
+    "adresse": "9 Rue Hamidi Said N 60 Birkhadem Alger",
+    "commune": 554,
+    "activate": "5621",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": true,
+    "can_update_medecin": true,
+    "can_add_client": true,
+    "can_view_visites": true,
+    "notification_token": "fGvsvB36SX-zxcbzF96r23:APA91bHrE1Op6PnnQG0c4IngAXnisjyTVl_W042bUMaiu3Zm2ZuNPwu5eAIUH9FE9S9sovJvuG6RaZITuivA9U8p8x0NQfSQyKADzR3j7_-YMo1vvd8R1wpD949NCU10PfS7KjVReCsJ",
+    "ios_notification_token": "cW32lrIbXUGLjrMK7ZXLfA:APA91bGTlLeKyrnwS5zqTbtdEN3NdDP_IDG2eJN-2fF0IM_6qXpkDPNW6PC5KUE__uTX5r-rE1Y_5FBjwZ8VC2ZgnnUY0Z6XUXSHoy2nonC598TEsY1duY-BwtMOra307JRVLJ0OG-bW",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": "931548002546",
+    "entry_date": "2023-08-20",
+    "conge": 0.0,
+    "bank_account": "03200003126468120864",
+    "bank_name": "CCP",
+    "pc_paie_id": "043",
+    "situation": "marrié",
+    "job_name": "Marketing et sales Manager",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": 150000,
+    "date_of_birth": "1993-10-17",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": true,
+    "is_human": true,
+    "usersunder": [
+      [
+        "MSILA"
+      ],
+      [
+        "Mustaphadz"
+      ]
+    ],
+    "sectors": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 44,
+  "fields": {
+    "user": [
+      "sabrinadz"
+    ],
+    "company": "orient bio",
+    "family": "orient Bio",
+    "speciality_rolee": "Office",
+    "rolee": "Commercial",
+    "telephone": "0698801699",
+    "adresse": "ain benian alger",
+    "commune": 554,
+    "activate": "0002211",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": true,
+    "can_view_visites": true,
+    "notification_token": "f2MVHGlBSM2e1xPtaoJG-W:APA91bGcZk2SfHl3uqSHFZx-SZBr_sfWEcwPLaGiHT_4Wd5mHMu1RQtZ9Z_66O6v4Zja_e4gK1PjHWE0b53r8mXRauOqFGn842FjFFWE3HKAbUzG00j8dJkpQ2rHqSCT28csrX7iXxgJ",
+    "ios_notification_token": null,
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": "950061057836",
+    "entry_date": "2022-05-08",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "marrié",
+    "job_name": "Directrice technique",
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": 80000,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 45,
+  "fields": {
+    "user": [
+      "boualemdz"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Office",
+    "rolee": "Commercial",
+    "telephone": "054947173",
+    "adresse": "alger",
+    "commune": 554,
+    "activate": "delegue",
+    "can_send_receive_tasks": true,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": "cnGSH6DjS46JuAf0btrZ3L:APA91bGHRbtgmuM1EDhnrFWczPvpNhzFz3e0Dlhyq8gSBNynI8FC5L9zig_6iCyBca4ipgo9Kn3gcV03cgQ9u-y9s1y1-9JeoNMOhWaTYjF_KatygFJzVooh-wkQuHu1zkrnvvUpgLK-",
+    "ios_notification_token": null,
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2022-09-10",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": "060",
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 46,
+  "fields": {
+    "user": [
+      "IMENEDZ"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": "0561971338",
+    "adresse": "N°17 CITE 394 LOGT SONATRACH BT 21 CHERAGA ALGER",
+    "commune": 554,
+    "activate": "22222222LLKJ",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "cAJ9SWW0QNWV6ELilDCkxt:APA91bG2VQhcD3Tsv3CTf1KN0s5Ex-VgGm_Bt47SF5Kcp0udRx5-n1Aptj8bkFbLdKx_awP8FqTTa98X0jPhlspLTu5jvEaGXI4F8hhuCKiJRQzn-wS3Dp3XGtX3cj-d0XIkNL0W0-zk",
+    "ios_notification_token": "fBPRo4fRDkb5iGNZcPnNRG:APA91bFh2WSxx3qXpRZlSQt6Jp0e7IBUOXt_9u2zznkVCwviZM5yaIU2QfeJyfQ6bjlMF9i_DbytP2_Pn4srNir3S2ZZLxMBK2u0kPWXi0Aeao3ZqW2XPC0",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": "980007062056",
+    "entry_date": "2020-08-06",
+    "conge": 39.0,
+    "bank_account": "00799999002301355470",
+    "bank_name": "BDL",
+    "pc_paie_id": "017",
+    "situation": "celibataire",
+    "job_name": "Delegee Commercial",
+    "code_section": "COM",
+    "code_contrat": "CDI",
+    "salary": 48000,
+    "date_of_birth": "1998-01-03",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": true,
+    "is_human": true,
+    "usersunder": [
+      [
+        "itedaldz"
+      ],
+      [
+        "BouhallaDZ"
+      ]
+    ],
+    "sectors": [
+      16,
+      42
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 62,
+  "fields": {
+    "user": [
+      "nesrinedz"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium2",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0561642705",
+    "adresse": "-",
+    "commune": 605,
+    "activate": "55555",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "cJZk06FyRjm5dOZF5-vzvi:APA91bHovAjhjtz_jLIpyd5fF3cazC4ahrntk4a-3QkmT6Y5FSMpQMt94ZmAvm_LrHgEcZkcA4V3bQWB9Qp_-SDnUMYws48eXQcjczkQJT7yslLoIe42NTk",
+    "ios_notification_token": "cg-reNr0Yk9-j_AVdlOMGd:APA91bG1xWcgDh9SyUi-8ZuBFyo_k09QfJGYuRPQ7m8HttiFYbDXVUegKq420xVlX8ulHNUZBHa1iqyzEIce-dcF0dIFWT-shxCAD-mkbytuesaOdn2ykd0",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": "-",
+    "entry_date": "2022-01-27",
+    "conge": 14.0,
+    "bank_account": "-",
+    "bank_name": "-",
+    "pc_paie_id": "056",
+    "situation": "celibataire",
+    "job_name": "Déléguée Médical",
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [
+      [
+        "itedaldz"
+      ],
+      [
+        "BouhallaDZ"
+      ],
+      [
+        "IMENEDZ"
+      ]
+    ],
+    "sectors": [
+      16,
+      9,
+      42
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 65,
+  "fields": {
+    "user": [
+      "BelhadjDZ"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium2",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0560996806",
+    "adresse": "Boulevard Saim Mohamed cité Monté Carlo bloc E. Oran",
+    "commune": 1110,
+    "activate": "a2d6595b592271d48211ba8c969",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "fdqqsU7nS0K_wb4lh8sOxV:APA91bF3L0xa41GPWEFuBSl-QHZ4PRd6lM5DaJtBstFcyOfBGm2OL7LST6umxC7zQwvzURv0zIaYUcvHHvIu3ewtNLfSThVwh1V29Xj6llwlZmhROa2DHNzPSfLypthAPeyLpq-Ix-D3",
+    "ios_notification_token": "fscuLHOm50MTkfxZ6mlNjd:APA91bHYFKAp_l351fXyoOSIDUJWHlTgBCBjtW20VGYZ__ShjL_0Yd6Jd7LNsCvtGtW-KXEKn3VpXpWC8R_Cu-UzSEAfLjESCJcqU7AY9a32tNpZ9mjJMfP4m6_xkEsw7_-_Rl96PmS-",
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": "950742004150",
+    "entry_date": "2024-10-03",
+    "conge": 0.0,
+    "bank_account": "00799999001976090705",
+    "bank_name": "ccp_BELHADJ Adel",
+    "pc_paie_id": "071",
+    "situation": "celibataire",
+    "job_name": "Déléguée Médical",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": 90000,
+    "date_of_birth": "1997-06-28",
+    "contract": "BELHADJ_Adel_Dossier.pdf",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [
+      [
+        "aminadz"
+      ]
+    ],
+    "sectors": [
+      13,
+      31,
+      20,
+      48,
+      46,
+      2,
+      38,
+      22,
+      27,
+      29
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 67,
+  "fields": {
+    "user": [
+      "apple"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Admin",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "alger",
+    "commune": 554,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2023-01-11",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": false,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 68,
+  "fields": {
+    "user": [
+      "MAALEM"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Finance_et_comptabilité",
+    "rolee": "CountryManager",
+    "telephone": "0770222261",
+    "adresse": "37 Rue de la Franelle Dely Ibrahim",
+    "commune": 554,
+    "activate": null,
+    "can_send_receive_tasks": true,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": "eGJk4vuwTDKddBrDJmfl5_:APA91bG1VFTlgNzlgSZvI624052BrepKdVDHzFyXAQCbRXfmSDrIuJxWyJ7Pn3mBLgmj9aS1bzggSOax38xEF-Z37gzVTQSIUd1ggZhYo76YaKGLqBouQ-6Hws8vonhrWgXh4gQExxHX",
+    "ios_notification_token": "fElP_cZATk5CuU1php5BSw:APA91bH7ES63OP7uBPSnYrUL364Uaw3wxARcU--VwTlx9M5Q8kDXgSQQGKXsbq0pPQOjjBypsOCLRV8wG6khNuob3uwlCZLm36E7N4kzSe3bEZU-Q3YPWiez_3JSDs-e9R5I9vKWlsHF",
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": "850681000352",
+    "entry_date": "2023-02-05",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": "036",
+    "situation": "marrié",
+    "job_name": "Finance & Accounting Manager",
+    "code_section": "ADMIN",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": "1985-03-29",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 69,
+  "fields": {
+    "user": [
+      "SihemDZ"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium1",
+    "speciality_rolee": "Superviseur_national",
+    "rolee": "Superviseur",
+    "telephone": "0550406660",
+    "adresse": "21, Rue Sbaa Abderrahmane, Belle Vue El Harrach",
+    "commune": 554,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": true,
+    "can_update_medecin": true,
+    "can_add_client": true,
+    "can_view_visites": true,
+    "notification_token": "cpKPXF7LTxSy9uZ7Ad2lpr:APA91bFvBxZXuMdKr-uQHvVlUYIS-3AnnYg8e4dvnNljLoafH0RwoCPWSkQMDBFx_FkgG0f3nCD4STmgd8RqqHSO4X-LA3VkbyL7rPLelv0gm-sM1w77elAUMkCik3Bbax0sreOHQWX4",
+    "ios_notification_token": "eyS5YA07mE1Fk5tVy3Qw6v:APA91bGkscF0_YkxSOp9D5PlZroc_xDWJjGF487m4xfNSm_ryJchk6Jg_3egmtagEcLlT5LFeqZ0ipyCw1auD1bIGMxmzbl8SpVr7roN1jMCY9wjswA_wyEGjWV-0TIohFev6Q3h7e0a",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": "802728001355",
+    "entry_date": "2023-09-10",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": "049",
+    "situation": "celibataire",
+    "job_name": "Superviseur National",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": "1980-07-13",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [
+      [
+        "guerfidz"
+      ],
+      [
+        "ahmedDZ"
+      ],
+      [
+        "SAMYDZ"
+      ],
+      [
+        "telmsan"
+      ],
+      [
+        "SihemDZ"
+      ],
+      [
+        "BouhallaDZ"
+      ],
+      [
+        "IMENEDZ"
+      ],
+      [
+        "itedaldz"
+      ],
+      [
+        "HANIADZ"
+      ],
+      [
+        "MSILA"
+      ],
+      [
+        "aminadz"
+      ],
+      [
+        "tawfikdz"
+      ],
+      [
+        "fayzadz"
+      ],
+      [
+        "bouchachiadz"
+      ],
+      [
+        "ISKANDERDZ"
+      ],
+      [
+        "MASLOUGDZ"
+      ],
+      [
+        "Fatimadz"
+      ],
+      [
+        "Chlef"
+      ],
+      [
+        "ROCHDDZ"
+      ],
+      [
+        "MESLIOUIDZ"
+      ],
+      [
+        "TAKIEDDINEDZ"
+      ]
+    ],
+    "sectors": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 70,
+  "fields": {
+    "user": [
+      "akramhdz"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium2",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0560784649",
+    "adresse": "setif",
+    "commune": 675,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "csjAhVSJRXu2tTcSHIt1Gh:APA91bGvU6cxHUR2UOb5jmf5ljQO81oZtQvkLyPPJSYr0jkchj3k5SQx2mrya3rANJGgSq-9pwXXMteDPxYscgKbiaF34Jtrw8SMeLH77slSq401MxUCjDmYPB5AcYpOCHxxrtI64Kyn",
+    "ios_notification_token": "fscuLHOm50MTkfxZ6mlNjd:APA91bHYFKAp_l351fXyoOSIDUJWHlTgBCBjtW20VGYZ__ShjL_0Yd6Jd7LNsCvtGtW-KXEKn3VpXpWC8R_Cu-UzSEAfLjESCJcqU7AY9a32tNpZ9mjJMfP4m6_xkEsw7_-_Rl96PmS-",
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2024-10-20",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "marrié",
+    "job_name": "Déléguée Médical",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": [
+      34,
+      19
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 72,
+  "fields": {
+    "user": [
+      "ISKANDERDZ"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium1",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0560466651",
+    "adresse": "Cité 1028 logts. entrée 101 N° 826",
+    "commune": 841,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "cuUb6PC8RxuQtjcqb7alwf:APA91bEiva8svnlTfvDy8ZtXltlaz3wNXcXA-BU-2avAGfcvCJz2iIPT5z4T2ntwfKPASW4xGUJfqFmDSOlr3gxUtr4QooXfU6iLuC1RxdFbc5DLOALe28XGrtI7-0SNVXFYpS6lc_qk",
+    "ios_notification_token": "cW32lrIbXUGLjrMK7ZXLfA:APA91bGTlLeKyrnwS5zqTbtdEN3NdDP_IDG2eJN-2fF0IM_6qXpkDPNW6PC5KUE__uTX5r-rE1Y_5FBjwZ8VC2ZgnnUY0Z6XUXSHoy2nonC598TEsY1duY-BwtMOra307JRVLJ0OG-bW",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": "952715002549",
+    "entry_date": "2023-08-28",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": "048",
+    "situation": "marrié",
+    "job_name": "Déléguée Médico-Commerciale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": "1995-03-30",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": [
+      24,
+      36,
+      23
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 74,
+  "fields": {
+    "user": [
+      "Mustaphadz"
+    ],
+    "company": "orient bio",
+    "family": "orient Bio",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0792526028",
+    "adresse": "alger",
+    "commune": 2367,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": true,
+    "can_update_medecin": true,
+    "can_add_client": true,
+    "can_view_visites": true,
+    "notification_token": "dZTjsiLpQ_iqeY_5DUYHYJ:APA91bEFHhgX3qiPUYFGt1tuVq-YAC0sxiavdOsi0C5qnK__KiFTdJ7vqiT_Qa2gc1wpOd1DFjGkuV99IzcshM_DptLgQ30rIaWpkFUB_VKEqiOfiETjC4dTQjZCzz9VkThWTucqZbVA",
+    "ios_notification_token": "dli09XPhMUnlt6H5KuduhU:APA91bEpEdHjIoqDk4NyYT18yVQs2S03QZQiI19T7P_gZs3LrpVMPVV6L1S3umOxmK6SQCWxL7_9xJfzl-r17cvFhrjSjM6NOl0Q64Z5bIVC-C67BXygpcnq5rv2iOpmNkAhH1iWTKrU",
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2023-07-24",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": [
+      17,
+      20,
+      8,
+      32,
+      45
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 75,
+  "fields": {
+    "user": [
+      "kenzadz"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Office",
+    "rolee": "CountryManager",
+    "telephone": "0561692259",
+    "adresse": "2750 Logts. Sidi Abdellah Zone A5-5 N° 12",
+    "commune": 554,
+    "activate": null,
+    "can_send_receive_tasks": true,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": "fRj2mp4hQK-ETwREsYNG7r:APA91bEO9kED7QE-bNX3Tm7hr8mhtFzSr4Iqcw_GFKHm-fgsDn7L3_PWNAMednaB3wmAA7MTtkzbVedlR3TUNerNH9WZApYoaDKA77ytLBGsTU-8VXzqRyMQ3_8BFmqHnKoUDVpPkTmL",
+    "ios_notification_token": "dli09XPhMUnlt6H5KuduhU:APA91bEpEdHjIoqDk4NyYT18yVQs2S03QZQiI19T7P_gZs3LrpVMPVV6L1S3umOxmK6SQCWxL7_9xJfzl-r17cvFhrjSjM6NOl0Q64Z5bIVC-C67BXygpcnq5rv2iOpmNkAhH1iWTKrU",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": "910742003354",
+    "entry_date": "2022-06-12",
+    "conge": 12.0,
+    "bank_account": null,
+    "bank_name": "ccp",
+    "pc_paie_id": "028",
+    "situation": "marrié",
+    "job_name": "Directrice Technique",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": "1991-06-06",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 77,
+  "fields": {
+    "user": [
+      "sadidz"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Office",
+    "rolee": "Commercial",
+    "telephone": "0560102461",
+    "adresse": "Cité Rachid Saad Allah, Rue 02 N° 11, les Eucalyptus",
+    "commune": 554,
+    "activate": "0123",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": "ecQi7TBCQZOub6tXiI6zl5:APA91bHC-XUIqB6QfjSJusbBWLt-6o8hF25qXBOLoSdF-4puLLJ3QP_WjfXy680y03GiEtXt8nn6srueAqxUvFDuDsXl8qblqgYdwT0-ZBfmsZZcg1vs-6ItvGB6iM6Dsz3nmxZ4I83K",
+    "ios_notification_token": "00",
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": "920376020846",
+    "entry_date": "2023-08-17",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": "041",
+    "situation": "celibataire",
+    "job_name": "Chargé de la communication",
+    "code_section": "ADMIN",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": "1992-07-31",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": [
+      16
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 79,
+  "fields": {
+    "user": [
+      "melizadz"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium2",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0555211948",
+    "adresse": "Ait Mesbah Béni Douala",
+    "commune": 518,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "dsUM3GzMQxmLc7ATA39Y-i:APA91bFFqs9tTWFNfOdH9XjXMcEiLXp5VjWtVWI194HNoPOsoUuWQmtq1AcqnExyT0FzLA9bRCrJH3bLVyvaeMu1TOU2rZkKkmhCZrC7iM7DYLSgRU2nbJ_fIoiOrA5GVOg7tXUTBtfw",
+    "ios_notification_token": "cW32lrIbXUGLjrMK7ZXLfA:APA91bGTlLeKyrnwS5zqTbtdEN3NdDP_IDG2eJN-2fF0IM_6qXpkDPNW6PC5KUE__uTX5r-rE1Y_5FBjwZ8VC2ZgnnUY0Z6XUXSHoy2nonC598TEsY1duY-BwtMOra307JRVLJ0OG-bW",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": "930286003444",
+    "entry_date": "2023-08-31",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": "046",
+    "situation": "marrié",
+    "job_name": "Déléguée Médico-Commerciale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": "1993-04-26",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": [
+      35,
+      6,
+      15
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 81,
+  "fields": {
+    "user": [
+      "AbderahmaneDZ"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium2",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0560572650",
+    "adresse": "10 Rue larbi M'hidi Batna",
+    "commune": 117,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "ds22YNRDS1e9DTXZ6kHHmn:APA91bEKSO0yxnFS9mxWx8Ya9N_8ixuqQ_Hb70jOA7kFzRdsAD8IVMDZFkl07xz_8ohg8ySl9WFutWbYdYx46f7KwTUgsFNKIcuhOWrHorMhyKWAyW0ZyoY",
+    "ios_notification_token": "fElP_cZATk5CuU1php5BSw:APA91bH7ES63OP7uBPSnYrUL364Uaw3wxARcU--VwTlx9M5Q8kDXgSQQGKXsbq0pPQOjjBypsOCLRV8wG6khNuob3uwlCZLm36E7N4kzSe3bEZU-Q3YPWiez_3JSDs-e9R5I9vKWlsHF",
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2024-10-03",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": "069",
+    "situation": "marrié",
+    "job_name": "Délégué Médico-Commercial",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": [
+      5,
+      7
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 83,
+  "fields": {
+    "user": [
+      "hamzadz"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium2",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0560536414",
+    "adresse": "Cité Deloula Belabbasse, Bat. 45 N° 823",
+    "commune": 611,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "e56qv6q8S9GxLtMAg0hHT9:APA91bE-OkVOuH__nyePS9xQKp2ggKIxBrb0Gc3Y6vU4233vWlkjbaAgOW8tpzYmzTFJK4fZVNVraGg-bA93lMYNHSTgOos8s79bcdX7a6IU1Hn2EUX99xPok-FkrJSwDeP7J2-snMYB",
+    "ios_notification_token": "fElP_cZATk5CuU1php5BSw:APA91bH7ES63OP7uBPSnYrUL364Uaw3wxARcU--VwTlx9M5Q8kDXgSQQGKXsbq0pPQOjjBypsOCLRV8wG6khNuob3uwlCZLm36E7N4kzSe3bEZU-Q3YPWiez_3JSDs-e9R5I9vKWlsHF",
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": "921180002947",
+    "entry_date": "2023-08-31",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": "051",
+    "situation": "celibataire",
+    "job_name": "Délégué Médico-Commercial",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": "1992-05-29",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": [
+      26,
+      14,
+      47,
+      17,
+      3
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 84,
+  "fields": {
+    "user": [
+      "meryemdz"
+    ],
+    "company": "orient bio",
+    "family": "orient Bio",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": "0560730274",
+    "adresse": "alger",
+    "commune": 605,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": true,
+    "can_update_medecin": true,
+    "can_add_client": true,
+    "can_view_visites": true,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": null,
+    "entry_date": "2023-06-07",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": "déléguée médical",
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": "1999-07-01",
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": false,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 85,
+  "fields": {
+    "user": [
+      "RABTIDZ"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Office",
+    "rolee": "Commercial",
+    "telephone": "0560963154",
+    "adresse": "11 Rue les Castors Group N° 02 Bir Mourad Rais",
+    "commune": 554,
+    "activate": "stock manager",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": "d67Jb_1lTfaSv90tJhgt2s:APA91bEQxzMcxDWgni4XQ0LSioqJpt4ar8Z_basO7bkJ7imfjqP7GuYcYRjh-khFqwpQx450EpUuJv8L5oWdW3WdQOtcfrmj21YEm0ByYOBIVqyiPXgTvjHE1EsMiToYr8Y1umMHY00F",
+    "ios_notification_token": "dli09XPhMUnlt6H5KuduhU:APA91bEpEdHjIoqDk4NyYT18yVQs2S03QZQiI19T7P_gZs3LrpVMPVV6L1S3umOxmK6SQCWxL7_9xJfzl-r17cvFhrjSjM6NOl0Q64Z5bIVC-C67BXygpcnq5rv2iOpmNkAhH1iWTKrU",
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": "880772012344",
+    "entry_date": "2023-10-29",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": "053",
+    "situation": "celibataire",
+    "job_name": "Gestionnaire de stock",
+    "code_section": "ADMIN",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": "1988-03-05",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 87,
+  "fields": {
+    "user": [
+      "guerfidz"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium1",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0560612403",
+    "adresse": "Batna",
+    "commune": 117,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "fiSIZqAFQ6CS7lW2tSNkTs:APA91bHoSV9SURZlipf32tpau5SIHdT7E8-S3Iyd79atDLWmGy0G3WgA2nYsRWxXRpZeECYusIRYxUTnyeSFc3nV0aBx156R5MGjlHSkcy53DicwLddClRN4U0LGKeDzHAywjDcixtK0",
+    "ios_notification_token": "cW32lrIbXUGLjrMK7ZXLfA:APA91bGTlLeKyrnwS5zqTbtdEN3NdDP_IDG2eJN-2fF0IM_6qXpkDPNW6PC5KUE__uTX5r-rE1Y_5FBjwZ8VC2ZgnnUY0Z6XUXSHoy2nonC598TEsY1duY-BwtMOra307JRVLJ0OG-bW",
+    "recive_mail": true,
+    "gender": "femme",
+    "CNAS": null,
+    "entry_date": "2024-10-20",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": "073",
+    "situation": "celibataire",
+    "job_name": "Délégué Médico-Commercial",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": [
+      5,
+      7
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 90,
+  "fields": {
+    "user": [
+      "syrianadz"
+    ],
+    "company": "aniya pharma",
+    "family": "Aniya_Pharm",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "alger",
+    "commune": 554,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": null,
+    "ios_notification_token": "elqQV6lvhkwAjA73bVjgop:APA91bGFjmfetmFGsQtFqwcIjpECG0Y460JZTdlb30_ee-RD6kJBjxfJobEKEGvjPTXFwIZv9ZUPJ3ZrOJgsdys8HdfH_4h602W5h59BjZotliMTARK9_WShXnrk4hO88XSpWGjJ89m6",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": null,
+    "entry_date": "2023-12-03",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": true,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": [
+      16
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 91,
+  "fields": {
+    "user": [
+      "SAMIADZ"
+    ],
+    "company": "aniya pharma",
+    "family": "Aniya_Pharm",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0795275935",
+    "adresse": "Rahali Larbi Oran",
+    "commune": 1110,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "e1cHbAbRSPW8zkAuhoY9GU:APA91bG01FlV1IjsPft5Ak8l8TWp3ZOxzYoFdbeGZPoZd9YkUtuNWN9EeK4cfsCb4sUSllOqChrfXz0ruspuOKWbKFajOdFD2oKO4Skn-6HRnCCUez_9NsRw-YkKc0hg2covkUt5jNvn",
+    "ios_notification_token": "fscuLHOm50MTkfxZ6mlNjd:APA91bHYFKAp_l351fXyoOSIDUJWHlTgBCBjtW20VGYZ__ShjL_0Yd6Jd7LNsCvtGtW-KXEKn3VpXpWC8R_Cu-UzSEAfLjESCJcqU7AY9a32tNpZ9mjJMfP4m6_xkEsw7_-_Rl96PmS-",
+    "recive_mail": false,
+    "gender": "femme",
+    "CNAS": null,
+    "entry_date": "2023-12-03",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": "2000-12-01",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": true,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": [
+      31
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 93,
+  "fields": {
+    "user": [
+      "taibidz"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium2",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0560980646",
+    "adresse": "2dlot seghir route de saoula, draria 16000 alger",
+    "commune": 610,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "fC2C3lsFSUOetQ8D7tBe4y:APA91bFL-lV2-cKEBqjeEid8-smjrky4TKEn6xNt7Q5PenkJCnHz8CTYMrhH_V0AcjF2ldIt0Bb5PpWah4M30qlguvsq1EpouUi0iA2cJ_YjC1-IrYbzoI3RdABlE3FfipxLHpKWcmXV",
+    "ios_notification_token": "fscuLHOm50MTkfxZ6mlNjd:APA91bHYFKAp_l351fXyoOSIDUJWHlTgBCBjtW20VGYZ__ShjL_0Yd6Jd7LNsCvtGtW-KXEKn3VpXpWC8R_Cu-UzSEAfLjESCJcqU7AY9a32tNpZ9mjJMfP4m6_xkEsw7_-_Rl96PmS-",
+    "recive_mail": true,
+    "gender": "femme",
+    "CNAS": null,
+    "entry_date": "2024-10-20",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": "075",
+    "situation": "marrié",
+    "job_name": "déléguée médicale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [
+      [
+        "BouhallaDZ"
+      ],
+      [
+        "IMENEDZ"
+      ],
+      [
+        "itedaldz"
+      ]
+    ],
+    "sectors": [
+      16
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 94,
+  "fields": {
+    "user": [
+      "ORANLINE2"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium2",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0560980655",
+    "adresse": "Cité 542 logements bloc 9 porte 6 - Bir El Djir-",
+    "commune": 1110,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "etPK4BfbRdCUHLg2THNfy3:APA91bHww0lwgrY6DO4Qp0Xg5ug33HmEtFjML6fFSYSkY6ii5JBF0ilCh0Rlf4Ek6IzbzWEvB2srhDQU0yvnVzKL3HGOSx-aFXq-XaYVg7CDSCbMBShvOA6JQDa0pP9bQbX5KYUdYzHV",
+    "ios_notification_token": null,
+    "recive_mail": false,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2024-02-21",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": "déléguée médicale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": "1997-03-02",
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": false,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 95,
+  "fields": {
+    "user": [
+      "khelilidz"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium2",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0560980651",
+    "adresse": "Constantitne",
+    "commune": 887,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "dtBMTsE8S6e5OhWp2gu5UL:APA91bEqr0pXEG3-ELH3rM6THpK3V7-Ks8GYzxdzvLJLCq4FNnvCb1rBjmgsolY8EUIbud9ZxvE2DxyXs9JeyK1ZVJq204mx0R-l6cvt7d-qGsfJIo-2_ZA",
+    "ios_notification_token": "cg-reNr0Yk9-j_AVdlOMGd:APA91bG1xWcgDh9SyUi-8ZuBFyo_k09QfJGYuRPQ7m8HttiFYbDXVUegKq420xVlX8ulHNUZBHa1iqyzEIce-dcF0dIFWT-shxCAD-mkbytuesaOdn2ykd0",
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2024-02-21",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": "058",
+    "situation": "celibataire",
+    "job_name": "déléguée médicale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": [
+      43,
+      25,
+      21,
+      23
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 96,
+  "fields": {
+    "user": [
+      "telmsan"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium1",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0560544425",
+    "adresse": "Bab el Okba, Tlemcen",
+    "commune": 392,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": true,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "fD_kTonqTvWnEeyBPDlvML:APA91bGqCsui9f5bvcK5mBSkIscdmXLg7UnT4Zoy5Gaypcx8vTWsgUDO4XQNsktb_pZLjixP1NML8vPLkiT5KWknVHouFEeyNNTGKVe_0gk3YUO0vA23AohuGgWnlgM_mVgAnUEpsa15",
+    "ios_notification_token": "eEHQeHqsN0_zsPhBieG9OD:APA91bEEBM_waJ0wZniGd2e5IpKn2YihwUKWCdc7TTp1m_Nd1fwiYtN-nzJp2gYT-Xq1ygeica6wm_nMFxOUNA4mKFx1nTlZOUUv9CLxl3-fafMZcxCz6EW4HepUOPCGvvIjZlTSvAsO",
+    "recive_mail": true,
+    "gender": "femme",
+    "CNAS": null,
+    "entry_date": "2024-10-20",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": "072",
+    "situation": "celibataire",
+    "job_name": "Déléguée Médical",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": "1998-05-13",
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": false,
+    "usersunder": [],
+    "sectors": [
+      13
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 97,
+  "fields": {
+    "user": [
+      "BillalDZ"
+    ],
+    "company": "orient bio",
+    "family": "orient Bio",
+    "speciality_rolee": "Office",
+    "rolee": "Commercial",
+    "telephone": "0560516636",
+    "adresse": "alger",
+    "commune": 554,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2024-04-28",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 98,
+  "fields": {
+    "user": [
+      "Medecin_Recycle_Bin"
+    ],
+    "company": "all",
+    "family": "Administration",
+    "speciality_rolee": "Office",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "alger",
+    "commune": 1,
+    "activate": "DO NOT MODIFY",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": "DO NOT MODIFY",
+    "ios_notification_token": "DO NOT MODIFY",
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": "DO NOT MODIFY",
+    "entry_date": "2024-05-08",
+    "conge": 0.0,
+    "bank_account": "DO NOT MODIFY",
+    "bank_name": "DO NOT MODIFY",
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": "DO NOT MODIFY",
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": false,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 99,
+  "fields": {
+    "user": [
+      "Pharmacie_Recycle_Bin"
+    ],
+    "company": "all",
+    "family": "Administration",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "alger",
+    "commune": 2367,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2024-08-22",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": false,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 101,
+  "fields": {
+    "user": [
+      "Anisdz"
+    ],
+    "company": "lilium pharma",
+    "family": "production",
+    "speciality_rolee": "gestionnaire_de_stock",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "alger",
+    "commune": 554,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": "f78eXulKTNiX4Chmf_8lkD:APA91bED58AErHbbtYKu0IPdYRUZ-3ow4NoWriXnCFySKMUiCa37C4xZ5_rJPFu7zAm3eZc-MJLARG2aekQoFDGkxeYEIeGQsKjyOgSsrY2NAUBlyax7OVgD2AcD0ceGsruHHhQ124NU",
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2024-09-11",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 102,
+  "fields": {
+    "user": [
+      "RaghedDZ"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Office",
+    "rolee": "CountryManager",
+    "telephone": null,
+    "adresse": "alger",
+    "commune": 2367,
+    "activate": null,
+    "can_send_receive_tasks": true,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": "eEZq776nT-e-UDZxRYWbRZ:APA91bHGwLWVPPPLZp9ia1FWBtM__qmb9RjPOt0Dgru6bfhUzpZMcEQPY1PlKkeeQjuIkNC0T4Z6EZfYZFfThzXkKwFAq4aHT7sRs7OJA5C09MYXn-xpA1_-cCILt7hXSyEZWhDTcxBQ",
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "femme",
+    "CNAS": null,
+    "entry_date": "2024-09-23",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": "067",
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 104,
+  "fields": {
+    "user": [
+      "MSILA"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0560586224",
+    "adresse": "msila",
+    "commune": 995,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": true,
+    "can_update_medecin": true,
+    "can_add_client": true,
+    "can_view_visites": true,
+    "notification_token": "fcNqk1UKQu--lSswwTkb4a:APA91bHoE2QBCqW6dOC9TpoAeXZDjqtp-2NWqxIUomCzGD5ePBjyrpNoQppKUehEVFdvvdZcP8Cc5v1RHffeLRBJPUHAgN-7yFcuNMCIs4yEjGXYBePwV0joEGL2_jMAKEJ2gOKtTFbV",
+    "ios_notification_token": "cW32lrIbXUGLjrMK7ZXLfA:APA91bGTlLeKyrnwS5zqTbtdEN3NdDP_IDG2eJN-2fF0IM_6qXpkDPNW6PC5KUE__uTX5r-rE1Y_5FBjwZ8VC2ZgnnUY0Z6XUXSHoy2nonC598TEsY1duY-BwtMOra307JRVLJ0OG-bW",
+    "recive_mail": true,
+    "gender": "femme",
+    "CNAS": null,
+    "entry_date": "2024-10-20",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": "Delegue Médicale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": false,
+    "usersunder": [],
+    "sectors": [
+      28
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 105,
+  "fields": {
+    "user": [
+      "sihemnehardz"
+    ],
+    "company": "production",
+    "family": "production",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "alger",
+    "commune": 554,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "femme",
+    "CNAS": null,
+    "entry_date": "2024-11-21",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 106,
+  "fields": {
+    "user": [
+      "MESLIOUIDZ"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium1",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "cite du 1  er mai bt20a ouled yaich",
+    "commune": 2372,
+    "activate": null,
+    "can_send_receive_tasks": true,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": true,
+    "notification_token": "f-xZnKDLSb-_4TeDhhtfr5:APA91bF_v8kZrMq-Elf51yzOs9XF2hH61NxRgkdenS0z15oSVu8SLyBW-uub0UajSRWM0gVPFJ1A3f3bjw174-_rlgSbiuTDMaBXEZCZRd7xHJWeWsDGq6I",
+    "ios_notification_token": "cW32lrIbXUGLjrMK7ZXLfA:APA91bGTlLeKyrnwS5zqTbtdEN3NdDP_IDG2eJN-2fF0IM_6qXpkDPNW6PC5KUE__uTX5r-rE1Y_5FBjwZ8VC2ZgnnUY0Z6XUXSHoy2nonC598TEsY1duY-BwtMOra307JRVLJ0OG-bW",
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": "8227370010/55",
+    "entry_date": "2024-12-02",
+    "conge": 0.0,
+    "bank_account": "00100430030000123756",
+    "bank_name": "BNA",
+    "pc_paie_id": null,
+    "situation": "marrié",
+    "job_name": "Délégué Medico-Commercial",
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": 90000,
+    "date_of_birth": "1982-05-08",
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": true,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": [
+      9,
+      2,
+      26
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 107,
+  "fields": {
+    "user": [
+      "TAKIEDDINEDZ"
+    ],
+    "company": "lilium pharma",
+    "family": "Lilium1",
+    "speciality_rolee": "Superviseur_national",
+    "rolee": "Superviseur",
+    "telephone": null,
+    "adresse": "Bouzouran, BATNA",
+    "commune": 117,
+    "activate": null,
+    "can_send_receive_tasks": true,
+    "can_add_medecin": true,
+    "can_update_medecin": true,
+    "can_add_client": true,
+    "can_view_visites": true,
+    "notification_token": "clfeT-nvTS67ieCdgsXR3w:APA91bGi6MRIw8kAtyKt4vjpuummvYeHMKOuu1zbDFf6fxXk77oIdGKWJ_V2SUpnMEgaFuMl_XKc4kAmjrJqqzjjTqQNiVRX1WMVfzy6XokjQHgo6uXd7H8",
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2024-12-08",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [
+      [
+        "guerfidz"
+      ],
+      [
+        "ISKANDERDZ"
+      ],
+      [
+        "AbderahmaneDZ"
+      ],
+      [
+        "SAMYDZ"
+      ],
+      [
+        "MSILA"
+      ],
+      [
+        "khelilidz"
+      ],
+      [
+        "akramhdz"
+      ],
+      [
+        "ahmedDZ"
+      ]
+    ],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 108,
+  "fields": {
+    "user": [
+      "yassinedz"
+    ],
+    "company": "lilium pharma",
+    "family": "production",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "Cité du Chahid Mohamed Abdelaziz, Bâtiment 08 N° 02",
+    "commune": 569,
+    "activate": "-",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2025-01-07",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": "Directeur d'usine",
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 109,
+  "fields": {
+    "user": [
+      "Alloundz"
+    ],
+    "company": "lilium pharma",
+    "family": "production",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "Cité 2500 Logts. AADL Bt. M7 N° 13, Sidi Abdellah",
+    "commune": 558,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2025-01-07",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": "Agent de sécurité",
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 110,
+  "fields": {
+    "user": [
+      "slimanedz"
+    ],
+    "company": "lilium pharma",
+    "family": "production",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "Avenue Mohieddine Mustapha",
+    "commune": 607,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2025-01-07",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": "Agent d'entretien",
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 111,
+  "fields": {
+    "user": [
+      "bezzoudz"
+    ],
+    "company": "lilium pharma",
+    "family": "production",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "Cité 2500 Logements, Bt. B6, N°21, Sidi Abdellah, Mhalma",
+    "commune": 559,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "femme",
+    "CNAS": null,
+    "entry_date": "2025-01-07",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": "Coordinatrice de Production",
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 112,
+  "fields": {
+    "user": [
+      "chaoukidz"
+    ],
+    "company": "lilium pharma",
+    "family": "production",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "Cite Nadjd, Zéralda",
+    "commune": 599,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2025-01-07",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": "Opérateur de Production",
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 113,
+  "fields": {
+    "user": [
+      "fouaddz"
+    ],
+    "company": "lilium pharma",
+    "family": "production",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "Cite 03 Rue krim Belkacem",
+    "commune": 560,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2025-01-07",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": "Agent de sécurité",
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 114,
+  "fields": {
+    "user": [
+      "merzoukdz"
+    ],
+    "company": "lilium pharma",
+    "family": "production",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "Cite Sidi abdellah Mahelma",
+    "commune": 607,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2025-01-07",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": "Agent de sécurité",
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 115,
+  "fields": {
+    "user": [
+      "alidz"
+    ],
+    "company": "lilium pharma",
+    "family": "production",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "Cite Ben Chaoua, Khraicia",
+    "commune": 581,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2025-01-07",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": "Technicien de Maintenance",
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 116,
+  "fields": {
+    "user": [
+      "houriadz"
+    ],
+    "company": "lilium pharma",
+    "family": "lilium Pharma",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "Hai Ouled Belhadj Saoula",
+    "commune": 899,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "femme",
+    "CNAS": null,
+    "entry_date": "2025-01-07",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": "Agent d'entretien",
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 117,
+  "fields": {
+    "user": [
+      "brahimdz"
+    ],
+    "company": "lilium pharma",
+    "family": "production",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "Cité nouvelle FOUKA-tipaza",
+    "commune": 1378,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2025-01-08",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": "opérateur de Production",
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 120,
+  "fields": {
+    "user": [
+      "apple_token"
+    ],
+    "company": "lilium pharma",
+    "family": "Administration",
+    "speciality_rolee": "Admin",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "alger",
+    "commune": 554,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2025-02-09",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 121,
+  "fields": {
+    "user": [
+      "makourdz"
+    ],
+    "company": "aniya pharma",
+    "family": "Aniya_Pharm",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0676301441",
+    "adresse": "alger",
+    "commune": 554,
+    "activate": "222",
+    "can_send_receive_tasks": false,
+    "can_add_medecin": true,
+    "can_update_medecin": true,
+    "can_add_client": true,
+    "can_view_visites": true,
+    "notification_token": "cDmezd7gQ3qwuiltrbuVtO:APA91bHA__5VGUSjS8UrLD4oW_8hpSxa9A9rxDtS-rY3cnqCK0-wbc67_mh2R2wFMKF9jeQri8okCeYrGaLrAXuJfBpCkV3ibB4_wasMVpd0NeXucU3nX1Y",
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "femme",
+    "CNAS": null,
+    "entry_date": "2025-02-16",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [
+      [
+        "syrianadz"
+      ]
+    ],
+    "sectors": [
+      16,
+      9,
+      42
+    ]
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 122,
+  "fields": {
+    "user": [
+      "RadhiaDZ"
+    ],
+    "company": "aniya pharma",
+    "family": "Aniya_Pharm",
+    "speciality_rolee": "Medico_commercial",
+    "rolee": "Commercial",
+    "telephone": "0561138617",
+    "adresse": "setif",
+    "commune": 675,
+    "activate": null,
+    "can_send_receive_tasks": true,
+    "can_add_medecin": true,
+    "can_update_medecin": true,
+    "can_add_client": true,
+    "can_view_visites": true,
+    "notification_token": "eg38FhDST3yHNEGL3sMZIU:APA91bF7YFeEwL6rHattRWLLSBhoRpWIAb-K3AsYQX0VhHzPqoS9inxixqqqgFnrER0SNQ06cyi3-JJbO5g_L2lknVWCQHbj6WjvDUnz7SLDOjVp5iFTXRE",
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "femme",
+    "CNAS": null,
+    "entry_date": "2025-02-18",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": false,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 123,
+  "fields": {
+    "user": [
+      "OUSSAMADZ"
+    ],
+    "company": "lilium pharma",
+    "family": "production",
+    "speciality_rolee": "Commercial",
+    "rolee": "Commercial",
+    "telephone": null,
+    "adresse": "alger",
+    "commune": 554,
+    "activate": null,
+    "can_send_receive_tasks": false,
+    "can_add_medecin": false,
+    "can_update_medecin": false,
+    "can_add_client": false,
+    "can_view_visites": false,
+    "notification_token": null,
+    "ios_notification_token": null,
+    "recive_mail": true,
+    "gender": "Homme",
+    "CNAS": null,
+    "entry_date": "2025-02-18",
+    "conge": 0.0,
+    "bank_account": null,
+    "bank_name": null,
+    "pc_paie_id": null,
+    "situation": "celibataire",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDD",
+    "salary": null,
+    "date_of_birth": null,
+    "contract": "",
+    "hidden": true,
+    "work_as_commercial": false,
+    "is_human": true,
+    "usersunder": [],
+    "sectors": []
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "KHALEDDZ"
+    ],
+    "product": 2,
+    "quantity": 175
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "aminadz"
+    ],
+    "product": 2,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 3,
+  "fields": {
+    "user": [
+      "aminadz"
+    ],
+    "product": 1,
+    "quantity": 125
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 6,
+  "fields": {
+    "user": [
+      "aminadz"
+    ],
+    "product": 4,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 7,
+  "fields": {
+    "user": [
+      "aminadz"
+    ],
+    "product": 18,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 8,
+  "fields": {
+    "user": [
+      "fayzadz"
+    ],
+    "product": 2,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 9,
+  "fields": {
+    "user": [
+      "fayzadz"
+    ],
+    "product": 1,
+    "quantity": 125
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 11,
+  "fields": {
+    "user": [
+      "fayzadz"
+    ],
+    "product": 4,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 13,
+  "fields": {
+    "user": [
+      "fayzadz"
+    ],
+    "product": 18,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 16,
+  "fields": {
+    "user": [
+      "tawfikdz"
+    ],
+    "product": 2,
+    "quantity": 250
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 17,
+  "fields": {
+    "user": [
+      "tawfikdz"
+    ],
+    "product": 1,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 19,
+  "fields": {
+    "user": [
+      "tawfikdz"
+    ],
+    "product": 5,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 20,
+  "fields": {
+    "user": [
+      "tawfikdz"
+    ],
+    "product": 4,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 21,
+  "fields": {
+    "user": [
+      "tawfikdz"
+    ],
+    "product": 18,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 26,
+  "fields": {
+    "user": [
+      "Fatimadz"
+    ],
+    "product": 2,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 27,
+  "fields": {
+    "user": [
+      "Fatimadz"
+    ],
+    "product": 1,
+    "quantity": 125
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 29,
+  "fields": {
+    "user": [
+      "Fatimadz"
+    ],
+    "product": 5,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 30,
+  "fields": {
+    "user": [
+      "Fatimadz"
+    ],
+    "product": 4,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 31,
+  "fields": {
+    "user": [
+      "Fatimadz"
+    ],
+    "product": 18,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 34,
+  "fields": {
+    "user": [
+      "ROCHDDZ"
+    ],
+    "product": 2,
+    "quantity": 250
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 35,
+  "fields": {
+    "user": [
+      "ROCHDDZ"
+    ],
+    "product": 1,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 36,
+  "fields": {
+    "user": [
+      "ROCHDDZ"
+    ],
+    "product": 19,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 37,
+  "fields": {
+    "user": [
+      "ROCHDDZ"
+    ],
+    "product": 5,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 38,
+  "fields": {
+    "user": [
+      "ROCHDDZ"
+    ],
+    "product": 4,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 39,
+  "fields": {
+    "user": [
+      "ROCHDDZ"
+    ],
+    "product": 18,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 40,
+  "fields": {
+    "user": [
+      "ROCHDDZ"
+    ],
+    "product": 20,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 41,
+  "fields": {
+    "user": [
+      "ROCHDDZ"
+    ],
+    "product": 12,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 42,
+  "fields": {
+    "user": [
+      "bouchachiadz"
+    ],
+    "product": 2,
+    "quantity": 250
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 43,
+  "fields": {
+    "user": [
+      "bouchachiadz"
+    ],
+    "product": 1,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 44,
+  "fields": {
+    "user": [
+      "bouchachiadz"
+    ],
+    "product": 19,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 45,
+  "fields": {
+    "user": [
+      "aminadz"
+    ],
+    "product": 19,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 46,
+  "fields": {
+    "user": [
+      "bouchachiadz"
+    ],
+    "product": 4,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 47,
+  "fields": {
+    "user": [
+      "bouchachiadz"
+    ],
+    "product": 18,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 48,
+  "fields": {
+    "user": [
+      "bouchachiadz"
+    ],
+    "product": 20,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 49,
+  "fields": {
+    "user": [
+      "bouchachiadz"
+    ],
+    "product": 12,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 50,
+  "fields": {
+    "user": [
+      "MASLOUGDZ"
+    ],
+    "product": 2,
+    "quantity": 250
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 51,
+  "fields": {
+    "user": [
+      "MASLOUGDZ"
+    ],
+    "product": 1,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 52,
+  "fields": {
+    "user": [
+      "MASLOUGDZ"
+    ],
+    "product": 19,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 53,
+  "fields": {
+    "user": [
+      "MASLOUGDZ"
+    ],
+    "product": 5,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 54,
+  "fields": {
+    "user": [
+      "MASLOUGDZ"
+    ],
+    "product": 4,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 55,
+  "fields": {
+    "user": [
+      "MASLOUGDZ"
+    ],
+    "product": 18,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 56,
+  "fields": {
+    "user": [
+      "MASLOUGDZ"
+    ],
+    "product": 20,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 57,
+  "fields": {
+    "user": [
+      "MASLOUGDZ"
+    ],
+    "product": 12,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 58,
+  "fields": {
+    "user": [
+      "yasmindz"
+    ],
+    "product": 20,
+    "quantity": 2000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 59,
+  "fields": {
+    "user": [
+      "yasmindz"
+    ],
+    "product": 12,
+    "quantity": 2000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 60,
+  "fields": {
+    "user": [
+      "HANIADZ"
+    ],
+    "product": 20,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 61,
+  "fields": {
+    "user": [
+      "HANIADZ"
+    ],
+    "product": 12,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 62,
+  "fields": {
+    "user": [
+      "SAMYDZ"
+    ],
+    "product": 2,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 63,
+  "fields": {
+    "user": [
+      "SAMYDZ"
+    ],
+    "product": 1,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 64,
+  "fields": {
+    "user": [
+      "SAMYDZ"
+    ],
+    "product": 19,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 65,
+  "fields": {
+    "user": [
+      "SAMYDZ"
+    ],
+    "product": 5,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 66,
+  "fields": {
+    "user": [
+      "SAMYDZ"
+    ],
+    "product": 4,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 67,
+  "fields": {
+    "user": [
+      "SAMYDZ"
+    ],
+    "product": 18,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 68,
+  "fields": {
+    "user": [
+      "SAMYDZ"
+    ],
+    "product": 20,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 69,
+  "fields": {
+    "user": [
+      "SAMYDZ"
+    ],
+    "product": 12,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 70,
+  "fields": {
+    "user": [
+      "ahmedDZ"
+    ],
+    "product": 2,
+    "quantity": 175
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 71,
+  "fields": {
+    "user": [
+      "ahmedDZ"
+    ],
+    "product": 1,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 72,
+  "fields": {
+    "user": [
+      "ahmedDZ"
+    ],
+    "product": 19,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 73,
+  "fields": {
+    "user": [
+      "ahmedDZ"
+    ],
+    "product": 5,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 74,
+  "fields": {
+    "user": [
+      "ahmedDZ"
+    ],
+    "product": 4,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 75,
+  "fields": {
+    "user": [
+      "ahmedDZ"
+    ],
+    "product": 18,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 76,
+  "fields": {
+    "user": [
+      "ahmedDZ"
+    ],
+    "product": 20,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 77,
+  "fields": {
+    "user": [
+      "ahmedDZ"
+    ],
+    "product": 12,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 79,
+  "fields": {
+    "user": [
+      "KHALEDDZ"
+    ],
+    "product": 1,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 80,
+  "fields": {
+    "user": [
+      "KHALEDDZ"
+    ],
+    "product": 19,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 82,
+  "fields": {
+    "user": [
+      "KHALEDDZ"
+    ],
+    "product": 4,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 83,
+  "fields": {
+    "user": [
+      "KHALEDDZ"
+    ],
+    "product": 18,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 84,
+  "fields": {
+    "user": [
+      "KHALEDDZ"
+    ],
+    "product": 5,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 85,
+  "fields": {
+    "user": [
+      "fayzadz"
+    ],
+    "product": 5,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 86,
+  "fields": {
+    "user": [
+      "mohammed"
+    ],
+    "product": 2,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 87,
+  "fields": {
+    "user": [
+      "mohammed"
+    ],
+    "product": 1,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 88,
+  "fields": {
+    "user": [
+      "mohammed"
+    ],
+    "product": 5,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 89,
+  "fields": {
+    "user": [
+      "mohammed"
+    ],
+    "product": 4,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 90,
+  "fields": {
+    "user": [
+      "mohammed"
+    ],
+    "product": 18,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 91,
+  "fields": {
+    "user": [
+      "mohammed"
+    ],
+    "product": 20,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 92,
+  "fields": {
+    "user": [
+      "mohammed"
+    ],
+    "product": 19,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 93,
+  "fields": {
+    "user": [
+      "mohammed"
+    ],
+    "product": 12,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 94,
+  "fields": {
+    "user": [
+      "yasmindz"
+    ],
+    "product": 19,
+    "quantity": 500
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 95,
+  "fields": {
+    "user": [
+      "akramhdz"
+    ],
+    "product": 12,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 96,
+  "fields": {
+    "user": [
+      "akramhdz"
+    ],
+    "product": 19,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 97,
+  "fields": {
+    "user": [
+      "akramhdz"
+    ],
+    "product": 20,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 98,
+  "fields": {
+    "user": [
+      "kenzadz"
+    ],
+    "product": 2,
+    "quantity": 250
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 99,
+  "fields": {
+    "user": [
+      "kenzadz"
+    ],
+    "product": 1,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 100,
+  "fields": {
+    "user": [
+      "kenzadz"
+    ],
+    "product": 19,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 101,
+  "fields": {
+    "user": [
+      "kenzadz"
+    ],
+    "product": 5,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 102,
+  "fields": {
+    "user": [
+      "kenzadz"
+    ],
+    "product": 4,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 103,
+  "fields": {
+    "user": [
+      "kenzadz"
+    ],
+    "product": 18,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 104,
+  "fields": {
+    "user": [
+      "kenzadz"
+    ],
+    "product": 20,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 105,
+  "fields": {
+    "user": [
+      "kenzadz"
+    ],
+    "product": 12,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 106,
+  "fields": {
+    "user": [
+      "ISKANDERDZ"
+    ],
+    "product": 1,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 107,
+  "fields": {
+    "user": [
+      "ISKANDERDZ"
+    ],
+    "product": 2,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 108,
+  "fields": {
+    "user": [
+      "ISKANDERDZ"
+    ],
+    "product": 18,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 109,
+  "fields": {
+    "user": [
+      "ISKANDERDZ"
+    ],
+    "product": 5,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 110,
+  "fields": {
+    "user": [
+      "ISKANDERDZ"
+    ],
+    "product": 4,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 111,
+  "fields": {
+    "user": [
+      "ISKANDERDZ"
+    ],
+    "product": 23,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 112,
+  "fields": {
+    "user": [
+      "ISKANDERDZ"
+    ],
+    "product": 12,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 113,
+  "fields": {
+    "user": [
+      "ISKANDERDZ"
+    ],
+    "product": 20,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 114,
+  "fields": {
+    "user": [
+      "ISKANDERDZ"
+    ],
+    "product": 19,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 115,
+  "fields": {
+    "user": [
+      "aimen"
+    ],
+    "product": 19,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 116,
+  "fields": {
+    "user": [
+      "SihemDZ"
+    ],
+    "product": 1,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 117,
+  "fields": {
+    "user": [
+      "SihemDZ"
+    ],
+    "product": 18,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 118,
+  "fields": {
+    "user": [
+      "SihemDZ"
+    ],
+    "product": 5,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 119,
+  "fields": {
+    "user": [
+      "SihemDZ"
+    ],
+    "product": 2,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 120,
+  "fields": {
+    "user": [
+      "SihemDZ"
+    ],
+    "product": 21,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 121,
+  "fields": {
+    "user": [
+      "SihemDZ"
+    ],
+    "product": 4,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 122,
+  "fields": {
+    "user": [
+      "AbderahmaneDZ"
+    ],
+    "product": 23,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 123,
+  "fields": {
+    "user": [
+      "AbderahmaneDZ"
+    ],
+    "product": 19,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 124,
+  "fields": {
+    "user": [
+      "AbderahmaneDZ"
+    ],
+    "product": 20,
+    "quantity": 350
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 125,
+  "fields": {
+    "user": [
+      "AbderahmaneDZ"
+    ],
+    "product": 12,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 126,
+  "fields": {
+    "user": [
+      "AbderahmaneDZ"
+    ],
+    "product": 22,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 127,
+  "fields": {
+    "user": [
+      "SAMIADZ"
+    ],
+    "product": 25,
+    "quantity": 400
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 128,
+  "fields": {
+    "user": [
+      "SAMIADZ"
+    ],
+    "product": 26,
+    "quantity": 400
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 129,
+  "fields": {
+    "user": [
+      "SAMIADZ"
+    ],
+    "product": 27,
+    "quantity": 400
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 130,
+  "fields": {
+    "user": [
+      "syrianadz"
+    ],
+    "product": 25,
+    "quantity": 400
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 131,
+  "fields": {
+    "user": [
+      "syrianadz"
+    ],
+    "product": 26,
+    "quantity": 400
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 132,
+  "fields": {
+    "user": [
+      "syrianadz"
+    ],
+    "product": 27,
+    "quantity": 400
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 133,
+  "fields": {
+    "user": [
+      "AbderahmaneDZ"
+    ],
+    "product": 28,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 134,
+  "fields": {
+    "user": [
+      "AbderahmaneDZ"
+    ],
+    "product": 29,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 135,
+  "fields": {
+    "user": [
+      "makourdz"
+    ],
+    "product": 25,
+    "quantity": 500
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 136,
+  "fields": {
+    "user": [
+      "makourdz"
+    ],
+    "product": 26,
+    "quantity": 500
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 137,
+  "fields": {
+    "user": [
+      "makourdz"
+    ],
+    "product": 27,
+    "quantity": 500
+  }
+},
+{
+  "model": "accounts.userfile",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "aimen"
+    ],
+    "name": "exrtrait de naissance",
+    "ffile": "CV_BOUGHEZALA_MOHAMED_AIMEN.pdf"
+  }
+},
+{
+  "model": "accounts.personalinfo",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "guerfidz"
+    ],
+    "nom": "GUERFI",
+    "prénom": "Rabia Aya",
+    "date_of_birth": "2000-10-19",
+    "gender": "femme",
+    "situation": "celibataire",
+    "email": "a.guerfi@liliumpharma.com",
+    "telephone": "0560612403",
+    "telephone_parent": "0660151491",
+    "adresse": "Cooperatif El Chamss Cite Bouzourane",
+    "commune": "Batna",
+    "job_name": null,
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "pc_paie_id": "073",
+    "salary": 80000,
+    "cans": "006787000453",
+    "bank_name": "ccp",
+    "bank_account": "00799999002834478916",
+    "carte_identite_scan": "",
+    "documents": ""
+  }
+},
+{
+  "model": "accounts.personalinfo",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "taibidz"
+    ],
+    "nom": "TAIBI",
+    "prénom": "Lydia",
+    "date_of_birth": "1993-08-16",
+    "gender": "femme",
+    "situation": "marrié",
+    "email": "l.taibi@liliumpharma.com",
+    "telephone": "0560 980 646",
+    "telephone_parent": "0552003391",
+    "adresse": "2D Lot Seghir Route De Saoula,draria 16000",
+    "commune": "Alger",
+    "job_name": "Déléguée Médico-Commerciale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "pc_paie_id": "075",
+    "salary": 90000,
+    "cans": "931088006040",
+    "bank_name": "Cpa",
+    "bank_account": "00400142410004925766",
+    "carte_identite_scan": "",
+    "documents": ""
+  }
+},
+{
+  "model": "accounts.personalinfo",
+  "pk": 3,
+  "fields": {
+    "user": [
+      "bouchachiadz"
+    ],
+    "nom": null,
+    "prénom": null,
+    "date_of_birth": null,
+    "gender": "femme",
+    "situation": "celibataire",
+    "email": null,
+    "telephone": null,
+    "telephone_parent": null,
+    "adresse": "29 Freres Zaoui Bologhine",
+    "commune": "Alger Centre",
+    "job_name": "Déléguée Médico-Commerciale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "pc_paie_id": "074",
+    "salary": 80000,
+    "cans": "002324001874",
+    "bank_name": "BNA",
+    "bank_account": "00100611020000348331",
+    "carte_identite_scan": "",
+    "documents": ""
+  }
+},
+{
+  "model": "accounts.personalinfo",
+  "pk": 4,
+  "fields": {
+    "user": [
+      "telmsan"
+    ],
+    "nom": "BENARIBA",
+    "prénom": "Ikram",
+    "date_of_birth": "1998-05-13",
+    "gender": "femme",
+    "situation": "celibataire",
+    "email": "i.benariba@liliumpharma.com",
+    "telephone": "0556415237",
+    "telephone_parent": "0541805606",
+    "adresse": "Cite Bab El Okba",
+    "commune": "TLEMCEN",
+    "job_name": "Déléguée Médico-Commerciale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "pc_paie_id": "072",
+    "salary": 90000,
+    "cans": "982229001052",
+    "bank_name": "AGB",
+    "bank_account": "03200202378092120840",
+    "carte_identite_scan": "",
+    "documents": ""
+  }
+},
+{
+  "model": "accounts.personalinfo",
+  "pk": 5,
+  "fields": {
+    "user": [
+      "BelhadjDZ"
+    ],
+    "nom": "BELHADJ",
+    "prénom": "Adel",
+    "date_of_birth": "1995-03-25",
+    "gender": "femme",
+    "situation": "celibataire",
+    "email": "a.belhadj@liliumpharma.com",
+    "telephone": "0560 996 806",
+    "telephone_parent": "0661871187",
+    "adresse": "Boulevard Saim Mohamed Cite monte Carlo, Bloc,E 31000",
+    "commune": "Ain Timouchent",
+    "job_name": "Déléguée Médico-Commerciale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "pc_paie_id": "071",
+    "salary": 90000,
+    "cans": "950742004150",
+    "bank_name": "CCP",
+    "bank_account": "00799999001976090705",
+    "carte_identite_scan": "",
+    "documents": ""
+  }
+},
+{
+  "model": "accounts.personalinfo",
+  "pk": 6,
+  "fields": {
+    "user": [
+      "MESLIOUIDZ"
+    ],
+    "nom": "meslioui",
+    "prénom": "mohamed",
+    "date_of_birth": "1982-05-08",
+    "gender": "Homme",
+    "situation": "marrié",
+    "email": "m.meslioui@liliumpharma.com",
+    "telephone": "0560637258",
+    "telephone_parent": "0774969290",
+    "adresse": "cite du 1  er mai bt20a ouled yaich",
+    "commune": "blida",
+    "job_name": "Déléguée Médico-Commerciale",
+    "code_section": "MED",
+    "code_contrat": "CDI",
+    "pc_paie_id": null,
+    "salary": 90000,
+    "cans": "8227370010/55",
+    "bank_name": "BNA",
+    "bank_account": "00100430030000123756",
+    "carte_identite_scan": "",
+    "documents": ""
+  }
+},
+{
+  "model": "accounts.personalinfo",
+  "pk": 7,
+  "fields": {
+    "user": [
+      "TAKIEDDINEDZ"
+    ],
+    "nom": "MOHAMMEDI",
+    "prénom": "TAKI EDDINE",
+    "date_of_birth": null,
+    "gender": "Homme",
+    "situation": "celibataire",
+    "email": null,
+    "telephone": null,
+    "telephone_parent": null,
+    "adresse": "",
+    "commune": null,
+    "job_name": null,
+    "code_section": null,
+    "code_contrat": null,
+    "pc_paie_id": null,
+    "salary": null,
+    "cans": null,
+    "bank_name": null,
+    "bank_account": null,
+    "carte_identite_scan": "",
+    "documents": ""
+  }
+}
+]

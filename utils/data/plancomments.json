@@ -1,0 +1,830 @@
+[
+{
+  "model": "plans.plancomment",
+  "pk": 1,
+  "fields": {
+    "added": "2022-09-01T12:23:00.357Z",
+    "user": [
+      "aimen"
+    ],
+    "comment": "Merci",
+    "plan": 1
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 2,
+  "fields": {
+    "added": "2022-09-01T15:06:54.704Z",
+    "user": [
+      "aimen"
+    ],
+    "comment": "Test",
+    "plan": 1
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 3,
+  "fields": {
+    "added": "2022-09-03T20:23:01.778Z",
+    "user": [
+      "HANIADZ"
+    ],
+    "comment": "R�union fin du mois",
+    "plan": 961
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 4,
+  "fields": {
+    "added": "2022-09-03T20:29:46.598Z",
+    "user": [
+      "HANIADZ"
+    ],
+    "comment": "Revoir et discuter les rapports du mois d'aout, �tudier les ventes du mois d'ao�t ,s�lectionner les m�decins potentiels prescripteurs et les programmer pour une double visite, ma�tre un plant de travail pour le mois de septembre.",
+    "plan": 961
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 5,
+  "fields": {
+    "added": "2022-09-03T20:34:59.445Z",
+    "user": [
+      "HANIADZ"
+    ],
+    "comment": "Planning mensuel � int�grer",
+    "plan": 961
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 6,
+  "fields": {
+    "added": "2022-09-03T23:24:22.224Z",
+    "user": [
+      "mohammed"
+    ],
+    "comment": "الايرون",
+    "plan": 361
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 7,
+  "fields": {
+    "added": "2022-09-04T08:57:40.137Z",
+    "user": [
+      "yasmindz"
+    ],
+    "comment": "PH agha / pH Oussalah (v�rification stock )",
+    "plan": 964
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 8,
+  "fields": {
+    "added": "2022-09-04T10:31:26.701Z",
+    "user": [
+      "monidz"
+    ],
+    "comment": "R�union",
+    "plan": 991
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 9,
+  "fields": {
+    "added": "2022-09-04T16:34:14.443Z",
+    "user": [
+      "IMENEDZ"
+    ],
+    "comment": "Commentaire",
+    "plan": 1081
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 10,
+  "fields": {
+    "added": "2022-09-04T17:58:21.296Z",
+    "user": [
+      "HANIADZ"
+    ],
+    "comment": "Dr farad et Dr ait kaci ne sont pas ajout�",
+    "plan": 964
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 11,
+  "fields": {
+    "added": "2022-09-04T17:59:22.460Z",
+    "user": [
+      "HANIADZ"
+    ],
+    "comment": "Ph agha 2 bo�tes,  ph oussalah 4 bo�tes",
+    "plan": 964
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 12,
+  "fields": {
+    "added": "2022-09-05T19:18:53.243Z",
+    "user": [
+      "souhadz"
+    ],
+    "comment": "Svpp , dc gandouz le cardiologue je ne lai pas trouv�, svp essayez de le faire entrer dans la liste, nessma stp pri�re de le faire entrer psk jai quelques medecins qui ont �t� suppr par erreure , surtt que que mohaled",
+    "plan": 545
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 13,
+  "fields": {
+    "added": "2022-09-05T19:18:53.268Z",
+    "user": [
+      "souhadz"
+    ],
+    "comment": "Svpp , dc gandouz le cardiologue je ne lai pas trouv�, svp essayez de le faire entrer dans la liste, nessma stp pri�re de le faire entrer psk jai quelques medecins qui ont �t� suppr par erreure , surtt que que mohaled",
+    "plan": 545
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 14,
+  "fields": {
+    "added": "2022-09-05T19:19:34.930Z",
+    "user": [
+      "souhadz"
+    ],
+    "comment": "Mohamed nous a demand� a plusieurs reprises de suppr lla liste donc tkhaltati stpp nessma",
+    "plan": 545
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 15,
+  "fields": {
+    "added": "2022-09-06T08:55:27.976Z",
+    "user": [
+      "mohammed"
+    ],
+    "comment": "ايمان ادخال. الفواتير الناقصه على اللوجسيال",
+    "plan": 1086
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 16,
+  "fields": {
+    "added": "2022-09-07T08:26:39.933Z",
+    "user": [
+      "BOURIAHDZ"
+    ],
+    "comment": "quand on a r�union on selectionne LILIUM PHARMA OFFICE",
+    "plan": 541
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 17,
+  "fields": {
+    "added": "2022-09-07T08:27:46.207Z",
+    "user": [
+      "BOURIAHDZ"
+    ],
+    "comment": "MANQUE LES TACHES?",
+    "plan": 546
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 18,
+  "fields": {
+    "added": "2022-09-07T20:02:39.931Z",
+    "user": [
+      "monidz"
+    ],
+    "comment": "J'ai sorti en double visiti",
+    "plan": 187
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 19,
+  "fields": {
+    "added": "2022-09-08T04:15:20.900Z",
+    "user": [
+      "monidz"
+    ],
+    "comment": "Journ�e commerciale",
+    "plan": 188
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 20,
+  "fields": {
+    "added": "2022-09-08T04:15:35.500Z",
+    "user": [
+      "monidz"
+    ],
+    "comment": "Journ�e commerciale",
+    "plan": 188
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 21,
+  "fields": {
+    "added": "2022-09-08T08:23:37.541Z",
+    "user": [
+      "BOURIAHDZ"
+    ],
+    "comment": "TU TRAVAILLE OU AUJOURD'HUI?",
+    "plan": 218
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 22,
+  "fields": {
+    "added": "2022-09-11T10:09:17.554Z",
+    "user": [
+      "BOURIAHDZ"
+    ],
+    "comment": "En cong�",
+    "plan": 461
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 23,
+  "fields": {
+    "added": "2022-09-11T17:57:13.012Z",
+    "user": [
+      "yasmindz"
+    ],
+    "comment": "La reunion a ete reportee",
+    "plan": 221
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 24,
+  "fields": {
+    "added": "2022-09-11T19:27:38.665Z",
+    "user": [
+      "mohammed"
+    ],
+    "comment": "مش  وظيفة محمد  يفاليدي  مممممم",
+    "plan": 191
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 25,
+  "fields": {
+    "added": "2022-09-11T21:26:41.911Z",
+    "user": [
+      "aimen"
+    ],
+    "comment": "مش تخصصي فاليدي",
+    "plan": 41
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 26,
+  "fields": {
+    "added": "2022-09-13T11:52:31.157Z",
+    "user": [
+      "fayzadz"
+    ],
+    "comment": "Demande double visite avec la directrice pour faire",
+    "plan": 139
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 27,
+  "fields": {
+    "added": "2022-09-13T11:52:53.157Z",
+    "user": [
+      "fayzadz"
+    ],
+    "comment": "Formations des produits",
+    "plan": 139
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 28,
+  "fields": {
+    "added": "2022-09-13T11:53:08.809Z",
+    "user": [
+      "fayzadz"
+    ],
+    "comment": "Connaissance des m�decins",
+    "plan": 139
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 29,
+  "fields": {
+    "added": "2022-09-13T11:53:26.960Z",
+    "user": [
+      "fayzadz"
+    ],
+    "comment": "Pour inviter quelque medeci",
+    "plan": 139
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 30,
+  "fields": {
+    "added": "2022-09-25T14:34:15.611Z",
+    "user": [
+      "BOURIAHDZ"
+    ],
+    "comment": "YES PHARM",
+    "plan": 1075
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 31,
+  "fields": {
+    "added": "2022-09-26T09:22:50.615Z",
+    "user": [
+      "BOURIAHDZ"
+    ],
+    "comment": "je te prie de planifier tes journée",
+    "plan": 86
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 32,
+  "fields": {
+    "added": "2022-09-28T08:23:12.360Z",
+    "user": [
+      "aminadz"
+    ],
+    "comment": "Commercial",
+    "plan": 88
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 33,
+  "fields": {
+    "added": "2022-09-28T18:45:05.759Z",
+    "user": [
+      "monidz"
+    ],
+    "comment": "Double visite",
+    "plan": 208
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 34,
+  "fields": {
+    "added": "2022-09-28T18:45:08.071Z",
+    "user": [
+      "monidz"
+    ],
+    "comment": "Double visite",
+    "plan": 208
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 35,
+  "fields": {
+    "added": "2022-09-28T19:22:50.279Z",
+    "user": [
+      "mohammed"
+    ],
+    "comment": "هيك تقدري تضيفي",
+    "plan": 779
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 36,
+  "fields": {
+    "added": "2022-09-28T19:22:54.023Z",
+    "user": [
+      "mohammed"
+    ],
+    "comment": "هيك تقدري تضيفي",
+    "plan": 779
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 37,
+  "fields": {
+    "added": "2022-09-28T19:22:57.781Z",
+    "user": [
+      "mohammed"
+    ],
+    "comment": "هيك تقدري تضيفي",
+    "plan": 779
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 38,
+  "fields": {
+    "added": "2022-09-28T19:22:59.151Z",
+    "user": [
+      "mohammed"
+    ],
+    "comment": "هيك تقدري تضيفي",
+    "plan": 779
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 39,
+  "fields": {
+    "added": "2022-09-28T19:24:04.879Z",
+    "user": [
+      "mohammed"
+    ],
+    "comment": "اتاييمنت",
+    "plan": 779
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 40,
+  "fields": {
+    "added": "2022-09-28T21:34:07.388Z",
+    "user": [
+      "aminadz"
+    ],
+    "comment": "Journée commerciale",
+    "plan": 88
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 41,
+  "fields": {
+    "added": "2022-09-28T21:57:13.105Z",
+    "user": [
+      "mohammed"
+    ],
+    "comment": "في المرات القادمه المخطط يوضع اول النهار وقريبا راح يكون المخطط يفتح فقط للسلعه العاشره صباحا",
+    "plan": 88
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 42,
+  "fields": {
+    "added": "2022-10-01T16:23:21.139Z",
+    "user": [
+      "aimen"
+    ],
+    "comment": "hellooo",
+    "plan": 5
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 43,
+  "fields": {
+    "added": "2022-10-01T16:23:38.982Z",
+    "user": [
+      "aimen"
+    ],
+    "comment": "hellooo",
+    "plan": 5
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 44,
+  "fields": {
+    "added": "2022-10-01T16:28:04.228Z",
+    "user": [
+      "aimen"
+    ],
+    "comment": "commentaire",
+    "plan": 485
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 45,
+  "fields": {
+    "added": "2022-10-02T17:54:47.030Z",
+    "user": [
+      "aminadz"
+    ],
+    "comment": "Le matin j'étais occupée avec la banque et tata Nabila",
+    "plan": 1257
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 46,
+  "fields": {
+    "added": "2022-10-02T21:12:15.441Z",
+    "user": [
+      "Lydiadz"
+    ],
+    "comment": "Travail madjid",
+    "plan": 1837
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 47,
+  "fields": {
+    "added": "2022-10-06T15:20:25.342Z",
+    "user": [
+      "BOURIAHDZ"
+    ],
+    "comment": "FORMATION SARA",
+    "plan": 1928
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 48,
+  "fields": {
+    "added": "2022-10-10T16:12:03.005Z",
+    "user": [
+      "ibtissemdz"
+    ],
+    "comment": "Confirmation devis dr mouss",
+    "plan": 1555
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 49,
+  "fields": {
+    "added": "2022-10-10T16:12:25.994Z",
+    "user": [
+      "ibtissemdz"
+    ],
+    "comment": "Renouvellement contrat nada",
+    "plan": 1555
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 50,
+  "fields": {
+    "added": "2022-10-10T16:13:13.358Z",
+    "user": [
+      "ibtissemdz"
+    ],
+    "comment": "Voir avec Khaled encaissemnts hadil",
+    "plan": 1555
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 51,
+  "fields": {
+    "added": "2022-10-10T16:13:52.213Z",
+    "user": [
+      "ibtissemdz"
+    ],
+    "comment": "Bl bebio",
+    "plan": 1555
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 52,
+  "fields": {
+    "added": "2022-10-10T16:14:09.906Z",
+    "user": [
+      "ibtissemdz"
+    ],
+    "comment": "Bl vita pharm",
+    "plan": 1555
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 53,
+  "fields": {
+    "added": "2022-10-10T16:14:29.020Z",
+    "user": [
+      "ibtissemdz"
+    ],
+    "comment": "Imane commande koudri et l encaissement",
+    "plan": 1555
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 54,
+  "fields": {
+    "added": "2022-10-10T16:14:47.305Z",
+    "user": [
+      "ibtissemdz"
+    ],
+    "comment": "Emploitic Sonia",
+    "plan": 1555
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 55,
+  "fields": {
+    "added": "2022-10-16T09:27:10.026Z",
+    "user": [
+      "BOURIAHDZ"
+    ],
+    "comment": "TON PLAN FOUAD ?",
+    "plan": 1532
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 56,
+  "fields": {
+    "added": "2022-10-16T09:27:32.181Z",
+    "user": [
+      "BOURIAHDZ"
+    ],
+    "comment": "PLAN NASSIMA?",
+    "plan": 1329
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 57,
+  "fields": {
+    "added": "2022-10-16T11:22:13.842Z",
+    "user": [
+      "BOURIAHDZ"
+    ],
+    "comment": "A orienter le pharmacien partenaire avec miliani chez un grossiste d'alger pour cette commande (IMANE ET KENZA)",
+    "plan": 1503
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 58,
+  "fields": {
+    "added": "2022-10-16T11:23:03.407Z",
+    "user": [
+      "BOURIAHDZ"
+    ],
+    "comment": "MILIANI fait partie désormais du PF de Nassima.",
+    "plan": 1503
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 59,
+  "fields": {
+    "added": "2022-10-19T18:30:07.090Z",
+    "user": [
+      "monidz"
+    ],
+    "comment": "Double visite avec kenza",
+    "plan": 1506
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 60,
+  "fields": {
+    "added": "2022-10-25T20:53:29.914Z",
+    "user": [
+      "ibtissemdz"
+    ],
+    "comment": "Bravo",
+    "plan": 1860
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 61,
+  "fields": {
+    "added": "2022-10-26T09:10:37.755Z",
+    "user": [
+      "BOURIAHDZ"
+    ],
+    "comment": "CONGES MALADIE",
+    "plan": 1136
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 62,
+  "fields": {
+    "added": "2022-10-26T11:52:59.796Z",
+    "user": [
+      "BOURIAHDZ"
+    ],
+    "comment": "changement de secteur",
+    "plan": 2209
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 63,
+  "fields": {
+    "added": "2022-10-30T19:10:12.243Z",
+    "user": [
+      "BOURIAHDZ"
+    ],
+    "comment": "Congé maladie",
+    "plan": 2226
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 64,
+  "fields": {
+    "added": "2022-10-31T10:20:31.519Z",
+    "user": [
+      "BOURIAHDZ"
+    ],
+    "comment": "congé maladie",
+    "plan": 4506
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 65,
+  "fields": {
+    "added": "2022-11-02T19:44:26.673Z",
+    "user": [
+      "BOURIAHDZ"
+    ],
+    "comment": "Réunion",
+    "plan": 2252
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 66,
+  "fields": {
+    "added": "2022-11-03T11:50:04.700Z",
+    "user": [
+      "fayzadz"
+    ],
+    "comment": "Journée  férié",
+    "plan": 2425
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 67,
+  "fields": {
+    "added": "2022-11-06T18:15:14.052Z",
+    "user": [
+      "monidz"
+    ],
+    "comment": "Réunion avec nessma",
+    "plan": 2633
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 68,
+  "fields": {
+    "added": "2022-11-06T18:51:09.075Z",
+    "user": [
+      "BOURIAHDZ"
+    ],
+    "comment": "Plan d'action novembre validé avec Mohamed et nesma",
+    "plan": 2633
+  }
+},
+{
+  "model": "plans.plancomment",
+  "pk": 69,
+  "fields": {
+    "added": "2022-11-07T14:10:43.052Z",
+    "user": [
+      "BOURIAHDZ"
+    ],
+    "comment": "MALADIE",
+    "plan": 2257
+  }
+}
+]

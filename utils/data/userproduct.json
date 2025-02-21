@@ -1,0 +1,992 @@
+[
+{
+  "model": "accounts.userproduct",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "KHALEDDZ"
+    ],
+    "product": 2,
+    "quantity": 175
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "aminadz"
+    ],
+    "product": 2,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 3,
+  "fields": {
+    "user": [
+      "aminadz"
+    ],
+    "product": 1,
+    "quantity": 125
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 4,
+  "fields": {
+    "user": [
+      "aminadz"
+    ],
+    "product": 19,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 5,
+  "fields": {
+    "user": [
+      "aminadz"
+    ],
+    "product": 5,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 6,
+  "fields": {
+    "user": [
+      "aminadz"
+    ],
+    "product": 4,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 7,
+  "fields": {
+    "user": [
+      "aminadz"
+    ],
+    "product": 18,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 8,
+  "fields": {
+    "user": [
+      "fayzadz"
+    ],
+    "product": 2,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 9,
+  "fields": {
+    "user": [
+      "fayzadz"
+    ],
+    "product": 1,
+    "quantity": 125
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 10,
+  "fields": {
+    "user": [
+      "fayzadz"
+    ],
+    "product": 19,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 11,
+  "fields": {
+    "user": [
+      "fayzadz"
+    ],
+    "product": 4,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 12,
+  "fields": {
+    "user": [
+      "fayzadz"
+    ],
+    "product": 5,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 13,
+  "fields": {
+    "user": [
+      "fayzadz"
+    ],
+    "product": 18,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 14,
+  "fields": {
+    "user": [
+      "fayzadz"
+    ],
+    "product": 20,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 15,
+  "fields": {
+    "user": [
+      "fayzadz"
+    ],
+    "product": 12,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 16,
+  "fields": {
+    "user": [
+      "tawfikdz"
+    ],
+    "product": 2,
+    "quantity": 250
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 17,
+  "fields": {
+    "user": [
+      "tawfikdz"
+    ],
+    "product": 1,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 18,
+  "fields": {
+    "user": [
+      "tawfikdz"
+    ],
+    "product": 19,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 19,
+  "fields": {
+    "user": [
+      "tawfikdz"
+    ],
+    "product": 5,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 20,
+  "fields": {
+    "user": [
+      "tawfikdz"
+    ],
+    "product": 4,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 21,
+  "fields": {
+    "user": [
+      "tawfikdz"
+    ],
+    "product": 18,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 22,
+  "fields": {
+    "user": [
+      "tawfikdz"
+    ],
+    "product": 20,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 23,
+  "fields": {
+    "user": [
+      "tawfikdz"
+    ],
+    "product": 12,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 24,
+  "fields": {
+    "user": [
+      "aminadz"
+    ],
+    "product": 20,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 25,
+  "fields": {
+    "user": [
+      "aminadz"
+    ],
+    "product": 12,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 26,
+  "fields": {
+    "user": [
+      "FOUADDZ"
+    ],
+    "product": 2,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 27,
+  "fields": {
+    "user": [
+      "FOUADDZ"
+    ],
+    "product": 1,
+    "quantity": 125
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 28,
+  "fields": {
+    "user": [
+      "FOUADDZ"
+    ],
+    "product": 19,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 29,
+  "fields": {
+    "user": [
+      "FOUADDZ"
+    ],
+    "product": 5,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 30,
+  "fields": {
+    "user": [
+      "FOUADDZ"
+    ],
+    "product": 4,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 31,
+  "fields": {
+    "user": [
+      "FOUADDZ"
+    ],
+    "product": 18,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 32,
+  "fields": {
+    "user": [
+      "FOUADDZ"
+    ],
+    "product": 20,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 33,
+  "fields": {
+    "user": [
+      "FOUADDZ"
+    ],
+    "product": 12,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 34,
+  "fields": {
+    "user": [
+      "kenzadz"
+    ],
+    "product": 2,
+    "quantity": 250
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 35,
+  "fields": {
+    "user": [
+      "kenzadz"
+    ],
+    "product": 1,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 36,
+  "fields": {
+    "user": [
+      "kenzadz"
+    ],
+    "product": 19,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 37,
+  "fields": {
+    "user": [
+      "kenzadz"
+    ],
+    "product": 5,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 38,
+  "fields": {
+    "user": [
+      "kenzadz"
+    ],
+    "product": 4,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 39,
+  "fields": {
+    "user": [
+      "kenzadz"
+    ],
+    "product": 18,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 40,
+  "fields": {
+    "user": [
+      "kenzadz"
+    ],
+    "product": 20,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 41,
+  "fields": {
+    "user": [
+      "kenzadz"
+    ],
+    "product": 12,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 42,
+  "fields": {
+    "user": [
+      "monidz"
+    ],
+    "product": 2,
+    "quantity": 250
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 43,
+  "fields": {
+    "user": [
+      "monidz"
+    ],
+    "product": 1,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 44,
+  "fields": {
+    "user": [
+      "monidz"
+    ],
+    "product": 19,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 45,
+  "fields": {
+    "user": [
+      "monidz"
+    ],
+    "product": 5,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 46,
+  "fields": {
+    "user": [
+      "monidz"
+    ],
+    "product": 4,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 47,
+  "fields": {
+    "user": [
+      "monidz"
+    ],
+    "product": 18,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 48,
+  "fields": {
+    "user": [
+      "monidz"
+    ],
+    "product": 20,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 49,
+  "fields": {
+    "user": [
+      "monidz"
+    ],
+    "product": 12,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 50,
+  "fields": {
+    "user": [
+      "nassimadz"
+    ],
+    "product": 2,
+    "quantity": 250
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 51,
+  "fields": {
+    "user": [
+      "nassimadz"
+    ],
+    "product": 1,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 52,
+  "fields": {
+    "user": [
+      "nassimadz"
+    ],
+    "product": 19,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 53,
+  "fields": {
+    "user": [
+      "nassimadz"
+    ],
+    "product": 5,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 54,
+  "fields": {
+    "user": [
+      "nassimadz"
+    ],
+    "product": 4,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 55,
+  "fields": {
+    "user": [
+      "nassimadz"
+    ],
+    "product": 18,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 56,
+  "fields": {
+    "user": [
+      "nassimadz"
+    ],
+    "product": 20,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 57,
+  "fields": {
+    "user": [
+      "nassimadz"
+    ],
+    "product": 12,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 58,
+  "fields": {
+    "user": [
+      "yasmindz"
+    ],
+    "product": 20,
+    "quantity": 2000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 59,
+  "fields": {
+    "user": [
+      "yasmindz"
+    ],
+    "product": 12,
+    "quantity": 2000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 60,
+  "fields": {
+    "user": [
+      "HANIADZ"
+    ],
+    "product": 20,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 61,
+  "fields": {
+    "user": [
+      "HANIADZ"
+    ],
+    "product": 12,
+    "quantity": 200
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 62,
+  "fields": {
+    "user": [
+      "souhadz"
+    ],
+    "product": 2,
+    "quantity": 175
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 63,
+  "fields": {
+    "user": [
+      "souhadz"
+    ],
+    "product": 1,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 64,
+  "fields": {
+    "user": [
+      "souhadz"
+    ],
+    "product": 19,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 65,
+  "fields": {
+    "user": [
+      "souhadz"
+    ],
+    "product": 5,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 66,
+  "fields": {
+    "user": [
+      "souhadz"
+    ],
+    "product": 4,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 67,
+  "fields": {
+    "user": [
+      "souhadz"
+    ],
+    "product": 18,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 68,
+  "fields": {
+    "user": [
+      "souhadz"
+    ],
+    "product": 20,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 69,
+  "fields": {
+    "user": [
+      "souhadz"
+    ],
+    "product": 12,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 70,
+  "fields": {
+    "user": [
+      "nadadz"
+    ],
+    "product": 2,
+    "quantity": 175
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 71,
+  "fields": {
+    "user": [
+      "nadadz"
+    ],
+    "product": 1,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 72,
+  "fields": {
+    "user": [
+      "nadadz"
+    ],
+    "product": 19,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 73,
+  "fields": {
+    "user": [
+      "nadadz"
+    ],
+    "product": 5,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 74,
+  "fields": {
+    "user": [
+      "nadadz"
+    ],
+    "product": 4,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 75,
+  "fields": {
+    "user": [
+      "nadadz"
+    ],
+    "product": 18,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 76,
+  "fields": {
+    "user": [
+      "nadadz"
+    ],
+    "product": 20,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 77,
+  "fields": {
+    "user": [
+      "nadadz"
+    ],
+    "product": 12,
+    "quantity": 0
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 79,
+  "fields": {
+    "user": [
+      "KHALEDDZ"
+    ],
+    "product": 1,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 80,
+  "fields": {
+    "user": [
+      "KHALEDDZ"
+    ],
+    "product": 19,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 81,
+  "fields": {
+    "user": [
+      "KHALEDDZ"
+    ],
+    "product": 5,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 82,
+  "fields": {
+    "user": [
+      "KHALEDDZ"
+    ],
+    "product": 4,
+    "quantity": 150
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 83,
+  "fields": {
+    "user": [
+      "KHALEDDZ"
+    ],
+    "product": 18,
+    "quantity": 100
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 86,
+  "fields": {
+    "user": [
+      "mohammed"
+    ],
+    "product": 2,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 87,
+  "fields": {
+    "user": [
+      "mohammed"
+    ],
+    "product": 1,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 88,
+  "fields": {
+    "user": [
+      "mohammed"
+    ],
+    "product": 5,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 89,
+  "fields": {
+    "user": [
+      "mohammed"
+    ],
+    "product": 4,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 90,
+  "fields": {
+    "user": [
+      "mohammed"
+    ],
+    "product": 18,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 91,
+  "fields": {
+    "user": [
+      "mohammed"
+    ],
+    "product": 20,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 92,
+  "fields": {
+    "user": [
+      "mohammed"
+    ],
+    "product": 19,
+    "quantity": 1000
+  }
+},
+{
+  "model": "accounts.userproduct",
+  "pk": 93,
+  "fields": {
+    "user": [
+      "mohammed"
+    ],
+    "product": 12,
+    "quantity": 1000
+  }
+}
+]

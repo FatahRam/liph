@@ -1,0 +1,2332 @@
+[
+{
+  "model": "clients.client",
+  "pk": 3,
+  "fields": {
+    "name": "Saker Othmane",
+    "wilaya": 16,
+    "supergro": true,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 4,
+  "fields": {
+    "name": "Kouidri",
+    "wilaya": 16,
+    "supergro": true,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 5,
+  "fields": {
+    "name": "Office Pharma",
+    "wilaya": 31,
+    "supergro": true,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 6,
+  "fields": {
+    "name": "BNM",
+    "wilaya": 25,
+    "supergro": true,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 7,
+  "fields": {
+    "name": "EURL el Hachemi",
+    "wilaya": 31,
+    "supergro": true,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 8,
+  "fields": {
+    "name": "EURL Sant� & Vie",
+    "wilaya": 31,
+    "supergro": true,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 9,
+  "fields": {
+    "name": "Hadil Pharm",
+    "wilaya": 19,
+    "supergro": true,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 10,
+  "fields": {
+    "name": "SNC Mouyet & Cie",
+    "wilaya": 19,
+    "supergro": true,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 11,
+  "fields": {
+    "name": "ProCare",
+    "wilaya": 25,
+    "supergro": true,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 12,
+  "fields": {
+    "name": "Dani",
+    "wilaya": 25,
+    "supergro": true,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 13,
+  "fields": {
+    "name": "LARA Pharm",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 15,
+  "fields": {
+    "name": "FALIH",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 16,
+  "fields": {
+    "name": "SARL PARACOS CENTER",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 17,
+  "fields": {
+    "name": "R.S DISTRIBUTION",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 18,
+  "fields": {
+    "name": "B.Z PHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 19,
+  "fields": {
+    "name": "YES PHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 20,
+  "fields": {
+    "name": "PARA DJAZ",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 21,
+  "fields": {
+    "name": "SMPRO PARAPHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 22,
+  "fields": {
+    "name": "VITAL PHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 23,
+  "fields": {
+    "name": "YACEF SOFIANE",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 24,
+  "fields": {
+    "name": "M.M PHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 25,
+  "fields": {
+    "name": "HADJI PARACOS",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 26,
+  "fields": {
+    "name": "HBS COS PHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 27,
+  "fields": {
+    "name": "BENOUDINA SANTE",
+    "wilaya": 5,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 28,
+  "fields": {
+    "name": "EURL PARAHYGENA",
+    "wilaya": 25,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 29,
+  "fields": {
+    "name": "AKBOU",
+    "wilaya": 6,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 30,
+  "fields": {
+    "name": "SAHRA LAB",
+    "wilaya": 39,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 31,
+  "fields": {
+    "name": "KHELEIFA",
+    "wilaya": 39,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 32,
+  "fields": {
+    "name": "CHAOUECHE CHERIF",
+    "wilaya": 19,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 33,
+  "fields": {
+    "name": "SARL AURES",
+    "wilaya": 5,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 34,
+  "fields": {
+    "name": "BOUCHAGOUR COS",
+    "wilaya": 43,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 35,
+  "fields": {
+    "name": "MDELEL PARA",
+    "wilaya": 39,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 36,
+  "fields": {
+    "name": "SAHER COS BIR EL BADJI HAMZA",
+    "wilaya": 5,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 37,
+  "fields": {
+    "name": "PACO CENTER",
+    "wilaya": 25,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 38,
+  "fields": {
+    "name": "BAADJI HAMZA",
+    "wilaya": 19,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 39,
+  "fields": {
+    "name": "BELAIDI SAMIRA",
+    "wilaya": 25,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 40,
+  "fields": {
+    "name": "MEDIPHARM PLUS",
+    "wilaya": 25,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 41,
+  "fields": {
+    "name": "LOUCIF FAROUK",
+    "wilaya": 19,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 42,
+  "fields": {
+    "name": "BEHLOUL PARA",
+    "wilaya": 19,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 43,
+  "fields": {
+    "name": "CECOMED",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 44,
+  "fields": {
+    "name": "CHARKCOS",
+    "wilaya": 5,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 45,
+  "fields": {
+    "name": "WAISO GOOD PHARMA",
+    "wilaya": 25,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 46,
+  "fields": {
+    "name": "EURL PHARMILLY",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 47,
+  "fields": {
+    "name": "SNC MB PARAPHARM",
+    "wilaya": 2,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 48,
+  "fields": {
+    "name": "DABOUZ HAMMOU",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 49,
+  "fields": {
+    "name": "SNC PARAVENIR",
+    "wilaya": 2,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 50,
+  "fields": {
+    "name": "LEADER PHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 52,
+  "fields": {
+    "name": "NACER BEY SLIMEN",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 53,
+  "fields": {
+    "name": "BOUDRAA DJAMEL EDDINE",
+    "wilaya": 34,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 54,
+  "fields": {
+    "name": "SARL PARAPHARM GOLDEN NEW",
+    "wilaya": 31,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 55,
+  "fields": {
+    "name": "EURL PHARMILLY",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 56,
+  "fields": {
+    "name": "EURL MT BIO",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 57,
+  "fields": {
+    "name": "ETS KHALDOUN FODIL",
+    "wilaya": 25,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 58,
+  "fields": {
+    "name": "MERAD ABDELHAKIM",
+    "wilaya": 19,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 59,
+  "fields": {
+    "name": "SNC COMPTOIR PARAPHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 60,
+  "fields": {
+    "name": "PACO CENTER",
+    "wilaya": 25,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 61,
+  "fields": {
+    "name": "KHALFI CHAOUKI",
+    "wilaya": 9,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 62,
+  "fields": {
+    "name": "ETS TOUMI MILOUD",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 63,
+  "fields": {
+    "name": "FOCUS PHARM",
+    "wilaya": 34,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 64,
+  "fields": {
+    "name": "NOVAMEDIC",
+    "wilaya": 47,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 65,
+  "fields": {
+    "name": "BOUDRAA DJAMEL EDDINE",
+    "wilaya": 34,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 66,
+  "fields": {
+    "name": "GAM PHARMA",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 67,
+  "fields": {
+    "name": "LARA PHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 68,
+  "fields": {
+    "name": "MORE PHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 69,
+  "fields": {
+    "name": "PARACOS CENTER",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 70,
+  "fields": {
+    "name": "SOUALHI PHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 71,
+  "fields": {
+    "name": "B.COS",
+    "wilaya": 25,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 72,
+  "fields": {
+    "name": "BOUCHAGOUR",
+    "wilaya": 43,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 73,
+  "fields": {
+    "name": "MAHRIA",
+    "wilaya": 39,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 74,
+  "fields": {
+    "name": "SNC CAMERA",
+    "wilaya": 25,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 75,
+  "fields": {
+    "name": "SAHER COS BIR ELBAADJI HAMZA",
+    "wilaya": 5,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 76,
+  "fields": {
+    "name": "KALOPACOS",
+    "wilaya": 5,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 77,
+  "fields": {
+    "name": "BNOUDINA SANTE",
+    "wilaya": 5,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 78,
+  "fields": {
+    "name": "SUPER MBN",
+    "wilaya": 25,
+    "supergro": true,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 79,
+  "fields": {
+    "name": "BOUDJEMAA HALIM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 80,
+  "fields": {
+    "name": "EURL RITAMEL PHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 81,
+  "fields": {
+    "name": "SARL DJAS PARA",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 82,
+  "fields": {
+    "name": "SARL MORE PHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 83,
+  "fields": {
+    "name": "SARL NASH-PHARMA",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 84,
+  "fields": {
+    "name": "SIFAOUI ABD NOUR (PARA)",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 85,
+  "fields": {
+    "name": "ZAK PHARM (PARA)",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 86,
+  "fields": {
+    "name": "AIT ABAS (PARA)",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 87,
+  "fields": {
+    "name": "GAM PHARM (PARA)",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 88,
+  "fields": {
+    "name": "PARA SANTE PLUS (PARA)",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 89,
+  "fields": {
+    "name": "SANTA BIO (PARA)",
+    "wilaya": 35,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 90,
+  "fields": {
+    "name": "MERAH ETS (PARA)",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 91,
+  "fields": {
+    "name": "PARAKOL ETS ALLACHE WALID (PARA)",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 92,
+  "fields": {
+    "name": "TH PARAPHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 93,
+  "fields": {
+    "name": "ALLA PHARM",
+    "wilaya": 17,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 94,
+  "fields": {
+    "name": "RENPHARM (PARA)",
+    "wilaya": 38,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 95,
+  "fields": {
+    "name": "BENAATA HICHEM (PARA)",
+    "wilaya": 31,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 96,
+  "fields": {
+    "name": "BENCHACHOUA NADIA (PARA)",
+    "wilaya": 31,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 97,
+  "fields": {
+    "name": "BOUDIEB ABDELKADER (PARA)",
+    "wilaya": 31,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 98,
+  "fields": {
+    "name": "BK PARADIS (PARA)",
+    "wilaya": 48,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 99,
+  "fields": {
+    "name": "EL ATTAF PARA COS (PARA)",
+    "wilaya": 48,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 100,
+  "fields": {
+    "name": "BAHRAM ETS (PARA)",
+    "wilaya": 13,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 101,
+  "fields": {
+    "name": "SOLTANI YOUNES (PARA)",
+    "wilaya": 13,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 102,
+  "fields": {
+    "name": "LEADER PHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 103,
+  "fields": {
+    "name": "Bk sant�",
+    "wilaya": 9,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 104,
+  "fields": {
+    "name": "PACO CENTER",
+    "wilaya": 25,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 106,
+  "fields": {
+    "name": "M.N.R PARAPHARM",
+    "wilaya": 22,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 107,
+  "fields": {
+    "name": "ALGER",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 108,
+  "fields": {
+    "name": "ORAN",
+    "wilaya": 31,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 109,
+  "fields": {
+    "name": "DJELFA/TIARET",
+    "wilaya": 17,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 110,
+  "fields": {
+    "name": "MASCARA",
+    "wilaya": 29,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 111,
+  "fields": {
+    "name": "GHELIZANE",
+    "wilaya": 48,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 112,
+  "fields": {
+    "name": "SNC PARAPHARM",
+    "wilaya": 19,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 113,
+  "fields": {
+    "name": "MERAD PHARM",
+    "wilaya": 19,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 114,
+  "fields": {
+    "name": "BENAADA NAAIME",
+    "wilaya": 6,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 115,
+  "fields": {
+    "name": "SARL AVENIR",
+    "wilaya": 25,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 116,
+  "fields": {
+    "name": "PARAPHYTO COS",
+    "wilaya": 39,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 117,
+  "fields": {
+    "name": "EASY  PARAPHARM",
+    "wilaya": 5,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 118,
+  "fields": {
+    "name": "OXALIS PARA",
+    "wilaya": 28,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 119,
+  "fields": {
+    "name": "ADP PHAR PARA",
+    "wilaya": 15,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 120,
+  "fields": {
+    "name": "CPM PARACOS TIZI",
+    "wilaya": 15,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 121,
+  "fields": {
+    "name": "TAZEGART PHARM",
+    "wilaya": 15,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 122,
+  "fields": {
+    "name": "HADJI PHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 123,
+  "fields": {
+    "name": "EL MANCIF MED",
+    "wilaya": 9,
+    "supergro": false,
+    "related_client": 3
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 124,
+  "fields": {
+    "name": "NABI SALIM",
+    "wilaya": 9,
+    "supergro": false,
+    "related_client": 3
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 125,
+  "fields": {
+    "name": "para djas",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 126,
+  "fields": {
+    "name": "oran telmcen",
+    "wilaya": 31,
+    "supergro": false,
+    "related_client": 7
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 127,
+  "fields": {
+    "name": "oran-SBA",
+    "wilaya": 31,
+    "supergro": false,
+    "related_client": 7
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 128,
+  "fields": {
+    "name": "MASCAR-ORAN",
+    "wilaya": 29,
+    "supergro": false,
+    "related_client": 7
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 129,
+  "fields": {
+    "name": "SETIF",
+    "wilaya": 19,
+    "supergro": false,
+    "related_client": 11
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 130,
+  "fields": {
+    "name": "CONSTANTINE",
+    "wilaya": 25,
+    "supergro": false,
+    "related_client": 11
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 131,
+  "fields": {
+    "name": "BATNA",
+    "wilaya": 5,
+    "supergro": false,
+    "related_client": 11
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 132,
+  "fields": {
+    "name": "SIDI BEL ABBES",
+    "wilaya": 22,
+    "supergro": false,
+    "related_client": 8
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 133,
+  "fields": {
+    "name": "ABDALHAMID BAKHTARI",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 134,
+  "fields": {
+    "name": "COSMI BELLEM",
+    "wilaya": 35,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 135,
+  "fields": {
+    "name": "BOUAZZA MOKHTAR",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 136,
+  "fields": {
+    "name": "BOUTICHE YACINE",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 137,
+  "fields": {
+    "name": "BZ PHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 138,
+  "fields": {
+    "name": "MM PHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 139,
+  "fields": {
+    "name": "ALILICHE ABD KADER",
+    "wilaya": 9,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 140,
+  "fields": {
+    "name": "MACHOU",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 141,
+  "fields": {
+    "name": "KHELAFIA ABDELGHANI",
+    "wilaya": 39,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 142,
+  "fields": {
+    "name": "MERRAH ABDESSELA",
+    "wilaya": 9,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 143,
+  "fields": {
+    "name": "BEKKAIR MEHDI",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 144,
+  "fields": {
+    "name": "YASMINE PHARM",
+    "wilaya": 35,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 145,
+  "fields": {
+    "name": "2P 2H",
+    "wilaya": 35,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 146,
+  "fields": {
+    "name": "DJAMEL VIGAROX",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 147,
+  "fields": {
+    "name": "SARL PARA ONE",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 148,
+  "fields": {
+    "name": "SEFAOUI",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 149,
+  "fields": {
+    "name": "LILIUM PHARMA ALG",
+    "wilaya": 16,
+    "supergro": true,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 150,
+  "fields": {
+    "name": "ALGER",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 149
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 151,
+  "fields": {
+    "name": "TIZI OUZOU",
+    "wilaya": 15,
+    "supergro": false,
+    "related_client": 149
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 152,
+  "fields": {
+    "name": "EL OUED",
+    "wilaya": 39,
+    "supergro": false,
+    "related_client": 149
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 153,
+  "fields": {
+    "name": "BOUMERDES",
+    "wilaya": 35,
+    "supergro": false,
+    "related_client": 5
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 154,
+  "fields": {
+    "name": "BEDJAIA",
+    "wilaya": 6,
+    "supergro": false,
+    "related_client": 9
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 155,
+  "fields": {
+    "name": "BISKRA",
+    "wilaya": 7,
+    "supergro": false,
+    "related_client": 9
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 156,
+  "fields": {
+    "name": "MSILA",
+    "wilaya": 28,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 157,
+  "fields": {
+    "name": "TEBESSA",
+    "wilaya": 12,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 159,
+  "fields": {
+    "name": "EULMA",
+    "wilaya": 19,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 160,
+  "fields": {
+    "name": "GUELMA",
+    "wilaya": 24,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 161,
+  "fields": {
+    "name": "R.S DISTRIBUTION",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 162,
+  "fields": {
+    "name": "BELADJAL FAROUK",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 163,
+  "fields": {
+    "name": "ACP PHARME",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 164,
+  "fields": {
+    "name": "MRK PARAPHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 165,
+  "fields": {
+    "name": "BEKKAIR HANANE",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 166,
+  "fields": {
+    "name": "DELICI ABDELHAKIM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 167,
+  "fields": {
+    "name": "ADIM HAFIDA",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 168,
+  "fields": {
+    "name": "PHARMILLY",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 169,
+  "fields": {
+    "name": "SK PHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 170,
+  "fields": {
+    "name": "CHERAZ PHARMA",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 171,
+  "fields": {
+    "name": "ORAN",
+    "wilaya": 25,
+    "supergro": true,
+    "related_client": 172
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 172,
+  "fields": {
+    "name": "NADA SUPER GRO",
+    "wilaya": 25,
+    "supergro": true,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 173,
+  "fields": {
+    "name": "HADIL MOSTAGAEM",
+    "wilaya": 27,
+    "supergro": true,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 174,
+  "fields": {
+    "name": "ORAN",
+    "wilaya": 31,
+    "supergro": true,
+    "related_client": 173
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 175,
+  "fields": {
+    "name": "KHELOUAT FAZIA EPSE ZERGURRA",
+    "wilaya": 15,
+    "supergro": false,
+    "related_client": 3
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 176,
+  "fields": {
+    "name": "EL EULMA",
+    "wilaya": 19,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 177,
+  "fields": {
+    "name": "BEJAIA",
+    "wilaya": 6,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 178,
+  "fields": {
+    "name": "ETS BELAID SAMIRA",
+    "wilaya": 80,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 179,
+  "fields": {
+    "name": "GNPEP OMAIMA SAIHI",
+    "wilaya": 80,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 180,
+  "fields": {
+    "name": "SAMIR PICTOLE",
+    "wilaya": 80,
+    "supergro": false,
+    "related_client": 4
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 181,
+  "fields": {
+    "name": "SAID PHARM",
+    "wilaya": 80,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 182,
+  "fields": {
+    "name": "AMANA SOIN ET SANTE",
+    "wilaya": 80,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 183,
+  "fields": {
+    "name": "KANAMED",
+    "wilaya": 80,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 184,
+  "fields": {
+    "name": "BELAID SADAT",
+    "wilaya": 80,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 185,
+  "fields": {
+    "name": "SARL AVENIR OFFICINA PARAPHARM",
+    "wilaya": 19,
+    "supergro": false,
+    "related_client": 10
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 186,
+  "fields": {
+    "name": "SARL LAVA",
+    "wilaya": 30,
+    "supergro": false,
+    "related_client": 10
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 187,
+  "fields": {
+    "name": "CHOUROUK PARM",
+    "wilaya": 19,
+    "supergro": false,
+    "related_client": 10
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 188,
+  "fields": {
+    "name": "EL HIDHAB",
+    "wilaya": 19,
+    "supergro": false,
+    "related_client": 10
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 189,
+  "fields": {
+    "name": "MERZOUGUI FOUAD",
+    "wilaya": 5,
+    "supergro": false,
+    "related_client": 10
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 190,
+  "fields": {
+    "name": "EURL EL FADL PHARM",
+    "wilaya": 19,
+    "supergro": false,
+    "related_client": 10
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 191,
+  "fields": {
+    "name": "PARAPHARM MOUYET",
+    "wilaya": 34,
+    "supergro": false,
+    "related_client": 10
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 192,
+  "fields": {
+    "name": "CHAHD PHARM",
+    "wilaya": 28,
+    "supergro": false,
+    "related_client": 10
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 193,
+  "fields": {
+    "name": "ATTOUT DJAMEL PARAPHARM",
+    "wilaya": 19,
+    "supergro": false,
+    "related_client": 10
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 194,
+  "fields": {
+    "name": "SARL PARAPHARM STREET ANNABA",
+    "wilaya": 23,
+    "supergro": false,
+    "related_client": 10
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 195,
+  "fields": {
+    "name": "OXALIS PARAPHARM",
+    "wilaya": 28,
+    "supergro": false,
+    "related_client": 10
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 196,
+  "fields": {
+    "name": "IGRECPHARM",
+    "wilaya": 25,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 197,
+  "fields": {
+    "name": "RAMO VITE PARA",
+    "wilaya": 25,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 198,
+  "fields": {
+    "name": "AKACHA SOUHEIB",
+    "wilaya": 43,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 199,
+  "fields": {
+    "name": "ETS KERRI ABD",
+    "wilaya": 34,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 200,
+  "fields": {
+    "name": "SNC AL MADINA",
+    "wilaya": 28,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 201,
+  "fields": {
+    "name": "OUEZNA PHARM",
+    "wilaya": 12,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 202,
+  "fields": {
+    "name": "EURL SUD PHARM",
+    "wilaya": 7,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 203,
+  "fields": {
+    "name": "GOOD SANTE PARA",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 204,
+  "fields": {
+    "name": "DELTA BIOMEDIC",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 205,
+  "fields": {
+    "name": "ETS BOUKHOUBZA PARA",
+    "wilaya": 2,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 206,
+  "fields": {
+    "name": "H PARADISE",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 207,
+  "fields": {
+    "name": "SENNOUR SARA",
+    "wilaya": 13,
+    "supergro": false,
+    "related_client": 78
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 208,
+  "fields": {
+    "name": "kahoul yazid",
+    "wilaya": 80,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 209,
+  "fields": {
+    "name": "MERAH abdesselam",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 210,
+  "fields": {
+    "name": "MEDIKAB PHARM",
+    "wilaya": 80,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 211,
+  "fields": {
+    "name": "ETS BAHRAM",
+    "wilaya": 80,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 212,
+  "fields": {
+    "name": "GPC SIFAOUI ABDENNOUR",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 213,
+  "fields": {
+    "name": "PARA COL",
+    "wilaya": 80,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 214,
+  "fields": {
+    "name": "euro RAMO VIT PARA PHARM",
+    "wilaya": 25,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 215,
+  "fields": {
+    "name": "SARL OXY PARAPHARM",
+    "wilaya": 13,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 216,
+  "fields": {
+    "name": "M.N.R PARAPHARM",
+    "wilaya": 22,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 217,
+  "fields": {
+    "name": "SARL SMPRO PARAPHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 12
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 218,
+  "fields": {
+    "name": "SARL PISTA PHARM",
+    "wilaya": 80,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 219,
+  "fields": {
+    "name": "SARL MEDIPHARM PLUS",
+    "wilaya": 25,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 220,
+  "fields": {
+    "name": "ETS ALLA PHARM",
+    "wilaya": 17,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 221,
+  "fields": {
+    "name": "SNC AIT ABBAS ET CIE",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 222,
+  "fields": {
+    "name": "CHARK COS",
+    "wilaya": 5,
+    "supergro": false,
+    "related_client": 11
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 223,
+  "fields": {
+    "name": "BOUDERBALA SIHEM LATIFA",
+    "wilaya": 80,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 224,
+  "fields": {
+    "name": "FADI PHARM",
+    "wilaya": 28,
+    "supergro": false,
+    "related_client": 11
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 225,
+  "fields": {
+    "name": "AIT ABESS PARAPHARM",
+    "wilaya": 15,
+    "supergro": false,
+    "related_client": 11
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 226,
+  "fields": {
+    "name": "HH PHARM KHELLAF ANIS ADLEN",
+    "wilaya": 35,
+    "supergro": false,
+    "related_client": 11
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 227,
+  "fields": {
+    "name": "ATTOUT PARAPHARM",
+    "wilaya": 19,
+    "supergro": false,
+    "related_client": 11
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 228,
+  "fields": {
+    "name": "NECTAR DU DJASMIN TADRIST",
+    "wilaya": 15,
+    "supergro": false,
+    "related_client": 11
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 229,
+  "fields": {
+    "name": "ALALEI",
+    "wilaya": 39,
+    "supergro": false,
+    "related_client": 11
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 230,
+  "fields": {
+    "name": "HC DISTRIBUTION",
+    "wilaya": 25,
+    "supergro": false,
+    "related_client": 11
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 231,
+  "fields": {
+    "name": "CODIYEF",
+    "wilaya": 15,
+    "supergro": false,
+    "related_client": 3
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 232,
+  "fields": {
+    "name": "AKBOU PARAPHARMACIE",
+    "wilaya": 6,
+    "supergro": false,
+    "related_client": 3
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 233,
+  "fields": {
+    "name": "PARAPREMIUM",
+    "wilaya": 16,
+    "supergro": true,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 235,
+  "fields": {
+    "name": "ouargla",
+    "wilaya": 30,
+    "supergro": false,
+    "related_client": 10
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 236,
+  "fields": {
+    "name": "CHELIA PARA",
+    "wilaya": 5,
+    "supergro": false,
+    "related_client": 10
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 237,
+  "fields": {
+    "name": "PROFIMED",
+    "wilaya": 5,
+    "supergro": false,
+    "related_client": 10
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 238,
+  "fields": {
+    "name": "ARWA PHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": null
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 239,
+  "fields": {
+    "name": "PLANETE PHARM",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 6
+  }
+},
+{
+  "model": "clients.client",
+  "pk": 240,
+  "fields": {
+    "name": "PHARMA PLUS",
+    "wilaya": 16,
+    "supergro": false,
+    "related_client": 4
+  }
+}
+]
